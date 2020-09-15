@@ -114,9 +114,11 @@ Amigoscode
 # Source Control  
 
 ## Git
-1. [Git Basic Training](https://www.youtube.com/playlist?list=PLsMIccp52YRtH-uTcqPf5H1RtNN_swNc8)
-2. [Awesome Git Exerises by Alliedium](awesome-git-exercises.md)
-3. [Git exercies online by fracz](https://gitexercises.fracz.com)
+
+1. [Git Tutorial - Learn Git in 1 Hour by Mosh](https://www.youtube.com/watch?v=8JJ101D3knE)
+2. [Git Basic Training](https://www.youtube.com/playlist?list=PLsMIccp52YRtH-uTcqPf5H1RtNN_swNc8)
+3. [Awesome Git Exerises by Alliedium](awesome-git-exercises.md)
+4. [Git exercies online by fracz](https://gitexercises.fracz.com)
 
 # Security
 
@@ -148,44 +150,54 @@ Amigoscode
 6. [Boosting Jira Cloud App Development with Apache Ignite and Spring Boot](https://medium.com/alliedium/boosting-jira-cloud-app-development-with-apache-ignite-7eebc7bb3d48)
 
 # Programming Languages
+
 ## Java
 1. [Java Overview by FoxMinded](https://www.youtube.com/watch?v=w2Vb-VSUPBA)
 2. [Java Tutorial for Beginners by Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
 3. [Java For Beginners by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU)
 4. [Why it is bad to return NULL in Java](https://www.youtube.com/watch?v=QwycPnpp6uQ)
 5. Thinking in Java, Bruce Eckel, 4th edition
+6. [Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
-## Java Frameworks
+### Java Frameworks
 
 1. [Which Java Frameworks you should know by FoxMinded](https://www.youtube.com/watch?v=GbALlmGg0vc)
 
-### Java Collections Framework
+#### Java Collections Framework
 1. [Java Collections Framework official documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
 
 
-### TestNG
+#### ExecutorService
+1. [ExecutorService - 10 tips and tricks](https://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html)
+2. [InterruptedException and interrupting threads explained](https://www.nurkiewicz.com/2014/05/interruptedexception-and-interrupting.html)
+
+#### TestNG
 1. [Introduction to TestNG](https://medium.com/gradeup/introduction-to-testng-7f401811f48c)
 2. [Why TestNG is better than JUnit](https://medium.com/@kavinduvsomadasa/test-automation-with-testng-using-page-object-modeling-b0d8dc272438)
 3. [Java Unit Testing with TestNG and Mockito](https://www.youtube.com/watch?v=4d8D47cMvZo)
 
-### Mockito
+#### Mockito
 1. [Unit Tests with Mockito: Tutorial](https://www.vogella.com/tutorials/Mockito/article.html)
 2. [Usage of Mockito](https://medium.com/art-of-coding/usage-of-mockito-674db441a334)
 3. [Mocking with Mockito: advanced techniques](https://medium.com/trabe/mocking-with-mockito-advanced-techniques-3a4e5143c2ba)
 
-### Serenity BDD
+#### Serenity BDD
 1. [How to implement test automation using Serenity](https://medium.com/@pratikbarjatya/how-i-implemented-test-automation-using-serenity-22a734bae78e)
 2. [Serenity BDD official documntation](http://serenity-bdd.info/docs/serenity/)
 3. [JBehave vs Cucumber JVM comparison](https://medium.com/agile-vision/jbehave-vs-cucumber-jvm-comparison-and-experience-sharing-439dfdf5922d)
 
-### Hibernate
+#### Hibernate
 1. [Getting started with Hibernate](https://www.youtube.com/watch?v=6TPDK6MOkz4)
 2. [Hibernate Tutorial, Full Course](https://www.youtube.com/watch?v=JR7-EdxDSf0)
 3. https://hibernate.org
 
-### Spring Boot
+#### Spring Boot
 1. [Spring Boot Tutorial for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=vtPkZShrvXQ)
 2. [Boosting Jira Cloud App Development with Apache Ignite and Spring Boot](https://medium.com/alliedium/boosting-jira-cloud-app-development-with-apache-ignite-7eebc7bb3d48)
+
+#### Spring Boot Dev Tools
+1. [Faster Development with Spring Boot DevTools](https://www.vojtechruzicka.com/spring-boot-devtools/)
+2. [Optimize Your Dev Loop with Spring Boot Dev Tools](https://reflectoring.io/spring-boot-dev-tools/)
 
 
 # JavaScript
