@@ -31,6 +31,7 @@
 3. [Design patterns (full)](https://www.youtube.com/playlist?list=PLmqFxxywkatSzlcVEJTsMqZ1ObLO6vqCe)
 4. [Design patterns (brief)](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
 5. [Java Design Patterns - online catalog](https://java-design-patterns.com/patterns/observer/)
+6. [The Builder pattern vs Java syntax](https://bsideup.github.io/posts/builders_vs_java/)
 
 ## Clean Architecture
 1. Clean Architecture, A Craftsman's Guide to Software Structure And Design, Robert C. Martin
