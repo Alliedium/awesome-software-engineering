@@ -115,6 +115,8 @@ Amigoscode
 
 ## Git
 1. [Git Basic Training](https://www.youtube.com/playlist?list=PLsMIccp52YRtH-uTcqPf5H1RtNN_swNc8)
+2. [Awesome Git Exerises by Alliedium](awesome-git-exercises.md)
+3. [Git exercies online by fracz](https://gitexercises.fracz.com)
 
 # Security
 
