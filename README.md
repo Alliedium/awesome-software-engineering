@@ -134,6 +134,7 @@ Amigoscode
 ## Maven
 1. [Simple Explanation of Maven and pom.xml](https://www.youtube.com/watch?v=KNGQ9JBQWhQ)
 2. [Maven Tutorial](https://medium.com/edureka/maven-tutorial-2e87a4669faf)
+3. [Multi-Module Maven Project by Baeldung](https://www.baeldung.com/maven-multi-module)
 
 
 # Databases
