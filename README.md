@@ -229,8 +229,9 @@ Amigoscode
 4. [Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
 
 ### Kubernetes 
-1. [Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
-2. [Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
+1. [Minikube Basics and How to Get Started with Kubernetes by Peter Jausovec](https://www.youtube.com/watch?v=FacPam4bwRk)
+2. [Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+3. [Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
 
 ## Jenkins
 1. [Jenkins Pipeline Tutorial](https://medium.com/edureka/jenkins-pipeline-tutorial-continuous-delivery-75a86936bc92)
