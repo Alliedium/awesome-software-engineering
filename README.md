@@ -27,21 +27,21 @@
 
 ## Design Patterns
 1. [:film_strip: Design Patterns by Mosh](https://www.youtube.com/watch?v=NU_1StN5Tkk)
-2. Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+2. :book: Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 3. [:film_strip: Design patterns (full)](https://www.youtube.com/playlist?list=PLmqFxxywkatSzlcVEJTsMqZ1ObLO6vqCe)
 4. [:film_strip: Design patterns (brief)](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
 5. [:scroll: Java Design Patterns - online catalog](https://java-design-patterns.com/patterns/observer/)
 
 ## Clean Architecture
-1. Clean Architecture, A Craftsman's Guide to Software Structure And Design, Robert C. Martin
+1. :book: Clean Architecture, A Craftsman's Guide to Software Structure And Design, Robert C. Martin
 2. [:film_strip: SOLID principles & Architecture: a lecture from FPMI](https://www.youtube.com/watch?v=XjGbg-N4sQc&t=1393s)
 
 ## Clean Code
 1. [:film_strip: Clean Code lecture by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatSQoLnnkh7-XjIcGdmo28aJ)
-2. Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin
+2. :book: Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin
 
 ## Refactoring
-1. Refactoring: Improving the Design of Existing Code, Martin Fowler, Kent Beck, 2st edition
+1. :book: Refactoring: Improving the Design of Existing Code, Martin Fowler, Kent Beck, 2st edition
 2. [:film_strip: Refactoring lectures by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR5zj5M4WdUyyKyLoJSZZrQ)
 
 ## OOP
@@ -157,7 +157,7 @@ Amigoscode
 2. [:film_strip: Java Tutorial for Beginners by Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
 3. [:film_strip: Java For Beginners by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU)
 4. [:film_strip: Why it is bad to return NULL in Java](https://www.youtube.com/watch?v=QwycPnpp6uQ)
-5. Thinking in Java, Bruce Eckel, 4th edition
+5. :book: Thinking in Java, Bruce Eckel, 4th edition
 6. [:scroll: Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
 ### Java Frameworks
