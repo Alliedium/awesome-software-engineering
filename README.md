@@ -219,6 +219,7 @@ Amigoscode
 1. [DevOps explained by IBM](https://www.youtube.com/playlist?list=PLOspHqNVtKAAm1dmyiR9WMmw1UBoOwZVj)
 2. [What is DevOps, DevOps lifecycle](https://medium.com/edureka/devops-lifecycle-8412a213a654)
 3. [Continuous Delivery vs Continuous Deployment](https://medium.com/edureka/continuous-delivery-vs-continuous-deployment-5375642865a)
+4. [DevOps exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises)
 
 ## Containers and Container Orchestration
 ### Docker
