@@ -215,21 +215,22 @@ Amigoscode
 1. [Python Crash Course by Mosh](https://www.youtube.com/watch?v=f79MRyMsjrQ&list=RDCMUCWv7vMbMWH4-V0ZXdmDpPBA)
 
 
-# Containers and Container Orchestration
-## Docker
-1. [Docker basics](https://www.youtube.com/watch?v=yrmty10Q7NQ)
-2. [Docker Interview Questions](https://medium.com/edureka/docker-interview-questions-da0010bedb75)
-3. [Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
-4. [Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
-
-## Kubernetes 
-1. [Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
-
-
 # DevOps
 1. [DevOps explained by IBM](https://www.youtube.com/playlist?list=PLOspHqNVtKAAm1dmyiR9WMmw1UBoOwZVj)
 2. [What is DevOps, DevOps lifecycle](https://medium.com/edureka/devops-lifecycle-8412a213a654)
 3. [Continuous Delivery vs Continuous Deployment](https://medium.com/edureka/continuous-delivery-vs-continuous-deployment-5375642865a)
+
+## Containers and Container Orchestration
+### Docker
+1. [Docker basics](https://www.youtube.com/watch?v=yrmty10Q7NQ)
+2. [Docker Interview Questions](https://medium.com/edureka/docker-interview-questions-da0010bedb75)
+3. [Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
+4. [Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
+4. [Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
+
+### Kubernetes 
+1. [Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+2. [Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
 
 ## Jenkins
 1. [Jenkins Pipeline Tutorial](https://medium.com/edureka/jenkins-pipeline-tutorial-continuous-delivery-75a86936bc92)
