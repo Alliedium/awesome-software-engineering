@@ -10,6 +10,9 @@
 1. [:film_strip: How to Review Someone Else's Code by Codecademy](https://www.youtube.com/watch?v=TlXy_i27N3w)
 2. [:film_strip: Code Review Best Practices by JetBrains](https://www.youtube.com/watch?v=a9_0UUUNt-Y)
 
+## Code Style 
+1. [:scroll: Code style as a standard of software development](https://habr.com/ru/company/manychat/blog/468953/)
+
 ## Data Structures and Algos
 1. [:film_strip: Data Structures and Algorithms by Mosh](https://www.youtube.com/watch?v=BBpAmxU_NQo)
 
@@ -130,13 +133,6 @@ Amigoscode
 2. [:film_strip: Iptables detailed tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRsuYa7QOZIy7OsnaIyQZB7_)
 
 
-# Build Tools
-## Maven
-1. [:film_strip: Simple Explanation of Maven and pom.xml](https://www.youtube.com/watch?v=KNGQ9JBQWhQ)
-2. [:scroll: Maven Tutorial](https://medium.com/edureka/maven-tutorial-2e87a4669faf)
-3. [:scroll: Multi-Module Maven Project by Baeldung](https://www.baeldung.com/maven-multi-module)
-
-
 # Databases
 
 ## SQL
@@ -159,6 +155,19 @@ Amigoscode
 4. [:film_strip: Why it is bad to return NULL in Java](https://www.youtube.com/watch?v=QwycPnpp6uQ)
 5. :book: Thinking in Java, Bruce Eckel, 4th edition
 6. [:scroll: Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+
+## Code Style
+1  [:scroll: Checkstyle is a tool for enforcing a Code Standard in Java](https://github.com/checkstyle/checkstyle)
+2. [:scroll: Jenkins Warnings Next Generation Plugin](https://github.com/jenkinsci/warnings-ng-plugin)
+3. [:scroll: How to Centralize your Checkstyle Configuration with Maven](https://codeburst.io/how-to-centralize-your-checkstyle-configuration-with-maven-7575eacd7295)
+
+## Build Tools
+### Maven
+1. [:film_strip: Simple Explanation of Maven and pom.xml](https://www.youtube.com/watch?v=KNGQ9JBQWhQ)
+2. [:scroll: Maven Tutorial](https://medium.com/edureka/maven-tutorial-2e87a4669faf)
+3. [:scroll: Multi-Module Maven Project by Baeldung](https://www.baeldung.com/maven-multi-module)
+
+
 
 ### Java Frameworks
 
