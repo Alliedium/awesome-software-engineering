@@ -30,6 +30,7 @@
 11. [:scroll: GRASP Design Principles by Krzysztof Kwieciński](https://medium.com/@k.d.kwiecinski/grasp-design-principles-de98cae2196c)
 12. [:scroll: What are General Responsibility Assignment Software Patterns? by Jakub Kapuscik](https://levelup.gitconnected.com/what-are-general-responsibility-assignment-software-patterns-6ad9635a44da)
 13. [:scroll: Object-oriented design: GRASP patterns by J.Serrat](http://www.cvc.uab.es/shared/teach/a21291/temes/object_oriented_design/slides/handouts/GRASP_patterns.pdf)
+14. [:scroll: ADVANCED SOFTWARE DESIGN: GRASP, SOLID, YAGNI, DRY, KISS, OTHER PRINCIPLES BY Dave Clarke](http://www.it.uu.se/edu/course/homepage/asd/ht14/Lecture%204.pdf)
 
 
 ## Design Patterns
