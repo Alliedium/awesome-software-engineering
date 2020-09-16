@@ -51,6 +51,8 @@
 ## Refactoring
 1. :book: Refactoring: Improving the Design of Existing Code, Martin Fowler, Kent Beck, 2st edition
 2. [:film_strip: Refactoring lectures by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR5zj5M4WdUyyKyLoJSZZrQ)
+3. [:scroll: The Art of Refactoring: 5 Tips to Write Better Code](https://medium.com/better-programming/the-art-of-refactoring-5-tips-to-write-better-code-3bc1f6f7689)
+4. [:scroll: Code Refactoring Best Practices: When (and When Not) to Do It](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/)
 
 ## OOP
 1. [:film_strip: OOP explained by Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
