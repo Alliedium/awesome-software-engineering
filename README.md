@@ -242,7 +242,7 @@ Amigoscode
 6. [:film_strip: React Unit Testing](https://www.youtube.com/watch?v=3e1GHCA3GP0)
 
 # Python
-1. [:film_strip: Python Crash Course by Mosh](https://www.youtube.com/watch?v=f79MRyMsjrQ&list=RDCMUCWv7vMbMWH4-V0ZXdmDpPBA)
+1. [:film_strip: Python Tutorial - Python for Beginners [2020]](https://www.youtube.com/watch?v=f79MRyMsjrQ&list=RDCMUCWv7vMbMWH4-V0ZXdmDpPBA)
 
 
 # DevOps
