@@ -178,47 +178,47 @@ Amigoscode
 
 
 
-### Java Frameworks
+## Java Frameworks
 
 1. [:film_strip: Which Java Frameworks you should know by FoxMinded](https://www.youtube.com/watch?v=GbALlmGg0vc)
 
-#### Java Collections Framework
+### Java Collections Framework
 1. [:scroll: Java Collections Framework official documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
 
 
-#### ExecutorService
+### ExecutorService
 1. [:scroll: ExecutorService - 10 tips and tricks](https://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html)
 2. [:scroll: InterruptedException and interrupting threads explained](https://www.nurkiewicz.com/2014/05/interruptedexception-and-interrupting.html)
 
-#### TestNG
+### TestNG
 1. [:scroll: Introduction to TestNG](https://medium.com/gradeup/introduction-to-testng-7f401811f48c)
 2. [:scroll: Why TestNG is better than JUnit](https://medium.com/@kavinduvsomadasa/test-automation-with-testng-using-page-object-modeling-b0d8dc272438)
 3. [:film_strip: Java Unit Testing with TestNG and Mockito](https://www.youtube.com/watch?v=4d8D47cMvZo)
 
-#### Mockito
+### Mockito
 1. [:scroll: Unit Tests with Mockito: Tutorial](https://www.vogella.com/tutorials/Mockito/article.html)
 2. [:scroll: Usage of Mockito](https://medium.com/art-of-coding/usage-of-mockito-674db441a334)
 3. [:scroll: Mocking with Mockito: advanced techniques](https://medium.com/trabe/mocking-with-mockito-advanced-techniques-3a4e5143c2ba)
 
-#### Serenity BDD
+### Serenity BDD
 1. [:scroll: How to implement test automation using Serenity](https://medium.com/@pratikbarjatya/how-i-implemented-test-automation-using-serenity-22a734bae78e)
 2. [:scroll: Serenity BDD official documntation](http://serenity-bdd.info/docs/serenity/)
 3. [:scroll: JBehave vs Cucumber JVM comparison](https://medium.com/agile-vision/jbehave-vs-cucumber-jvm-comparison-and-experience-sharing-439dfdf5922d)
 
-#### Hibernate
+### Hibernate
 1. [:film_strip: What is JDBC? What is ORM, Hibernate & JPA? by FoxMinded](https://www.youtube.com/watch?v=vAv0zaXGbFo)
 2. [:film_strip: Getting started with Hibernate](https://www.youtube.com/watch?v=6TPDK6MOkz4)
 3. [:film_strip: Spring Boot JPA(Hibernate): let's add a database to our Java-based website by letsCode](https://www.youtube.com/watch?v=nyFLX3q3poY&list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk&index=4)
 4. [:film_strip: Hibernate Tutorial, Full Course](https://www.youtube.com/watch?v=JR7-EdxDSf0)
 
 
-#### Spring Boot
+### Spring Boot
 1. [:film_strip: Spring Boot Tutorial for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=vtPkZShrvXQ)
 2. [:film_strip: Comparing Spring and JavaEE by FoxMinded](https://www.youtube.com/watch?v=HMT6jgZ5Pls)
 3. [:film_strip: Spring Boot 2: let us build a simple website together! by letsCode](https://www.youtube.com/playlist?list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)
 4. [:scroll: Boosting Jira Cloud App Development with Apache Ignite and Spring Boot](https://medium.com/alliedium/boosting-jira-cloud-app-development-with-apache-ignite-7eebc7bb3d48)
 
-#### Spring Boot Dev Tools
+### Spring Boot Dev Tools
 1. [:scroll: Faster Development with Spring Boot DevTools](https://www.vojtechruzicka.com/spring-boot-devtools/)
 2. [:scroll: Optimize Your Dev Loop with Spring Boot Dev Tools](https://reflectoring.io/spring-boot-dev-tools/)
 
