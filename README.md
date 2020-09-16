@@ -27,6 +27,9 @@
 8. [:scroll: Low Coupling & High Cohesion by German Gorelkin](https://medium.com/german-gorelkin/low-coupling-high-cohesion-d36369fb1be9)
 9. [:scroll: Low Coupling & High Cohesion by Ammar Verbi Merakli](https://medium.com/the-innovation/pure-functions-high-cohesion-low-coupling-174b0a47ef24)
 10. [:scroll: Demeter's Law: Don't talk to strangers by Carlos Caballero](https://medium.com/better-programming/demeters-law-don-t-talk-to-strangers-87bb4af11694)
+11. [:scroll: GRASP Design Principles by Krzysztof Kwieciński](https://medium.com/@k.d.kwiecinski/grasp-design-principles-de98cae2196c)
+12. [:scroll: What are General Responsibility Assignment Software Patterns? by Jakub Kapuscik](https://levelup.gitconnected.com/what-are-general-responsibility-assignment-software-patterns-6ad9635a44da)
+
 
 ## Design Patterns
 1. [:film_strip: Design Patterns by Mosh](https://www.youtube.com/watch?v=NU_1StN5Tkk)
@@ -197,13 +200,17 @@ Amigoscode
 3. [:scroll: JBehave vs Cucumber JVM comparison](https://medium.com/agile-vision/jbehave-vs-cucumber-jvm-comparison-and-experience-sharing-439dfdf5922d)
 
 #### Hibernate
-1. [:film_strip: Getting started with Hibernate](https://www.youtube.com/watch?v=6TPDK6MOkz4)
-2. [:film_strip: Hibernate Tutorial, Full Course](https://www.youtube.com/watch?v=JR7-EdxDSf0)
-3. https://hibernate.org
+1. [:film_strip: What is JDBC? What is ORM, Hibernate & JPA? by FoxMinded](https://www.youtube.com/watch?v=vAv0zaXGbFo)
+2. [:film_strip: Getting started with Hibernate](https://www.youtube.com/watch?v=6TPDK6MOkz4)
+3. [:film_strip: Spring Boot JPA(Hibernate): let's add a database to our Java-based website by letsCode](https://www.youtube.com/watch?v=nyFLX3q3poY&list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk&index=4)
+4. [:film_strip: Hibernate Tutorial, Full Course](https://www.youtube.com/watch?v=JR7-EdxDSf0)
+
 
 #### Spring Boot
 1. [:film_strip: Spring Boot Tutorial for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=vtPkZShrvXQ)
-2. [:scroll: Boosting Jira Cloud App Development with Apache Ignite and Spring Boot](https://medium.com/alliedium/boosting-jira-cloud-app-development-with-apache-ignite-7eebc7bb3d48)
+2. [:film_strip: Comparing Spring and JavaEE by FoxMinded](https://www.youtube.com/watch?v=HMT6jgZ5Pls)
+3. [:film_strip: Spring Boot 2: let us build a simple website together! by letsCode](https://www.youtube.com/playlist?list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)
+4. [:scroll: Boosting Jira Cloud App Development with Apache Ignite and Spring Boot](https://medium.com/alliedium/boosting-jira-cloud-app-development-with-apache-ignite-7eebc7bb3d48)
 
 #### Spring Boot Dev Tools
 1. [:scroll: Faster Development with Spring Boot DevTools](https://www.vojtechruzicka.com/spring-boot-devtools/)
