@@ -160,7 +160,7 @@ Amigoscode
 6. [:scroll: Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
 ## Code Style
-1  [:scroll: Checkstyle is a tool for enforcing a Code Standard in Java](https://github.com/checkstyle/checkstyle)
+1.  [:scroll: Checkstyle is a tool for enforcing a Code Standard in Java](https://github.com/checkstyle/checkstyle)
 2. [:scroll: Jenkins Warnings Next Generation Plugin](https://github.com/jenkinsci/warnings-ng-plugin)
 3. [:scroll: How to Centralize your Checkstyle Configuration with Maven](https://codeburst.io/how-to-centralize-your-checkstyle-configuration-with-maven-7575eacd7295)
 
