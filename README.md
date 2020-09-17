@@ -14,7 +14,11 @@ A curated list of awesome software engineering resources.
 |[🏁 Debugging](#debugging)|[💪 Testing](#testing)|[🤖 IDEs](#ides)|
 | [🧵 Security](#security) | [🏷️ Programming Languages](#programming-languages) |[🗞️ Databases](#databases) |
 | [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
-| [🧮 DevOps](#devops)| [:red_circle: REST API](#rest-api)  | [🔠 Source Control](#source-control)|
+
+
+| |
+|-|
+|[:red_circle: REST API](#rest-api)  |
 
 
 | | | |
@@ -23,6 +27,7 @@ A curated list of awesome software engineering resources.
 | [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) |
 | [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) |[ :black_nib:GIMP](#gimp) |
 | [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) |
+| [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker) | [:milky_way: Kubernetes](#kubernetes)|
 
 ## Fundamentals
 
@@ -160,7 +165,7 @@ Amigoscode
 5. [:scroll: fzf: Why you should be using fzf, the command line fuzzy finder by Alexey Samoshkin](https://medium.com/free-code-camp/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
 
 ### Tips & Tricks
-1. [Git Bare Repository - A Better Way To Manage Dotfiles by DistroTube](https://www.youtube.com/watch?v=tBoLDpTWVOM) 
+1. [:film_strip: Git Bare Repository - A Better Way To Manage Dotfiles by DistroTube](https://www.youtube.com/watch?v=tBoLDpTWVOM) 
 
 ### Linux Utilities
 1. [:film_strip: Linux Apps I Use Daily by Chris Titus](https://www.youtube.com/watch?v=4R0uqG4NXPA)
@@ -204,7 +209,7 @@ Amigoscode
 
 ### Image Editing
 #### GIMP
-1. [GIMP vs Photoshop | How to Optimize Your Workflow by Chris Titus](https://www.youtube.com/watch?v=X4ZRJnAhmeU)
+1. [:film_strip: GIMP vs Photoshop | How to Optimize Your Workflow by Chris Titus](https://www.youtube.com/watch?v=X4ZRJnAhmeU)
 
 ### Video Editing
 #### Kdenlive
@@ -214,10 +219,10 @@ Amigoscode
 
 ### Text Editing
 #### Vim
-1. [Vim Basics in 8 Minutes by tutorialLinux](https://www.youtube.com/watch?v=ggSyF1SVFr4)
+1. [:film_strip: Vim Basics in 8 Minutes by tutorialLinux](https://www.youtube.com/watch?v=ggSyF1SVFr4)
 
 ### LibreOffice
-1. [Microsoft Office vs LibreOffice | How to Make the Change by Chris Titus](https://www.youtube.com/watch?v=I0jeYe8iNWo)
+1. [:film_strip: Microsoft Office vs LibreOffice | How to Make the Change by Chris Titus](https://www.youtube.com/watch?v=I0jeYe8iNWo)
 
 ## Windows
 1. [:film_strip: 17 Reasons Why I Do Not Use Windows 10 by Chris Titus](https://www.youtube.com/watch?v=TMeeryVlGAY)
@@ -373,10 +378,15 @@ Amigoscode
 4. [:scroll: Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
 5. [:film_strip: Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
 
+#### Ansible
+1. [:film_strip: What Is Ansible? | How Ansible Works? | Ansible Tutorial For Beginners by Simplilearn](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
+2. [:film_strip: You need to learn Ansible RIGHT NOW!! (Linux Automation) by NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs)
+
 #### Kubernetes 
 1. [:film_strip: Minikube Basics and How to Get Started with Kubernetes by Peter Jausovec](https://www.youtube.com/watch?v=FacPam4bwRk)
 2. [:film_strip: Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
-3. [:scroll: Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
+3. [:scroll: ](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73)
+4. [:scroll: Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
 
 ### Jenkins
 1. [:scroll: Jenkins Pipeline Tutorial](https://medium.com/edureka/jenkins-pipeline-tutorial-continuous-delivery-75a86936bc92)
@@ -385,9 +395,9 @@ Amigoscode
 4. [:scroll: Jenkins CheatSheet](https://medium.com/edureka/jenkins-cheat-sheet-e0f7e25558a3)
 5. [:scroll: Jenkins Interview Questions](https://medium.com/edureka/jenkins-interview-questions-7bb54bc8c679)
 
-## REST API
+
+## Networks
+### REST API
 1. [:film_strip: REST API explained by Mosh](https://www.youtube.com/watch?v=SLwpqD8n3d0)
 2. [:film_strip: Autogenerating Swagger Documentation with Node & Express](https://www.youtube.com/watch?v=apouPYPh_as)
 3. [:film_strip: REST API testing via Postman](https://www.youtube.com/watch?v=ZpxjS8ZB0MA)
-
-
