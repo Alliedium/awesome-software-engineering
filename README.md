@@ -83,8 +83,9 @@
 6. [:film_strip: BDD](https://www.youtube.com/watch?v=o4Y--AOoh9k)
 
 ## Methodologies of Software Development
-1. [:film_strip: Phases](https://www.youtube.com/watch?v=ktBw6RZhji0)
-2. [:film_strip: Methodologies](https://www.youtube.com/watch?v=xmJINdHGucw)
+1. [:film_strip: Who is who in Software Development: Developer, QA, BA, PM - who are those people? by FoxMinded](https://www.youtube.com/watch?v=OHPPpRkryfU)
+2. [:film_strip: Phases](https://www.youtube.com/watch?v=ktBw6RZhji0)
+3. [:film_strip: Methodologies](https://www.youtube.com/watch?v=xmJINdHGucw)
 
 ## TTD in Java
 1. Go to "TestNG" and "Mockito" subsections below under "Java Frameworks" section.
