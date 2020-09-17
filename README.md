@@ -74,6 +74,8 @@
 # Debugging
 1. [:film_strip: Debugging, lecture from FPMI, part1](https://www.youtube.com/watch?v=BnTUDLRdjmM&list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
 2. [:film_strip: Debugging, lecture from FPMI, part2](https://www.youtube.com/watch?v=YNEdqUwtS4s&list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
+3. [:scroll: Debugging tips](https://jonskeet.uk/csharp/debugging.html)
+4. [:scroll: 10 Debugging Tips for Beginners: How to Troubleshoot and Fix Your Code Without Pulling Your Hair Out By Hartley Brody](https://blog.hartleybrody.com/debugging-code-beginner/)
 
 # Testing
 1. [:film_strip: Unit Testing in Software Development](https://www.youtube.com/watch?v=KAny2OSYY3Y&list=PLmqFxxywkatQzkUy9qSpY2aaWaY6kZbD4)
