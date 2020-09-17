@@ -4,7 +4,9 @@
 2. [:film_strip: 5 Programming Anti-patterns for Beginners](https://www.youtube.com/watch?v=lQ_rGCL17EE)
 3. [:scroll: Anti-patterns and Code Smells](https://itnext.io/anti-patterns-and-code-smells-46ba1bbdef6d)
 4. [:film_strip: Why it is bad to return NULL in Java](https://www.youtube.com/watch?v=QwycPnpp6uQ)
-5. [:scroll: Software Engineering Anti-patterns catalogue in Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern#Software_engineering)
+5. [:scroll: The Anti Pattern of Getters And Setters by Ajeng Sugiarti](https://medium.com/@ajengs/the-anti-pattern-of-getters-and-setters-22011e0123e9)
+6. [:scroll: Avoid getters and setters whenever possible by scottshipp](https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m)
+7. [:scroll: Software Engineering Anti-patterns catalogue in Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern#Software_engineering)
 
 ## Code Review
 1. [:film_strip: How to Review Someone Else's Code by Codecademy](https://www.youtube.com/watch?v=TlXy_i27N3w)
