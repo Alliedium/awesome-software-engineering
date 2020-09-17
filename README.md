@@ -19,6 +19,16 @@ A curated list of awesome software engineering resources.
 
 
 ## Fundamentals
+
+### OOP
+1. [:film_strip: What is OOP by FoxMinded](https://www.youtube.com/watch?v=M58eiYbM6AE)
+2. [:film_strip: OOP: Incapsulation explained by FoxMinded](https://www.youtube.com/watch?v=EvGi6XDgV7wф)
+3. [:film_strip: OOP: Inheritance explained by FoxMinded](https://www.youtube.com/watch?v=eI0XzQw3V0Q)
+4. [:film_strip: OOP: Polymorphism by explained by FoxMinded](https://www.youtube.com/watch?v=Ay_GwOQWPs8)
+5. [:film_strip: OOP explained by Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+6. [:scroll: Why OOP is not a silver bullet](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+7. [:scroll: Inheritance vs Composition. Which should you use?](https://medium.com/better-programming/inheritance-vs-composition-2fa0cdd2f939) 
+
 ### Common mistakes
 1. [:film_strip: 7 Common mistakes of Junior developers](https://www.youtube.com/watch?v=oH2RJNILkLs)
 2. [:film_strip: 5 Programming Anti-patterns for Beginners](https://www.youtube.com/watch?v=lQ_rGCL17EE)
@@ -66,7 +76,7 @@ A curated list of awesome software engineering resources.
 
 ### Clean Architecture
 1. :book: Clean Architecture, A Craftsman's Guide to Software Structure And Design, Robert C. Martin
-2. [:film_strip: SOLID principles & Architecture: a lecture from FPMI](https://www.youtube.com/watch?v=XjGbg-N4sQc&t=1393s)
+2. [:film_strip: SOLID principles & Architecture: a lecture from FPMI](https://www.youtube.com/watch?v=XjGbg-N4sQc)
 
 ### Clean Code
 1. [:film_strip: Clean Code lecture by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatSQoLnnkh7-XjIcGdmo28aJ)
@@ -78,10 +88,6 @@ A curated list of awesome software engineering resources.
 3. [:scroll: The Art of Refactoring: 5 Tips to Write Better Code](https://medium.com/better-programming/the-art-of-refactoring-5-tips-to-write-better-code-3bc1f6f7689)
 4. [:scroll: Code Refactoring Best Practices: When (and When Not) to Do It](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/)
 
-### OOP
-1. [:film_strip: OOP explained by Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-2. [:scroll: Why OOP is not a silver bullet](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
-3. [:scroll: Inheritance vs Composition. Which should you use?](https://medium.com/better-programming/inheritance-vs-composition-2fa0cdd2f939) 
 
 ## UML & noUML
 
@@ -128,12 +134,21 @@ Amigoscode
 
 ## Linux
 
+1.[:film_strip: Unix philosophy by unixway](https://www.youtube.com/watch?v=ExmBIpgM0kI)
+
+### Linux Distributions
+1. [:film_strip: Which Linux Distribution? | Understanding Linux Distros by Chris Titus](https://www.youtube.com/watch?v=DKFnqAtEOvc)
+2. [:film_strip: Debian vs Arch by Chris Titus](https://www.youtube.com/watch?v=gtdYBc3p5Kw)
+3. [:film_strip: Why Ubuntu is the Devil and Why So Many No Longer Use It by Chris Titus](https://www.youtube.com/watch?v=L7uL50zVZJA)
+
 ### Command line
 
 1. [:film_strip: 15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 1](https://www.youtube.com/watch?v=XK81cfvrElg)
 2. [:film_strip: 15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 2](https://www.youtube.com/watch?v=kVlkgiwiY6w)
 3. [:film_strip: Bash tutorial (we use zsh with a lot of plugins but most of what is shown in this video still applies)](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 
+### Linux Utilities
+1. [:film_strip: Console Utility tmux by unixway](https://www.youtube.com/watch?v=J67U2NKfszM)
 
 ### Arch Linux, Manjaro
 
@@ -142,11 +157,15 @@ Amigoscode
 3. [:film_strip: Arch Linux AUR](https://www.youtube.com/watch?v=kT1NCH45XdI)
 4. [:film_strip: Arch Linux vs Manjaro](https://www.youtube.com/watch?v=8pGmUMZs_Do)
 
+### LVM
+1. [:film_strip: LVM: Theory and practice by unixway](https://www.youtube.com/watch?v=QgUZrLcmJT8)
 
-## SSH 
+### SSH 
 1. [:film_strip: OpenSSH basics](https://www.youtube.com/watch?v=ZzIF43ZeQrc)
 2. [:film_strip: SSH config basics](https://www.youtube.com/watch?v=gZx9yCbQg50)
 
+### ZFS
+1. [:film_strip: ZFS filesystem by unixway](https://www.youtube.com/playlist?list=PLsMIccp52YRvsLuZ6ed-Ytjv1HfpEC30k)
 
 ## Source Control  
 
