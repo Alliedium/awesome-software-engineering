@@ -1,6 +1,23 @@
 # Awesome Software Engineering
 A curated list of awesome software engineering resources.
 
+
+
+## Quick links to sections in this page
+
+| | | |
+|-|-|-|
+|[🔍 Fundamentals](#fundamentals) |[🌀 Common Mistakes](#common-mistakes) | [🎁 Code Review](#code-review)|
+|[⚔  Data Structures and Algos](#data-structures-and-algos) |[💰 Common principles](#common-principles) | [:loop: Design Patterns](#design-patterns)|
+|[:bath:  Clean Code](#clean-code) |[:flashlight: Clean Architecture](#clean-architecture) | [:wrench: Refactoring](#refactoring)|
+|[🔏 UML & noUML](#uml--nouml) | [📜 Software Development Methodologies](#software-development-methodologies)|[:mortar_board:OOP](#oop)|
+|[🏁 Debugging](#debugging)|[💪 Testing](#testing)|[🤖 IDEs](#ides)|
+| [📓 Linux](#linux) | [📊 SSH](#ssh) | [🔠 Source Control](#source-control) |
+| [🧵 Security](#security) | [🏷️ Programming Languages](#programming-languages) |[🗞️ Databases](#databases) |
+| [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
+| [🧮 DevOps](#devops)| [:red_circle: REST API](#rest-api)  | |
+
+
 ## Fundamentals
 ### Common mistakes
 1. [:film_strip: 7 Common mistakes of Junior developers](https://www.youtube.com/watch?v=oH2RJNILkLs)
