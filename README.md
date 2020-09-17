@@ -12,11 +12,15 @@ A curated list of awesome software engineering resources.
 |[:bath:  Clean Code](#clean-code) |[:flashlight: Clean Architecture](#clean-architecture) | [:wrench: Refactoring](#refactoring)|
 |[🔏 UML & noUML](#uml--nouml) | [📜 Software Development Methodologies](#software-development-methodologies)|[:mortar_board:OOP](#oop)|
 |[🏁 Debugging](#debugging)|[💪 Testing](#testing)|[🤖 IDEs](#ides)|
-| [📓 Linux](#linux) | [📊 SSH](#ssh) | [:bookmark: Git](#git) |
 | [🧵 Security](#security) | [🏷️ Programming Languages](#programming-languages) |[🗞️ Databases](#databases) |
 | [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
 | [🧮 DevOps](#devops)| [:red_circle: REST API](#rest-api)  | [🔠 Source Control](#source-control)|
 
+
+| | | |
+|-|-|-|
+| [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) |
+| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:sparkles:: Proxmox](#proxmox) |
 
 ## Fundamentals
 
@@ -200,6 +204,9 @@ Amigoscode
 2. [:film_strip: 2020 Kdenlive Video Tutorials by Victoriano de Jesus](https://www.youtube.com/watch?v=nq`ifJqeiXu0&list=PLnJFu6D59R6L18UGQG4VNE_VIi40v9-Qt)
 3. [:film_strip: Kdenlive Cinematic Title Animation by makinars](https://www.youtube.com/watch?v=wYlGOKXvuco)
 
+### Text Editing
+#### Vim
+1. [Vim Basics in 8 Minutes by tutorialLinux](https://www.youtube.com/watch?v=ggSyF1SVFr4)
 
 ## Windows
 1. [:film_strip: 17 Reasons Why I Do Not Use Windows 10 by Chris Titus](https://www.youtube.com/watch?v=TMeeryVlGAY)
