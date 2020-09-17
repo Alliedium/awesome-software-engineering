@@ -165,7 +165,8 @@ Amigoscode
 5. [:scroll: fzf: Why you should be using fzf, the command line fuzzy finder by Alexey Samoshkin](https://medium.com/free-code-camp/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
 
 ### Tips & Tricks
-1. [:film_strip: Git Bare Repository - A Better Way To Manage Dotfiles by DistroTube](https://www.youtube.com/watch?v=tBoLDpTWVOM) 
+1. [:scroll: Awesome Linux Configuration Scripts by Alliedium](https://github.com/Alliedium/awesome-linux-config)
+2. [:film_strip: Git Bare Repository - A Better Way To Manage Dotfiles by DistroTube](https://www.youtube.com/watch?v=tBoLDpTWVOM) 
 
 ### Linux Utilities
 1. [:film_strip: Linux Apps I Use Daily by Chris Titus](https://www.youtube.com/watch?v=4R0uqG4NXPA)
