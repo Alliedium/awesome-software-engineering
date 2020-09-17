@@ -153,6 +153,7 @@ Amigoscode
 4. [:film_strip: Getting started with Apache Ignite part 4](https://www.youtube.com/watch?v=cVqnNa192NY)
 5. [:film_strip: Moving Apache Ignite into Production: Best Practices for Distributed Transactions](https://www.youtube.com/watch?v=yvMWK-4grYo)
 6. [:scroll: Boosting Jira Cloud App Development with Apache Ignite and Spring Boot](https://medium.com/alliedium/boosting-jira-cloud-app-development-with-apache-ignite-7eebc7bb3d48)
+7. :book: High Performance in-memory computing with Apache Ignite: Building low latency, near real time application, Shamim Ahmed Bhuiyan, Michael Zheludkov and Timur Isachenko
 
 # Programming Languages
 
