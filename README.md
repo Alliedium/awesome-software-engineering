@@ -12,10 +12,10 @@ A curated list of awesome software engineering resources.
 |[:bath:  Clean Code](#clean-code) |[:flashlight: Clean Architecture](#clean-architecture) | [:wrench: Refactoring](#refactoring)|
 |[🔏 UML & noUML](#uml--nouml) | [📜 Software Development Methodologies](#software-development-methodologies)|[:mortar_board:OOP](#oop)|
 |[🏁 Debugging](#debugging)|[💪 Testing](#testing)|[🤖 IDEs](#ides)|
-| [📓 Linux](#linux) | [📊 SSH](#ssh) | [🔠 Source Control](#source-control) |
+| [📓 Linux](#linux) | [📊 SSH](#ssh) | [:bookmark: Git](#git) |
 | [🧵 Security](#security) | [🏷️ Programming Languages](#programming-languages) |[🗞️ Databases](#databases) |
 | [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
-| [🧮 DevOps](#devops)| [:red_circle: REST API](#rest-api)  | |
+| [🧮 DevOps](#devops)| [:red_circle: REST API](#rest-api)  | [🔠 Source Control](#source-control)|
 
 
 ## Fundamentals
