@@ -15,11 +15,9 @@ A curated list of awesome software engineering resources.
 | [🧵 Security](#security) | [🏷️ Programming Languages](#programming-languages) |[🗞️ Databases](#databases) |
 | [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
 
-
 | | |
 |-|-|
 |[:red_circle: REST API](#rest-api)  | 🧩 [GraphQL](#graphql)|
-
 
 | | | |
 |-|-|-|
@@ -28,6 +26,12 @@ A curated list of awesome software engineering resources.
 | [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) |[ :black_nib:GIMP](#gimp) |
 | [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) |
 | [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker) | [:milky_way: Kubernetes](#kubernetes)|
+
+| | |
+|-|-|
+|[🔐 KeePassXC](#KeePassXC)  |  [🗿 iptables](#iptables)|
+
+
 
 ## Fundamentals
 
