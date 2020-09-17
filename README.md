@@ -16,9 +16,9 @@ A curated list of awesome software engineering resources.
 | [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
 
 
-| |
-|-|
-|[:red_circle: REST API](#rest-api)  |
+| | |
+|-|-|
+|[:red_circle: REST API](#rest-api)  | 🧩 [GraphQL](#graphql)|
 
 
 | | | |
@@ -401,3 +401,8 @@ Amigoscode
 1. [:film_strip: REST API explained by Mosh](https://www.youtube.com/watch?v=SLwpqD8n3d0)
 2. [:film_strip: Autogenerating Swagger Documentation with Node & Express](https://www.youtube.com/watch?v=apouPYPh_as)
 3. [:film_strip: REST API testing via Postman](https://www.youtube.com/watch?v=ZpxjS8ZB0MA)
+
+### GraphQL
+1. [:scroll: Introduction to GraphQL by Udara Bibile](https://medium.com/@chathuranga94/introduction-to-graphql-3e0142879aba)
+2. [:scroll: GraphQL With Python Flask by Manish Jain](https://medium.com/@hatemtayeb2/hello-graphql-a-practical-guide-a2f7f9f70ab4)
+3. [:scroll: Schema-First GraphQL: The Road Less Travelled by Jakub Draganek](https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff)
