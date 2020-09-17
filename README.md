@@ -163,13 +163,14 @@ Amigoscode
 
 ## Java
 1. [:film_strip: Java Overview by FoxMinded](https://www.youtube.com/watch?v=w2Vb-VSUPBA)
-2. [:film_strip: What is a Java server, comparison of Java Servers: Tomcat, Jetty, Wildfly, Glassfish, IBM WebSphere, Oracle WebLogic](https://www.youtube.com/watch?v=fCjJgA2ila4)
-3. [:film_strip: Java Tutorial for Beginners by Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
-4. [:film_strip: Java For Beginners by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU)
-5. [:film_strip: Why it is bad to return NULL in Java](https://www.youtube.com/watch?v=QwycPnpp6uQ)
-6. [:film_strip: Never ever use Lombok! Why this library is bad by FoxMinded](https://www.youtube.com/watch?v=tkoFx3fDwz8)
-7. :book: Thinking in Java, Bruce Eckel, 4th edition
-8. [:scroll: Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+2. [:film_strip: Java Application Development: the first steps by FoxMinded](https://www.youtube.com/watch?v=Qku0VoaZ-gE)
+3. [:film_strip: What is a Java server, comparison of Java Servers: Tomcat, Jetty, Wildfly, Glassfish, IBM WebSphere, Oracle WebLogic](https://www.youtube.com/watch?v=fCjJgA2ila4)
+4. [:film_strip: Java Tutorial for Beginners by Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
+5. [:film_strip: Java For Beginners by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU)
+6. [:film_strip: Why it is bad to return NULL in Java](https://www.youtube.com/watch?v=QwycPnpp6uQ)
+7. [:film_strip: Never ever use Lombok! Why this library is bad by FoxMinded](https://www.youtube.com/watch?v=tkoFx3fDwz8)
+8. :book: Thinking in Java, Bruce Eckel, 4th edition
+9. [:scroll: Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
 ## Code Style
 1.  [:scroll: Checkstyle is a tool for enforcing a Code Standard in Java](https://github.com/checkstyle/checkstyle)
