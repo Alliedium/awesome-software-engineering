@@ -73,6 +73,10 @@ A curated list of awesome software engineering resources.
 3. [:scroll: noUML explained, UML criticism by Vladimir Frolov, part1](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369)
 4. [:scroll: noUML explained by Vladimir Frolov, part2](https://medium.com/@volodymyrfrolov/nouml-2-9734a2746258)
 
+## Software Development Methodologies
+1. [:film_strip: Who is who in Software Development: Developer, QA, BA, PM - who are those people? by FoxMinded](https://www.youtube.com/watch?v=OHPPpRkryfU)
+2. [:film_strip: Phases](https://www.youtube.com/watch?v=ktBw6RZhji0)
+3. [:film_strip: Methodologies](https://www.youtube.com/watch?v=xmJINdHGucw)
 
 ## Debugging
 1. [:film_strip: Debugging, lecture from FPMI, part1](https://www.youtube.com/watch?v=BnTUDLRdjmM&list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
@@ -88,10 +92,6 @@ A curated list of awesome software engineering resources.
 5. [:film_strip: TTD crash course](https://www.youtube.com/watch?v=z6gOPonp2t0)
 6. [:film_strip: BDD](https://www.youtube.com/watch?v=o4Y--AOoh9k)
 
-### Methodologies of Software Development
-1. [:film_strip: Who is who in Software Development: Developer, QA, BA, PM - who are those people? by FoxMinded](https://www.youtube.com/watch?v=OHPPpRkryfU)
-2. [:film_strip: Phases](https://www.youtube.com/watch?v=ktBw6RZhji0)
-3. [:film_strip: Methodologies](https://www.youtube.com/watch?v=xmJINdHGucw)
 
 ### TTD in Java
 1. Go to "TestNG" and "Mockito" subsections below under "Java Frameworks" section.
