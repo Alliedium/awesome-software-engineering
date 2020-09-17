@@ -20,7 +20,7 @@
 1. [:film_strip: DRY principle](https://www.youtube.com/watch?v=NWemqNMCesQ)
 2. [:film_strip: DRY, KISS, YAGNI](https://www.youtube.com/watch?v=dz6ZsIcxoo0)
 3. [:film_strip: SOLID principles](https://www.youtube.com/playlist?list=PLmqFxxywkatQNWLG1IZYUhKoQrnuZHqaK)
-4. [:film_strip: SOLID principles & Architecture: a lecture from FPMI](https://www.youtube.com/watch?v=XjGbg-N4sQc&t=1393s)
+4. [:film_strip: SOLID principles & Architecture: a lecture from FPMI](https://www.youtube.com/watch?v=XjGbg-N4sQc)
 5. [:film_strip: Frameworks & Inversion of Control](https://www.youtube.com/watch?v=vFzP2SaMyA0)
 6. [:film_strip: Dependency Injection & Inversion of Control](https://www.youtube.com/watch?v=EPv9-cHEmQw)
 7. [:scroll: Dependency Injection vs Inversion of Control](https://levelup.gitconnected.com/dependency-injection-vs-inversion-of-control-e8a9fcc7d9f7)
