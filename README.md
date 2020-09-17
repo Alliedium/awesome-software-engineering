@@ -19,8 +19,10 @@ A curated list of awesome software engineering resources.
 
 | | | |
 |-|-|-|
-| [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) |
 | [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:sparkles:: Proxmox](#proxmox) |
+| [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) |
+| [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) |[ :black_nib:GIMP](#gimp) |
+| [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) |
 
 ## Fundamentals
 
@@ -163,7 +165,9 @@ Amigoscode
 ### Linux Utilities
 1. [:film_strip: Linux Apps I Use Daily by Chris Titus](https://www.youtube.com/watch?v=4R0uqG4NXPA)
 2. [:film_strip: Linux Apps I Use At Work by Chris Titus](https://www.youtube.com/watch?v=_XYSyKI3cr0)
-3. [:film_strip: Console Utility tmux by unixway](https://www.youtube.com/watch?v=J67U2NKfszM)
+   
+#### tmux
+1. [:film_strip: Console Utility tmux by unixway](https://www.youtube.com/watch?v=J67U2NKfszM)
 
 ### Arch Linux, Manjaro
 
@@ -198,6 +202,10 @@ Amigoscode
 1. [:film_strip: How to Customize KDE | KDE Customization by Chris Titus](https://www.youtube.com/watch?v=nRtyFtpf5yU)
 2. [:film_strip: KDE is Slow !?! | Disable Baloo File Indexer by Chris Titus](https://www.youtube.com/watch?v=B42AmZlfDt8)
 
+### Image Editing
+#### GIMP
+1. [GIMP vs Photoshop | How to Optimize Your Workflow by Chris Titus](https://www.youtube.com/watch?v=X4ZRJnAhmeU)
+
 ### Video Editing
 #### Kdenlive
 1. [:film_strip: Kdenlive Tutorial 2019 - Beginner Basics by Victoriano de Jesus](https://www.youtube.com/watch?v=7N3rXT_5f_I)
@@ -207,6 +215,9 @@ Amigoscode
 ### Text Editing
 #### Vim
 1. [Vim Basics in 8 Minutes by tutorialLinux](https://www.youtube.com/watch?v=ggSyF1SVFr4)
+
+### LibreOffice
+1. [Microsoft Office vs LibreOffice | How to Make the Change by Chris Titus](https://www.youtube.com/watch?v=I0jeYe8iNWo)
 
 ## Windows
 1. [:film_strip: 17 Reasons Why I Do Not Use Windows 10 by Chris Titus](https://www.youtube.com/watch?v=TMeeryVlGAY)
