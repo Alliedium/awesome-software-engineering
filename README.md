@@ -163,8 +163,9 @@ Amigoscode
 3. [:film_strip: Java Tutorial for Beginners by Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
 4. [:film_strip: Java For Beginners by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU)
 5. [:film_strip: Why it is bad to return NULL in Java](https://www.youtube.com/watch?v=QwycPnpp6uQ)
-6. :book: Thinking in Java, Bruce Eckel, 4th edition
-7. [:scroll: Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+6. [:film_strip: Never ever use Lombok! Why this library is bad by FoxMinded](https://www.youtube.com/watch?v=tkoFx3fDwz8)
+7. :book: Thinking in Java, Bruce Eckel, 4th edition
+8. [:scroll: Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
 ## Code Style
 1.  [:scroll: Checkstyle is a tool for enforcing a Code Standard in Java](https://github.com/checkstyle/checkstyle)
