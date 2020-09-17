@@ -36,8 +36,8 @@
 ## Design Patterns
 1. [:film_strip: Design Patterns by Mosh](https://www.youtube.com/watch?v=NU_1StN5Tkk)
 2. :book: Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
-3. [:film_strip: Design patterns (brief)](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
-4. [:film_strip: Design patterns (full)](https://www.youtube.com/playlist?list=PLmqFxxywkatSzlcVEJTsMqZ1ObLO6vqCe)
+3. [:film_strip: Design patterns (brief)](https://www.youtube.com/playlist?list=PLmqFxxywkatSzlcVEJTsMqZ1ObLO6vqCe)
+4. [:film_strip: Design patterns (full)](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
 5. [:scroll: Java Design Patterns - online catalog](https://java-design-patterns.com/patterns/observer/)
 6. [:scroll: The Builder pattern vs Java syntax](https://bsideup.github.io/posts/builders_vs_java/)
 
