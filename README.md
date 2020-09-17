@@ -152,11 +152,14 @@ Amigoscode
 3. [:film_strip: Bash tutorial](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 4. [:scroll: zsh+OhMyZsh+fzf+powerlevel10k: Your terminal can be much, MUCH more productive by Ivan](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
 5. [:scroll: fzf: Why you should be using fzf, the command line fuzzy finder by Alexey Samoshkin](https://medium.com/free-code-camp/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
- 
+
+### Tips & Tricks
+1. [Git Bare Repository - A Better Way To Manage Dotfiles by DistroTube](https://www.youtube.com/watch?v=tBoLDpTWVOM) 
 
 ### Linux Utilities
 1. [:film_strip: Linux Apps I Use Daily by Chris Titus](https://www.youtube.com/watch?v=4R0uqG4NXPA)
-2. [:film_strip: Console Utility tmux by unixway](https://www.youtube.com/watch?v=J67U2NKfszM)
+2. [:film_strip: Linux Apps I Use At Work by Chris Titus](https://www.youtube.com/watch?v=_XYSyKI3cr0)
+3. [:film_strip: Console Utility tmux by unixway](https://www.youtube.com/watch?v=J67U2NKfszM)
 
 ### Arch Linux, Manjaro
 
@@ -164,6 +167,12 @@ Amigoscode
 2. [:film_strip: Arch Linux pacman](https://www.youtube.com/watch?v=qSdu6Mqgur4)
 3. [:film_strip: Arch Linux AUR](https://www.youtube.com/watch?v=kT1NCH45XdI)
 4. [:film_strip: Arch Linux vs Manjaro](https://www.youtube.com/watch?v=8pGmUMZs_Do)
+
+### Proxmox
+1. [:film_strip: Virtualize Everything! - Proxmox Install Tutorial by Craft Computing](https://www.youtube.com/watch?v=azORbxrItOo)
+2. [:film_strip: Proxmox VE 6.0 Beginner Tutorial - Installing Proxmox & Creating a virtual machine by Proxmox HHS](https://www.youtube.com/watch?v=I-e1_CTa4s0)
+3. [:film_strip: Virtualize Windows 10 with Proxmox VE by Techno Tim](https://www.youtube.com/watch?v=6c-6xBkD2J4)
+4. [:film_strip: Proxmox tutorial by realmanual](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
 
 ### LVM
 1. [:film_strip: LVM: Theory and practice by unixway](https://www.youtube.com/watch?v=QgUZrLcmJT8)
@@ -176,13 +185,21 @@ Amigoscode
 1. [:film_strip: File Systems | Which One is the Best? ZFS, BTRFS, or EXT4 by Chris Titus](https://www.youtube.com/watch?v=HdEozE2gN9I)
 
 #### ZFS
-1. [:film_strip: ZFS filesystem by unixway](https://www.youtube.com/playlist?list=PLsMIccp52YRvsLuZ6ed-Ytjv1HfpEC30k)
+1. [:film_strip: What Is ZFS?: A Brief Primer by Level1Linux](https://www.youtube.com/watch?v=lsFDp-W1Ks0)
+2. [:film_strip: ZFS filesystem by unixway](https://www.youtube.com/playlist?list=PLsMIccp52YRvsLuZ6ed-Ytjv1HfpEC30k)
    
 
 ### Desktop Environments
 #### KDE
 1. [:film_strip: How to Customize KDE | KDE Customization by Chris Titus](https://www.youtube.com/watch?v=nRtyFtpf5yU)
 2. [:film_strip: KDE is Slow !?! | Disable Baloo File Indexer by Chris Titus](https://www.youtube.com/watch?v=B42AmZlfDt8)
+
+### Video Editing
+#### Kdenlive
+1. [:film_strip: Kdenlive Tutorial 2019 - Beginner Basics by Victoriano de Jesus](https://www.youtube.com/watch?v=7N3rXT_5f_I)
+2. [:film_strip: 2020 Kdenlive Video Tutorials by Victoriano de Jesus](https://www.youtube.com/watch?v=nq`ifJqeiXu0&list=PLnJFu6D59R6L18UGQG4VNE_VIi40v9-Qt)
+3. [:film_strip: Kdenlive Cinematic Title Animation by makinars](https://www.youtube.com/watch?v=wYlGOKXvuco)
+
 
 ## Windows
 1. [:film_strip: 17 Reasons Why I Do Not Use Windows 10 by Chris Titus](https://www.youtube.com/watch?v=TMeeryVlGAY)
@@ -354,3 +371,5 @@ Amigoscode
 1. [:film_strip: REST API explained by Mosh](https://www.youtube.com/watch?v=SLwpqD8n3d0)
 2. [:film_strip: Autogenerating Swagger Documentation with Node & Express](https://www.youtube.com/watch?v=apouPYPh_as)
 3. [:film_strip: REST API testing via Postman](https://www.youtube.com/watch?v=ZpxjS8ZB0MA)
+
+
