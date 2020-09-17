@@ -134,21 +134,29 @@ Amigoscode
 
 ## Linux
 
-1.[:film_strip: Unix philosophy by unixway](https://www.youtube.com/watch?v=ExmBIpgM0kI)
+1. [:film_strip: 6 Things to Know When Switching to Linux from Windows by Chris Titus](https://www.youtube.com/watch?v=wcdquhB6hT8)
+2. [:film_strip: 6 Mistakes New Linux Users Make by Chris Titus](https://www.youtube.com/watch?v=mkrN4uAcDGk)
+3. [:film_strip: Unix philosophy by unixway](https://www.youtube.com/watch?v=ExmBIpgM0kI)
+4. [:film_strip: 5 Things I Hate About Linux by Chris Titus](https://www.youtube.com/watch?v=rb46F24HJM4)
 
 ### Linux Distributions
 1. [:film_strip: Which Linux Distribution? | Understanding Linux Distros by Chris Titus](https://www.youtube.com/watch?v=DKFnqAtEOvc)
-2. [:film_strip: Debian vs Arch by Chris Titus](https://www.youtube.com/watch?v=gtdYBc3p5Kw)
-3. [:film_strip: Why Ubuntu is the Devil and Why So Many No Longer Use It by Chris Titus](https://www.youtube.com/watch?v=L7uL50zVZJA)
+2. [:film_strip: How to Choose a Linux Distribution by Chris Titus](https://www.youtube.com/watch?v=iox7fr7p5Hc)
+3. [:film_strip: Debian vs Arch by Chris Titus](https://www.youtube.com/watch?v=gtdYBc3p5Kw)
+4. [:film_strip: Why Ubuntu is the Devil and Why So Many No Longer Use It by Chris Titus](https://www.youtube.com/watch?v=L7uL50zVZJA)
 
 ### Command line
 
 1. [:film_strip: 15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 1](https://www.youtube.com/watch?v=XK81cfvrElg)
 2. [:film_strip: 15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 2](https://www.youtube.com/watch?v=kVlkgiwiY6w)
-3. [:film_strip: Bash tutorial (we use zsh with a lot of plugins but most of what is shown in this video still applies)](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
+3. [:film_strip: Bash tutorial](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
+4. [:scroll: zsh+OhMyZsh+fzf+powerlevel10k: Your terminal can be much, MUCH more productive by Ivan](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
+5. [:scroll: fzf: Why you should be using fzf, the command line fuzzy finder by Alexey Samoshkin](https://medium.com/free-code-camp/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
+ 
 
 ### Linux Utilities
-1. [:film_strip: Console Utility tmux by unixway](https://www.youtube.com/watch?v=J67U2NKfszM)
+1. [:film_strip: Linux Apps I Use Daily by Chris Titus](https://www.youtube.com/watch?v=4R0uqG4NXPA)
+2. [:film_strip: Console Utility tmux by unixway](https://www.youtube.com/watch?v=J67U2NKfszM)
 
 ### Arch Linux, Manjaro
 
@@ -164,8 +172,22 @@ Amigoscode
 1. [:film_strip: OpenSSH basics](https://www.youtube.com/watch?v=ZzIF43ZeQrc)
 2. [:film_strip: SSH config basics](https://www.youtube.com/watch?v=gZx9yCbQg50)
 
-### ZFS
+### Linux Filesystems
+1. [:film_strip: File Systems | Which One is the Best? ZFS, BTRFS, or EXT4 by Chris Titus](https://www.youtube.com/watch?v=HdEozE2gN9I)
+
+#### ZFS
 1. [:film_strip: ZFS filesystem by unixway](https://www.youtube.com/playlist?list=PLsMIccp52YRvsLuZ6ed-Ytjv1HfpEC30k)
+   
+
+### Desktop Environments
+#### KDE
+1. [:film_strip: How to Customize KDE | KDE Customization by Chris Titus](https://www.youtube.com/watch?v=nRtyFtpf5yU)
+2. [:film_strip: KDE is Slow !?! | Disable Baloo File Indexer by Chris Titus](https://www.youtube.com/watch?v=B42AmZlfDt8)
+
+## Windows
+1. [:film_strip: 17 Reasons Why I Do Not Use Windows 10 by Chris Titus](https://www.youtube.com/watch?v=TMeeryVlGAY)
+2. [:film_strip: Speed Up Windows 10 in 2020 by Chris Titus](https://www.youtube.com/watch?v=8E6OT_QcHaU)
+
 
 ## Source Control  
 
