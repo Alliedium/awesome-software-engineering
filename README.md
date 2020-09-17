@@ -19,7 +19,7 @@ A curated list of awesome software engineering resources.
 
 | | | |
 |-|-|-|
-| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:sparkles:: Proxmox](#proxmox) |
+| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:sparkles: Proxmox](#proxmox) |
 | [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) |
 | [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) |[ :black_nib:GIMP](#gimp) |
 | [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) |
