@@ -19,20 +19,22 @@
 1. [:film_strip: \[eng\] Data Structures and Algorithms by Mosh](https://www.youtube.com/watch?v=BBpAmxU_NQo)
 
 ## Common principles
-1. [:film_strip: \[rus\] DRY principle](https://www.youtube.com/watch?v=NWemqNMCesQ)
-2. [:film_strip: \[rus\] DRY, KISS, YAGNI](https://www.youtube.com/watch?v=dz6ZsIcxoo0)
-3. [:film_strip: \[rus\] SOLID principles](https://www.youtube.com/playlist?list=PLmqFxxywkatQNWLG1IZYUhKoQrnuZHqaK)
-4. [:film_strip: \[rus\] SOLID principles & Architecture: a lecture from FPMI](https://www.youtube.com/watch?v=XjGbg-N4sQc)
-5. [:film_strip: \[eng\] Frameworks & Inversion of Control](https://www.youtube.com/watch?v=vFzP2SaMyA0)
-6. [:film_strip: \[eng\] Dependency Injection & Inversion of Control](https://www.youtube.com/watch?v=EPv9-cHEmQw)
-7. [:scroll: \[eng\] Dependency Injection vs Inversion of Control](https://levelup.gitconnected.com/dependency-injection-vs-inversion-of-control-e8a9fcc7d9f7)
-8. [:scroll: \[rus\] Low Coupling & High Cohesion by German Gorelkin](https://medium.com/german-gorelkin/low-coupling-high-cohesion-d36369fb1be9)
-9. [:scroll: \[eng\] Low Coupling & High Cohesion by Ammar Verbi Merakli](https://medium.com/the-innovation/pure-functions-high-cohesion-low-coupling-174b0a47ef24)
-10. [:scroll: \[eng\] Demeter's Law: Don't talk to strangers by Carlos Caballero](https://medium.com/better-programming/demeters-law-don-t-talk-to-strangers-87bb4af11694)
-11. [:scroll: \[eng\] GRASP Design Principles by Krzysztof Kwieciński](https://medium.com/@k.d.kwiecinski/grasp-design-principles-de98cae2196c)
-12. [:scroll: \[eng\] What are General Responsibility Assignment Software Patterns? by Jakub Kapuscik](https://levelup.gitconnected.com/what-are-general-responsibility-assignment-software-patterns-6ad9635a44da)
-13. [:scroll: \[eng\] Object-oriented design: GRASP patterns by J.Serrat](http://www.cvc.uab.es/shared/teach/a21291/temes/object_oriented_design/slides/handouts/GRASP_patterns.pdf)
-14. [:scroll: \[eng\] ADVANCED SOFTWARE DESIGN: GRASP, SOLID, YAGNI, DRY, KISS, OTHER PRINCIPLES BY Dave Clarke](http://www.it.uu.se/edu/course/homepage/asd/ht14/Lecture%204.pdf)
+1. [:film_strip: \[rus\] Problem Domain Decomposition by FoxMinded](https://www.youtube.com/watch?v=Qku0VoaZ-gE)
+2. [:film_strip: \[rus\] DRY principle](https://www.youtube.com/watch?v=NWemqNMCesQ)
+3. [:film_strip: \[rus\] DRY, KISS, YAGNI](https://www.youtube.com/watch?v=dz6ZsIcxoo0)
+4. [:film_strip: \[rus\] SOLID principles](https://www.youtube.com/playlist?list=PLmqFxxywkatQNWLG1IZYUhKoQrnuZHqaK)
+5. [:film_strip: \[rus\] SOLID principles & Architecture: a lecture from FPMI](https://www.youtube.com/watch?v=XjGbg-N4sQc)
+6. [:film_strip: \[eng\] Frameworks & Inversion of Control](https://www.youtube.com/watch?v=vFzP2SaMyA0)
+7. [:film_strip: \[eng\] Dependency Injection & Inversion of Control](https://www.youtube.com/watch?v=EPv9-cHEmQw)
+8. [:scroll: \[eng\] Dependency Injection vs Inversion of Control](https://levelup.gitconnected.com/dependency-injection-vs-inversion-of-control-e8a9fcc7d9f7)
+9. [:scroll: \[rus\] Low Coupling & High Cohesion by German Gorelkin](https://medium.com/german-gorelkin/low-coupling-high-cohesion-d36369fb1be9)
+10. [:scroll: \[eng\] Low Coupling & High Cohesion by Ammar Verbi Merakli](https://medium.com/the-innovation/pure-functions-high-cohesion-low-coupling-174b0a47ef24)
+11. [:scroll: \[eng\] Demeter's Law: Don't talk to strangers by Carlos Caballero](https://medium.com/better-programming/demeters-law-don-t-talk-to-strangers-87bb4af11694)
+12. [:scroll: \[eng\] GRASP Design Principles by Krzysztof Kwieciński](https://medium.com/@k.d.kwiecinski/grasp-design-principles-de98cae2196c)
+13. [:scroll: \[eng\] What are General Responsibility Assignment Software Patterns? by Jakub Kapuscik](https://levelup.gitconnected.com/what-are-general-responsibility-assignment-software-patterns-6ad9635a44da)
+14. [:scroll: \[eng\] Object-oriented design: GRASP patterns by J.Serrat](http://www.cvc.uab.es/shared/teach/a21291/temes/object_oriented_design/slides/handouts/GRASP_patterns.pdf)
+15. [:scroll: \[eng\] ADVANCED SOFTWARE DESIGN: GRASP, SOLID, YAGNI, DRY, KISS, OTHER PRINCIPLES BY Dave Clarke](http://www.it.uu.se/edu/course/homepage/asd/ht14/Lecture%204.pdf)
+
 
 
 ## Design Patterns
@@ -71,8 +73,12 @@
 
 
 # Debugging
+
 1. [:film_strip: \[rus\] Debugging, lecture from FPMI, part1](https://www.youtube.com/watch?v=BnTUDLRdjmM&list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
 2. [:film_strip: \[rus\] Debugging, lecture from FPMI, part2](https://www.youtube.com/watch?v=YNEdqUwtS4s&list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
+3. [:scroll: \[eng\] Debugging tips](https://jonskeet.uk/csharp/debugging.html)
+4. [:scroll: \[eng\] 10 Debugging Tips for Beginners: How to Troubleshoot and Fix Your Code Without Pulling Your Hair Out By Hartley Brody](https://blog.hartleybrody.com/debugging-code-beginner/)
+
 
 # Testing
 1. [:film_strip: \[rus\] Unit Testing in Software Development](https://www.youtube.com/watch?v=KAny2OSYY3Y&list=PLmqFxxywkatQzkUy9qSpY2aaWaY6kZbD4)
@@ -161,14 +167,17 @@ Amigoscode
 # Programming Languages
 
 ## Java
+
 1. [:film_strip: \[rus\] Java Overview by FoxMinded](https://www.youtube.com/watch?v=w2Vb-VSUPBA)
-2. [:film_strip: \[rus\] What is a Java server, comparison of Java Servers: Tomcat, Jetty, Wildfly, Glassfish, IBM WebSphere, Oracle WebLogic](https://www.youtube.com/watch?v=fCjJgA2ila4)
-3. [:film_strip: \[eng\] Java Tutorial for Beginners by Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
-4. [:film_strip: \[rus\] Java For Beginners by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU)
-5. [:film_strip: \[rus\] Why it is bad to return NULL in Java](https://www.youtube.com/watch?v=QwycPnpp6uQ)
-6. [:film_strip: \[rus\] Never ever use Lombok! Why this library is bad by FoxMinded](https://www.youtube.com/watch?v=tkoFx3fDwz8)
-7. :book: Thinking in Java, Bruce Eckel, 4th edition
-8. [:scroll: \[eng\] Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+2. [:film_strip: \[rus\] Java Application Development: the first steps by FoxMinded](https://www.youtube.com/watch?v=Qku0VoaZ-gE)
+3. [:film_strip: \[rus\] What is a Java server, comparison of Java Servers: Tomcat, Jetty, Wildfly, Glassfish, IBM WebSphere, Oracle WebLogic](https://www.youtube.com/watch?v=fCjJgA2ila4)
+4. [:film_strip: \[eng\] Java Tutorial for Beginners by Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
+5. [:film_strip: \[rus\] Java For Beginners by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU)
+6. [:film_strip: \[rus\] Why it is bad to return NULL in Java](https://www.youtube.com/watch?v=QwycPnpp6uQ)
+7. [:film_strip:\[rus\]  Never ever use Lombok! Why this library is bad by FoxMinded](https://www.youtube.com/watch?v=tkoFx3fDwz8)
+8. :book: Thinking in Java, Bruce Eckel, 4th edition
+9. [:scroll: \[eng\] Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+
 
 ## Code Style
 1.  [:scroll: \[eng\] Checkstyle is a tool for enforcing a Code Standard in Java](https://github.com/checkstyle/checkstyle)
