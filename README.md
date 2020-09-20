@@ -282,7 +282,7 @@ Amigoscode
 10. [:scroll: Java Tutorials by JournalDev](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
 #### Code Style
-1.  [:scroll: Checkstyle is a tool for enforcing a Code Standard in Java](https://github.com/checkstyle/checkstyle)
+1. [:scroll: Checkstyle is a tool for enforcing a Code Standard in Java](https://github.com/checkstyle/checkstyle)
 2. [:scroll: Jenkins Warnings Next Generation Plugin](https://github.com/jenkinsci/warnings-ng-plugin)
 3. [:scroll: How to Centralize your Checkstyle Configuration with Maven](https://codeburst.io/how-to-centralize-your-checkstyle-configuration-with-maven-7575eacd7295)
 
@@ -309,11 +309,19 @@ Amigoscode
 1. [:scroll: Introduction to TestNG](https://medium.com/gradeup/introduction-to-testng-7f401811f48c)
 2. [:scroll: Why TestNG is better than JUnit](https://medium.com/@kavinduvsomadasa/test-automation-with-testng-using-page-object-modeling-b0d8dc272438)
 3. [:film_strip: Java Unit Testing with TestNG and Mockito](https://www.youtube.com/watch?v=4d8D47cMvZo)
+4. :book: Practical Unit Testing with TestNG and Mockito, Tomek Kaczanowski
 
 ##### Mockito
 1. [:scroll: Unit Tests with Mockito: Tutorial](https://www.vogella.com/tutorials/Mockito/article.html)
-2. [:scroll: Usage of Mockito](https://medium.com/art-of-coding/usage-of-mockito-674db441a334)
-3. [:scroll: Mocking with Mockito: advanced techniques](https://medium.com/trabe/mocking-with-mockito-advanced-techniques-3a4e5143c2ba)
+2. [:scroll: Mockito in six easy examples](https://gojko.net/2009/10/23/mockito-in-six-easy-examples/)
+3. [:scroll: A sip of Mockito](https://habr.com/ru/post/72617/)
+4. [:scroll: Mockito - Quick Guide](https://www.tutorialspoint.com/mockito/mockito_quick_guide.htm)
+5. [:scroll: Mockito When/Then Cookbook](https://www.baeldung.com/mockito-behavior)
+6. [:scroll: Usage of Mockito](https://medium.com/art-of-coding/usage-of-mockito-674db441a334)
+7. [:scroll: Mocking with Mockito: advanced techniques](https://medium.com/trabe/mocking-with-mockito-advanced-techniques-3a4e5143c2ba)
+8. :book: Practical Unit Testing with JUnit and Mockito, Tomek Kaczanowski
+
+
 
 ##### Serenity BDD
 1. [:scroll: How to implement test automation using Serenity](https://medium.com/@pratikbarjatya/how-i-implemented-test-automation-using-serenity-22a734bae78e)
