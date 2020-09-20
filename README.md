@@ -325,7 +325,7 @@ Amigoscode
 
 ##### Serenity BDD
 1. [:scroll: How to implement test automation using Serenity](https://medium.com/@pratikbarjatya/how-i-implemented-test-automation-using-serenity-22a734bae78e)
-2. [:scroll: Serenity BDD official documntation](http://serenity-bdd.info/docs/serenity/)
+2. [:scroll: Serenity BDD official documentation](http://serenity-bdd.info/docs/serenity/)
 3. [:scroll: JBehave vs Cucumber JVM comparison](https://medium.com/agile-vision/jbehave-vs-cucumber-jvm-comparison-and-experience-sharing-439dfdf5922d)
 
 ##### Hibernate
