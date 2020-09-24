@@ -368,9 +368,9 @@ A curated list of awesome software engineering resources.
 ### Containers and Container Orchestration
 #### Docker
 1. [:film_strip: \[rus\] Docker basics](https://www.youtube.com/watch?v=yrmty10Q7NQ)
-2. [:scroll: \[eng\] \[eng\] \[eng\] \[eng\] Docker Interview Questions](https://medium.com/edureka/docker-interview-questions-da0010bedb75)
-3. [:scroll: \[eng\] \[eng\] \[eng\] Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
-4. [:scroll: \[eng\] \[eng\] Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
+2. [:scroll: \[eng\] Docker Interview Questions](https://medium.com/edureka/docker-interview-questions-da0010bedb75)
+3. [:scroll: \[eng\] Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
+4. [:scroll: \[eng\] Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
 5. [:film_strip: \[eng\] Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
 
 #### Ansible
