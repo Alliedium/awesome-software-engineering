@@ -14,6 +14,7 @@ A curated list of awesome software engineering resources.
 |[🏁 Debugging](#debugging)|[💪 Testing](#testing)|[🤖 IDEs](#ides)|
 | [🧵 Security](#security) | [🏷️ Programming Languages](#programming-languages) |[🗞️ Databases](#databases) |
 | [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
+| [:snail: Rust](#rust)| [:microscope: Julia](#julia) |  |
 
 | | |
 |-|-|
@@ -358,6 +359,138 @@ A curated list of awesome software engineering resources.
 ### Python
 1. [:film_strip: \[eng\] Python Tutorial - Python for Beginners [2020]](https://www.youtube.com/watch?v=f79MRyMsjrQ&list=RDCMUCWv7vMbMWH4-V0ZXdmDpPBA)
 2. [:scroll: \[eng\] AWESOME PYTHON: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
+
+
+### Rust
+#### Rust Tutorial
+- [Considering Rust by Jon Gjengset](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+- [Rust Crash Course by  Traversy Media](https://www.youtube.com/watch?v=zF34dRivLOw)
+- [Rust Linz, August 2020 - Ryan Levick - Why should I care about Rust?](https://www.youtube.com/watch?v=OhCjnyBc448)
+- [Introduction to Rust Part 1 by Ryan Levick](https://www.youtube.com/watch?v=WnWGO-tLtLA)
+- [Introduction to Rust Part 2 by Ryan Levick](https://www.youtube.com/watch?v=lLWchWTUFOQ)
+- [Understanding Rust Lifetimes by Ryan Levick](https://www.youtube.com/watch?v=MSi3E5Z8oRw)
+- [Crust of Rust by  Jon Gjengset](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
+
+##### Rust at Microsoft
+- [R-Evolution: A Story of Rust Adoption at Microsoft - Ryan Levick](https://www.youtube.com/watch?v=qCB19DRw_60)
+##### Rust at AWS
+- [AWS re:Invent 2020: Next-gen networking infrastructure with Rust and Tokio](https://www.youtube.com/watch?v=MZyleK8elPk)
+
+
+### Julia
+
+#### Criticism of Julia
+- [Julia: a post-mortem](https://chrisvoncsefalvay.com/2021/03/07/julia-a-post-mortem/)
+- [Julia: a post-mortem: discussion on Julia's discourse](https://discourse.julialang.org/t/julia-a-post-mortem/56809)
+- [Julia: a post-mortem: discussion on ycombinator](https://news.ycombinator.com/item?id=26384133)
+- [Julia from the perspective of a pythonista](https://discourse.julialang.org/t/julia-from-the-perspective-of-a-pythonista/55956)
+- [What's bad about Julia by Jeff Bezenson](https://www.youtube.com/watch?v=TPuJsgyu87U)
+
+#### Getting started with Julia
+ - [Julia motivation: why weren’t Numpy, Scipy, Numba, good enough?](https://discourse.julialang.org/t/julia-motivation-why-werent-numpy-scipy-numba-good-enough/2236)
+ - [JuliaCon 2019 | The Unreasonable Effectiveness of Multiple Dispatch | Stefan Karpinski](https://www.youtube.com/watch?v=kc9HwsxE1OY) 
+ - [Julia Academy](https://juliaacademy.com/courses)
+ - [Getting started with Julia](https://geekmonkey.org/getting-started-with-julia-lang/)
+ - [9 Cool Julia tricks](https://towardsdatascience.com/9-cool-julia-tricks-in-4-minutes-47a3a4496054)
+ - [Julia blogs aggregator](https://julialang.org/blog/)
+ - [Julia 1.6 highlights](https://julialang.org/blog/2021/03/julia-1.6-highlights/)
+ 
+#### Julia adoption
+- [Julia is production-ready](https://bkamins.github.io/julialang/2020/08/07/production-ready.html)
+- [JuliaCon 2020 | The ups and downs of convincing to switch to Julia in a company | Jorge Alberto](https://www.youtube.com/watch?v=IdhnP00Y1Ks)
+- [JuliaCon 2020 | State of Julia | Jeff Bezanson & Stefan Karpinski](https://www.youtube.com/watch?v=xKrIp4ZVOrg)
+
+#### Julia co-creators talks
+- [Interview with Julia Language Co-founders](https://www.youtube.com/watch?v=VgZm53qgj9Q)
+
+#### Julia performance
+ - [Julia performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/)
+ - [Julia performance: benchmarking via BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl/blob/master/doc/manual.md#defining-and-executing-benchmarks)
+ - [How to benchmark like a pro in Julia | Tom Kwong](https://www.youtube.com/watch?v=9C7MAAsMMBc)
+ - [JuliaCon 2020 | Adventures in Avoiding Allocations | Brian Jackson](https://www.youtube.com/watch?v=o8qTJGcPWkE)
+
+#### Julia vs C++
+- [How hard would it be to implement Numpy.jl, i.e. Numpy in Julia? Point 1](https://discourse.julialang.org/t/how-hard-would-it-be-to-implement-numpy-jl-i-e-numpy-in-julia/22080/71)
+- [How hard would it be to implement Numpy.jl, i.e. Numpy in Julia? Point 2](https://discourse.julialang.org/t/how-hard-would-it-be-to-implement-numpy-jl-i-e-numpy-in-julia/22080/73)
+
+
+#### Contributing to Julia ecosystem
+- [How to submit a PR on GitHub](https://discourse.julialang.org/t/develop-a-local-version-of-a-registered-package-and-submit-changes-as-a-pull-request/24868)
+
+#### Language basics
+- [Working with and emulating references in Julia](https://erik-engheim.medium.com/working-with-and-emulating-references-in-julia-e02c1cae5826)
+- [Is Julia Dynamically Typed?](https://stackoverflow.com/questions/28078089/is-julia-dynamically-typed)
+- [Julia type system](https://docs.julialang.org/en/v1/manual/types/)
+- [Libraries & parameterized types | MIT Computational Thinking Spring 2021 | Lecture 18](https://www.youtube.com/watch?v=S71YIZ8e7MQ)
+
+#### Finding Julia packages
+- [juliaobserver.com](https://juliaobserver.com/packages)
+- [juliapackages.com](https://juliapackages.com/)
+
+#### DataFrames
+##### DataFrames.jl
+- [DataFrames.jl performance benchmark](https://h2oai.github.io/db-benchmark/)
+- [DataFrames minilanguage explained](https://www.juliabloggers.com/dataframes-jl-minilanguage-explained/)
+- [Welcome to DataFrames.jl with Bogumił Kamiński](https://github.com/JuliaAcademy/DataFrames)
+- [Release announcements for DataFrames.jl](https://discourse.julialang.org/t/release-announcements-for-dataframes-jl/18258/1)
+- [DataFrames.jl: comparison with Pandas](https://dataframes.juliadata.org/latest/man/comparisons/)
+- [DataFrames.jl cheatsheet](https://ahsmart.com/assets/pages/data-wrangling-with-data-frames-jl-cheat-sheet/DataFramesCheatSheet_v0.22_rev1.pdf)
+
+#### ML
+- [JuliaCon 2020 | Doing Scientific Machine Learning (SciML) With Julia](https://www.youtube.com/watch?v=QwVO0Xh2Hbg)
+- [MIT Course 18.337 - Parallel Computing and Scientific Machine Learning GitHub Repo](https://github.com/mitmath/18337)
+- [MIT Course 18.337 - Parallel Computing and Scientific Machine Learning YouTube Channel](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
+
+
+#### Parallel Computing
+- [https://julialang.org/blog/2019/07/multithreading/#task_scheduling_and_synchronization]
+- [MIT Course 18.337 - Parallel Computing and Scientific Machine Learning GitHub Repo](https://github.com/mitmath/18337)
+- [MIT Course 18.337 - Parallel Computing and Scientific Machine Learning YouTube Channel](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
+
+#### IDE
+ - [VSCode Plugin](https://www.youtube.com/watch?v=IdhnP00Y1Ks)
+
+#### Notebooks
+##### Jupyter 
+- [JuliaCon 2020 | Dependency-Aware Jupyter Notebooks | Arnav Sood](https://www.youtube.com/watch?v=LYVdRTuxS_c)
+
+##### Pluto.jl
+- [JuliaCon 2020 | Interactive notebooks ~ Pluto.jl | Fons van der Plas](https://www.youtube.com/watch?v=IAF8DjrQSSk)
+- [Pluto.jl Notebooks and PlutoUI Tutorial (Julia Programming)](https://www.youtube.com/watch?v=C4QhZcX34mI)
+- [How to disable authentication](https://github.com/fonsp/Pluto.jl/issues/1083)
+- [How to increase notebook width](https://github.com/fonsp/Pluto.jl/issues/748)
+- [Table of contents](https://github.com/fonsp/PlutoUI.jl/pull/30#issuecomment-819287500)
+- [Dark mode](https://github.com/Pocket-titan/DarkMode)
+
+#### Jilia in production
+##### Microservices
+- [JuliaCon 2020 | Building Microservices and Applications in Julia](https://www.youtube.com/watch?v=uLhXgt_gKJc)
+##### Deployment
+###### Sysimage
+- [Custom sysimages: official documentation](https://julialang.github.io/PackageCompiler.jl/dev/sysimages/)
+###### Docker
+- [SimpleContainerGenerator](https://github.com/JuliaContainerization/SimpleContainerGenerator.jl)
+- [Running AWS Lambda functions with Julia | Tom Kwong](https://www.youtube.com/watch?v=6DvpneWRb_w)
+
+#### Differential equations
+##### DifferentialEquations.jl
+- [Libraries & parameterized types | MIT Computational Thinking Spring 2021 | Lecture 18](https://www.youtube.com/watch?v=S71YIZ8e7MQ)
+
+#### OOP in Julia
+- [Goodbye OOP](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+- [Type-Dispatch Design: Post Object-Oriented Programming for Julia](http://www.stochasticlifestyle.com/type-dispatch-design-post-object-oriented-programming-julia/)
+- [WhereTraits.jl](https://github.com/schlichtanders/WhereTraits.jl)
+- [BinaryTraits.jl](https://github.com/tk3369/BinaryTraits.jl)
+- [Julia: how multiple dispatch works](https://discourse.julialang.org/t/julia-isnt-multiple-dispatch-but-overloading/42370/13)
+- [JuliaCon 2020 | Lessons learned on trait-based descriptions of graphs | Mathieu Besancon](https://www.youtube.com/watch?v=qhAe1PuWjRQ)
+
+#### Integration with other languages
+##### Python
+- [JuliaPy](https://github.com/JuliaPy)
+
+#### Basics of hardware architecture 
+- http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/
+
 
 ## DevOps
 1. [:film_strip: \[eng\] DevOps explained by IBM](https://www.youtube.com/playlist?list=PLOspHqNVtKAAm1dmyiR9WMmw1UBoOwZVj)
