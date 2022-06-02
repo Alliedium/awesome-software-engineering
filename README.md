@@ -500,11 +500,31 @@ A curated list of awesome software engineering resources.
 
 ### Containers and Container Orchestration
 #### Docker
+##### Basics
 1. [:film_strip: \[rus\] Docker basics](https://www.youtube.com/watch?v=yrmty10Q7NQ)
 2. [:scroll: \[eng\] Docker Interview Questions](https://medium.com/edureka/docker-interview-questions-da0010bedb75)
 3. [:scroll: \[eng\] Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
 4. [:scroll: \[eng\] Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
 5. [:film_strip: \[eng\] Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
+
+##### Advanced
+1. https://cloud.google.com/architecture/best-practices-for-building-containers
+2. https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html
+3. https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html
+4. https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html
+5. https://testdriven.io/blog/faster-ci-builds-with-docker-cache/
+6. https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/
+7. https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e
+8. https://dev.to/pst418/speed-up-multi-stage-docker-builds-in-ci-cd-with-buildkit-s-registry-cache-11gi
+9. https://vsupalov.com/docker-arg-vs-env/#:~:text=ENV%20is%20for%20future%20running,for%20your%20future%20environment%20variables.
+10. https://habr.com/ru/company/southbridge/blog/329138/
+11. https://stackoverflow.com/questions/42297387/docker-build-with-build-arg-with-multiple-arguments, https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose
+12. https://docs.docker.com/engine/reference/builder/#from, https://docs.docker.com/engine/reference/builder/#arg, https://docs.docker.com/engine/reference/builder/#copy, https://docs.docker.com/engine/reference/builder/#label, https://docs.docker.com/engine/reference/commandline/build/, https://docs.docker.com/compose/reference/build/, https://docs.docker.com/engine/reference/commandline/builder_prune/
+13. https://github.com/moby/moby/issues/12886#issuecomment-306247989, https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line
+14. https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/
+15. https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.
+16. https://github.com/kubernetes/kompose
+
 
 #### Ansible
 1. [:film_strip: \[eng\] What Is Ansible? | How Ansible Works? | Ansible Tutorial For Beginners by Simplilearn](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
