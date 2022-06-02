@@ -26,7 +26,7 @@ A curated list of awesome software engineering resources.
 | [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) |
 | [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) |[ :black_nib:GIMP](#gimp) |
 | [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) |
-| [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker) | [:milky_way: Kubernetes](#kubernetes)|
+| [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker-1) | [:milky_way: Kubernetes](#kubernetes)|
 
 | | |
 |-|-|
