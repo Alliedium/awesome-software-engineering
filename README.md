@@ -25,7 +25,7 @@ A curated list of awesome software engineering resources.
 | [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:grey_question: FreeBSD](#freebsd) | [:grey_question: MacOs](#macos) | [:sparkles: HyperVisors](#hypervisors) |
 | [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) | [:fax: Fish](#fish) | [:sparkles: Proxmox](#proxmox) |
 | [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) | [ :black_nib:GIMP](#gimp) | [:wrench: Package Managers](#package-managers) | [:sparkles: Xen](#xen) |
-| [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) | [🧮 systemd](#systemd) | [:sparkles: Virtual Switchers/Routers](#virtual-switchers-routers) |
+| [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) | [🧮 systemd](#systemd) | |
 | [:wrench: Network Manager](#network-manager) | [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker-1) | [:milky_way: Kubernetes](#kubernetes)| |
 
 | | |
@@ -34,7 +34,7 @@ A curated list of awesome software engineering resources.
 
 | | | | |
 |-|-|-|-|
-| [:wrench: OSI/TCP/IP](#oci-tcp-ip) | [:wrench: BGP](#bgp) | [:wrench: VXLAN](#vxlan) | [:wrench: GitHub Actions](#github-actions) |
+| [:wrench: OSI/TCP/IP](#ocitcpip) | [:wrench: BGP](#bgp) | [:wrench: VXLAN](#vxlan) | [:wrench: GitHub Actions](#github-actions) |
 | [:wrench: TLS certificates](#tls-certificates) | [:wrench: ACME](#acme) | [:wrench: ArgoCd](#argocd) | [:wrench: Argo Workflows](#argo-workflows) |
 
 ## Fundamentals
