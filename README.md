@@ -508,22 +508,31 @@ A curated list of awesome software engineering resources.
 5. [:film_strip: \[eng\] Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
 
 ##### Advanced
-1. https://cloud.google.com/architecture/best-practices-for-building-containers
-2. https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html
-3. https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html
-4. https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html
-5. https://testdriven.io/blog/faster-ci-builds-with-docker-cache/
-6. https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/
-7. https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e
-8. https://dev.to/pst418/speed-up-multi-stage-docker-builds-in-ci-cd-with-buildkit-s-registry-cache-11gi
-9. https://vsupalov.com/docker-arg-vs-env/#:~:text=ENV%20is%20for%20future%20running,for%20your%20future%20environment%20variables.
-10. https://habr.com/ru/company/southbridge/blog/329138/
-11. https://stackoverflow.com/questions/42297387/docker-build-with-build-arg-with-multiple-arguments, https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose
-12. https://docs.docker.com/engine/reference/builder/#from, https://docs.docker.com/engine/reference/builder/#arg, https://docs.docker.com/engine/reference/builder/#copy, https://docs.docker.com/engine/reference/builder/#label, https://docs.docker.com/engine/reference/commandline/build/, https://docs.docker.com/compose/reference/build/, https://docs.docker.com/engine/reference/commandline/builder_prune/
-13. https://github.com/moby/moby/issues/12886#issuecomment-306247989, https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line
-14. https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/
-15. https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.
-16. https://github.com/kubernetes/kompose
+1. [:scroll: \[eng\] Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
+2. [:scroll: \[eng\] Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
+3. [:scroll: \[eng\] Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html)
+4. [:scroll: \[eng\] Docker Images : Part III - Going Farther To Reduce Image Size](https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html)
+5. [:scroll: \[eng\] Faster CI Builds with Docker Layer Caching and BuildKit](https://testdriven.io/blog/faster-ci-builds-with-docker-cache/)
+6. [:scroll: \[eng\] Advanced Dockerfiles: Faster Builds and Smaller Images Using BuildKit and Multistage Builds](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
+7. [:scroll: \[eng\] Docker build cache sharing on multi-hosts with BuildKit and buildx](https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e)
+8. [:scroll: \[eng\] Speed up multi-stage Docker builds in CI/CD with Buildkit’s registry cache](https://dev.to/pst418/speed-up-multi-stage-docker-builds-in-ci-cd-with-buildkit-s-registry-cache-11gi)
+9. [:scroll: \[eng\] Docker ARG vs ENV](https://vsupalov.com/docker-arg-vs-env/#:~:text=ENV%20is%20for%20future%20running,for%20your%20future%20environment%20variables.)
+10. [:scroll: \[rus\] ENTRYPOINT vs CMD: Back to Basics](https://habr.com/ru/company/southbridge/blog/329138/)
+11. [:scroll: \[eng\] docker build with --build-arg with multiple arguments](https://stackoverflow.com/questions/42297387/docker-build-with-build-arg-with-multiple-arguments) 
+12. [:scroll: \[eng\] How to define build-args in docker-compose?](https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose)
+13. [:scroll: \[eng\] Dockerfile reference: FROM](https://docs.docker.com/engine/reference/builder/#from)
+14. [:scroll: \[eng\] Dockerfile reference: ARG](https://docs.docker.com/engine/reference/builder/#arg)
+15. [:scroll: \[eng\] Dockerfile reference: COPY](https://docs.docker.com/engine/reference/builder/#copy)
+16. [:scroll: \[eng\] Dockerfile reference: LABEL](https://docs.docker.com/engine/reference/builder/#label)
+17. [:scroll: \[eng\] docker build](https://docs.docker.com/engine/reference/commandline/build/)
+18. [:scroll: \[eng\] docker-compose build](https://docs.docker.com/compose/reference/build/)
+19. [:scroll: \[eng\] docker builder prune](https://docs.docker.com/engine/reference/commandline/builder_prune/)
+20. [:scroll: \[eng\] specifying .dockerignore file](https://github.com/moby/moby/issues/12886#issuecomment-306247989)
+21. [:scroll: \[eng\] Specify dockerignore from command line](https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line)
+22. [:scroll: \[eng\] Explore Docker layers using Dive](https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/)
+23. [:scroll: \[eng\] Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache](https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.)
+24. [:scroll: \[eng\] Kompose (translate Docker Compose file into Kubernetes resources)](https://github.com/kubernetes/kompose)
+
 
 
 #### Ansible
