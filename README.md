@@ -22,17 +22,20 @@ A curated list of awesome software engineering resources.
 
 | | | | | |
 |-|-|-|-|-|
-| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:sparkles: Proxmox](#proxmox) | [:grey_question: FreeBSD](#freebsd) | [:grey_question: MacOs](#macos) |
-| [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) | [:fax: Fish](#fish) | |
-| [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) | [ :black_nib:GIMP](#gimp) | [:wrench: Package Managers](#package-managers) | |
-| [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) | [🧮 systemd](#systemd) | |
+| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:grey_question: FreeBSD](#freebsd) | [:grey_question: MacOs](#macos) | [:sparkles: HyperVisors](#hypervisors) |
+| [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) | [:fax: Fish](#fish) | [:sparkles: Proxmox](#proxmox) |
+| [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) | [ :black_nib:GIMP](#gimp) | [:wrench: Package Managers](#package-managers) | [:sparkles: Xen](#xen) |
+| [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) | [🧮 systemd](#systemd) | [:sparkles: Virtual Switchers/Routers](#virtual-switchers-routers) |
 | [:wrench: Network Manager](#network-manager) | [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker-1) | [:milky_way: Kubernetes](#kubernetes)| |
 
 | | |
 |-|-|
 |[🔐 KeePassXC](#KeePassXC)  |  [🗿 iptables](#iptables)|
 
-
+| | | | |
+|-|-|-|-|
+| [:wrench: OSI/TCP/IP](#oci-tcp-ip) | [:wrench: BGP](#bgp) | [:wrench: VXLAN](#vxlan) | [:wrench: GitHub Actions](#github-actions) |
+| [:wrench: TLS certificates](#tls-certificates) | [:wrench: ACME](#acme) | [:wrench: ArgoCd](#argocd) | [:wrench: Argo Workflows](#argo-workflows) |
 
 ## Fundamentals
 
@@ -201,11 +204,20 @@ A curated list of awesome software engineering resources.
 3. [:film_strip: \[rus\] Arch Linux AUR](https://www.youtube.com/watch?v=kT1NCH45XdI)
 4. [:film_strip: \[rus\] Arch Linux vs Manjaro](https://www.youtube.com/watch?v=8pGmUMZs_Do)
 
+### HyperVisors
+1. [:scroll: \[rus\] What is Hypervisor, what's its role in virtualization, types, comparison](https://selectel.ru/blog/what-is-hypervisor/)
+2. [:scroll: \[rus\] Virtualization systems. Compare the VMware, Hyper-V, KVM, Xen](https://datahouse.ru/articles/sistemy-virtualizacii/)
+3. [:scroll: \[eng\] Compare the Top Hypervisors of 2022](https://sourceforge.net/software/hypervisors/)
+
 ### Proxmox
 1. [:film_strip: \[eng\] Virtualize Everything! - Proxmox Install Tutorial by Craft Computing](https://www.youtube.com/watch?v=azORbxrItOo)
 2. [:film_strip: \[eng\] Proxmox VE 6.0 Beginner Tutorial - Installing Proxmox & Creating a virtual machine by Proxmox HHS](https://www.youtube.com/watch?v=I-e1_CTa4s0)
 3. [:film_strip: \[eng\] Virtualize Windows 10 with Proxmox VE by Techno Tim](https://www.youtube.com/watch?v=6c-6xBkD2J4)
 4. [:film_strip: \[rus\] Proxmox tutorial by realmanual](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
+
+### Xen
+1. [:film_strip: \[eng\] Getting Started Tutorial: Building An Open Source XCP-NG & Xen Orchestra Virtualization Lab](https://www.youtube.com/watch?v=q-jKs62b6Co)
+
 
 ### LVM
 1. [:film_strip: \[rus\] LVM: Theory and practice by unixway](https://www.youtube.com/watch?v=QgUZrLcmJT8)
@@ -271,6 +283,43 @@ A curated list of awesome software engineering resources.
 ### iptables
 1. [:film_strip: \[eng\] iptables: getting started](https://www.youtube.com/watch?v=qPEA6J9pjG8)
 2. [:film_strip: \[rus\] Iptables detailed tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRsuYa7QOZIy7OsnaIyQZB7_)
+
+### OSI/TCP/IP
+1. [:scroll: \[eng\] The OSI Model](https://subscription.packtpub.com/book/networking_and_servers/9781904811657/1/ch01lvl1sec05/the-osi-model)
+2. [:scroll: \[eng\] The TCP/IP Model](https://subscription.packtpub.com/book/networking_and_servers/9781904811657/1/ch01lvl1sec06/the-tcp-ip-model)
+
+### BGP
+1. [:scroll: \[eng\] What is BGP? | BGP routing explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
+2. [:scroll: \[eng\] BGP (Border Gateway Protocol)](https://www.techtarget.com/searchnetworking/definition/BGP-Border-Gateway-Protocol)
+
+### VXLAN
+1. [:film strip: \[eng\] VxLAN | Issues with traditional vlan | VXLAN benifits explained | free ccna 200-301](https://youtu.be/F1Vq8YwxCXU)
+2. [:scroll: \[eng\] Virtual Extensible LAN](https://en.wikipedia.org/wiki/Virtual_Extensible_LAN)
+3. [:scroll: \[eng\] VXLAN Virtual eXtensible Local Area Network](https://hechao.li/2017/11/23/vxlan/)
+4. [:film_strip: \[eng\] VxLAN | Part 1 - How VxLAN Works](https://youtu.be/YNqKDI_bnPM)
+
+### TLS certificates
+1. [:scroll: \[eng\] Configuring custom SSL/TLS certificates](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/15/html/director_installation_and_usage/configuring-custom-ssl-tls-certificates)
+
+### ACME 
+1. [:scroll: \[rus\] The ACME protocol has been approved as an IETF standard](https://habr.com/ru/company/1cloud/blog/444986/)
+2. [:scroll: \[eng\] ACME Protocol: What it is and how it works](https://www.thesslstore.com/blog/acme-protocol-what-it-is-and-how-it-works/)
+3. [:scroll: \[eng\] How It Works](https://letsencrypt.org/how-it-works/)
+
+### GitHub Actions
+1. [:film_strip: \[eng\] Github Actions Review And Tutorial](https://youtu.be/eZcAvTb0rbA)
+
+### ArgoCd
+1. [:film_strip: \[eng\] Argo CD - Applying GitOps Principles To Manage A Production Environment In Kubernetes](https://youtu.be/vpWQeoaiRM4)
+2. [:film_strip: \[eng\] Environments Based On Pull Requests (PRs): Using Argo CD To Apply GitOps Principles On Previews](https://youtu.be/cpAaI8p4R60)
+3. [:film_strip: \[eng\] Koncrete - GitOps As A Service With Argo CD](https://youtu.be/F2EdxLMQsCw)
+4. [:film_strip: \[eng\] GitOps Without Pipelines With ArgoCD Image Updater](https://youtu.be/avPUQin9kzU)
+
+### Argo Workflows
+1. [:film_strip: \[eng\] Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
+2. [:film_strip: \[eng\] Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
+3. [:film_strip: \[eng\] Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
+
 
 ## Databases
 ### SQL
@@ -576,6 +625,8 @@ A curated list of awesome software engineering resources.
 3. [:film_strip: \[rus\] Jenkins Video Course in Russian](https://www.youtube.com/playlist?list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm)
 4. [:scroll: \[eng\] Jenkins CheatSheet](https://medium.com/edureka/jenkins-cheat-sheet-e0f7e25558a3)
 5. [:scroll: \[eng\] Jenkins Interview Questions](https://medium.com/edureka/jenkins-interview-questions-7bb54bc8c679)
+6. [:scroll: \[eng\] jenkins.io - User handbook](https://www.jenkins.io/doc/book/getting-started/)
+7. [:film_strip: \[end\] CI CD Pipeline Using Jenkins](https://www.youtube.com/watch?v=m0a2CzgLNsc)
 
 ## Networks
 ### REST API
