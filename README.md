@@ -20,13 +20,13 @@ A curated list of awesome software engineering resources.
 |-|-|
 |[:red_circle: REST API](#rest-api)  | 🧩 [GraphQL](#graphql)|
 
-| | | |
-|-|-|-|
-| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:sparkles: Proxmox](#proxmox) |
-| [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) |
-| [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) |[ :black_nib:GIMP](#gimp) |
-| [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) |
-| [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker-1) | [:milky_way: Kubernetes](#kubernetes)|
+| | | | | |
+|-|-|-|-|-|
+| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:sparkles: Proxmox](#proxmox) | [:grey_question: FreeBSD](#freebsd) | [:grey_question: MacOs](#macos) |
+| [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) | [:fax: Fish](#fish) | |
+| [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) | [ :black_nib:GIMP](#gimp) | [:wrench: Package Managers](#package-managers) | |
+| [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) | [🧮 systemd](#systemd) | |
+| [:wrench: Network Manager](#network-manager) | [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker-1) | [:milky_way: Kubernetes](#kubernetes)| |
 
 | | |
 |-|-|
@@ -154,8 +154,9 @@ A curated list of awesome software engineering resources.
 ### Linux Distributions
 1. [:film_strip: \[eng\] Which Linux Distribution? | Understanding Linux Distros by Chris Titus](https://www.youtube.com/watch?v=DKFnqAtEOvc)
 2. [:film_strip: \[eng\] How to Choose a Linux Distribution by Chris Titus](https://www.youtube.com/watch?v=iox7fr7p5Hc)
-3. [:film_strip: \[eng\] Debian vs Arch by Chris Titus](https://www.youtube.com/watch?v=gtdYBc3p5Kw)
-4. [:film_strip: \[eng\] Why Ubuntu is the Devil and Why So Many No Longer Use It by Chris Titus](https://www.youtube.com/watch?v=L7uL50zVZJA)
+3. [:film_strip: \[eng\] GNU/Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/8/8c/Linux_Distribution_Timeline_Dec._2020.svg)
+4. [:film_strip: \[eng\] Debian vs Arch by Chris Titus](https://www.youtube.com/watch?v=gtdYBc3p5Kw)
+5. [:film_strip: \[eng\] Why Ubuntu is the Devil and Why So Many No Longer Use It by Chris Titus](https://www.youtube.com/watch?v=L7uL50zVZJA)
 
 ### Command line
 1. [:film_strip: \[eng\] 15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 1](https://www.youtube.com/watch?v=XK81cfvrElg)
@@ -163,6 +164,17 @@ A curated list of awesome software engineering resources.
 3. [:film_strip: \[eng\] Bash tutorial](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 4. [:scroll: \[eng\] zsh+OhMyZsh+fzf+powerlevel10k: Your terminal can be much, MUCH more productive by Ivan](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
 5. [:scroll: \[eng\] fzf: Why you should be using fzf, the command line fuzzy finder by Alexey Samoshkin](https://medium.com/free-code-camp/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
+6. [:scroll: \[eng\] How to Create Users in Linux (useradd Command)](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/)
+7. [:scroll: \[eng\] How to Linux sh command](https://www.computerhope.com/unix/ush.htm)
+8. [:scroll: \[eng\] How to sh(1) - Linux man page](https://linux.die.net/man/1/sh)
+
+### Fish
+1. [:scroll: \[eng\] fish Tutorial](https://fishshell.com/docs/current/tutorial.html)
+2. [:scroll: \[eng\] fish Documentation](https://fishshell.com/docs/current/index.html)
+
+### Package Managers
+1. [:scroll: \[eng\] 5 Best Linux Package Managers for Linux Newbies](https://www.tecmint.com/linux-package-managers/)
+2. [:scroll: \[eng\] Best Linux Package Managers](https://www.webservertalk.com/best-linux-package-managers/)
 
 ### Tips & Tricks
 1. [:scroll: \[eng\] Awesome Linux Configuration Scripts by Alliedium](https://github.com/Alliedium/awesome-linux-config)
@@ -174,6 +186,13 @@ A curated list of awesome software engineering resources.
    
 #### tmux
 1. [:film_strip: \[rus\] Console Utility tmux by unixway](https://www.youtube.com/watch?v=J67U2NKfszM)
+
+#### systemd
+1. [:scroll: \[eng\] Beginners Guide on systemd tutorial in Linux](https://www.golinuxcloud.com/beginners-guide-systemd-tutorial-linux/)
+
+#### Network Manager
+1. [:scroll: \[eng\] Configuring IP Networking with nmtui](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-configuring_ip_networking_with_nmtui)
+2. [:scroll: \[eng\] Configuring IP Networking with nmcli](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-configuring_ip_networking_with_nmcli)
 
 ### Arch Linux, Manjaro
 
@@ -197,6 +216,7 @@ A curated list of awesome software engineering resources.
 
 ### Linux Filesystems
 1. [:film_strip: \[eng\] File Systems | Which One is the Best? ZFS, BTRFS, or EXT4 by Chris Titus](https://www.youtube.com/watch?v=HdEozE2gN9I)
+2. [:scroll: \[eng\] Classic SysAdmin: The Linux Filesystem Explained](https://linuxfoundation.org/blog/classic-sysadmin-the-linux-filesystem-explained/)
 
 #### ZFS
 1. [:film_strip: \[eng\] What Is ZFS?: A Brief Primer by Level1Linux](https://www.youtube.com/watch?v=lsFDp-W1Ks0)
@@ -229,6 +249,11 @@ A curated list of awesome software engineering resources.
 1. [:film_strip: \[eng\] 17 Reasons Why I Do Not Use Windows 10 by Chris Titus](https://www.youtube.com/watch?v=TMeeryVlGAY)
 2. [:film_strip: \[eng\] Speed Up Windows 10 in 2020 by Chris Titus](https://www.youtube.com/watch?v=8E6OT_QcHaU)
 
+## FreeBSD
+1. [:scroll: \[eng\] FreeBSD Basics](https://docs.freebsd.org/en/books/handbook/basics/)
+
+## MacOs
+1. [:scroll: \[eng\] A Complete Beginner's Guide to macOS: Get Started in Just 1 Hour](https://www.makeuseof.com/tag/macos-beginners-guide/)
 
 ## Source Control  
 
