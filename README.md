@@ -672,7 +672,7 @@ A curated list of awesome software engineering resources.
 3. [:scroll: \[eng\] Linux in the Network](https://www.novell.com/documentation/suse91/suselinux-adminguide/html/ch14.html)
 
 ## VXLAN
-1. [:film strip: \[eng\] VxLAN | Issues with traditional vlan | VXLAN benifits explained | free ccna 200-301](https://youtu.be/F1Vq8YwxCXU)
+1. [:film strip: \[eng\] VxLAN | Issues with traditional vlan | VXLAN benifits explained](https://youtu.be/F1Vq8YwxCXU)
 2. [:scroll: \[eng\] Virtual Extensible LAN](https://en.wikipedia.org/wiki/Virtual_Extensible_LAN)
 3. [:scroll: \[eng\] VXLAN Virtual eXtensible Local Area Network](https://hechao.li/2017/11/23/vxlan/)
 4. [:film_strip: \[eng\] VxLAN | Part 1 - How VxLAN Works](https://youtu.be/YNqKDI_bnPM)
@@ -721,10 +721,3 @@ A curated list of awesome software engineering resources.
 5. [:scroll: \[eng\] Development Mode](https://devspace.sh/cli/docs/configuration/development/basics)
 6. [:scroll: \[eng\] Config Variables](https://devspace.sh/cli/docs/configuration/variables/basics)
 7. [:scroll: \[eng\] Config Profiles](https://devspace.sh/cli/docs/configuration/profiles/basics)
-8. [:scroll: \[eng\] ]()
-9. [:scroll: \[eng\] ]()
-10. [:scroll: \[eng\] ]()
-11. [:scroll: \[eng\] ]()
-12. [:scroll: \[eng\] ]()
-13. [:scroll: \[eng\] ]()
-14. [:scroll: \[eng\] ]()
