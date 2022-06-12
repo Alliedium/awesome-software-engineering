@@ -688,7 +688,7 @@ A curated list of awesome software engineering resources.
 3. [:scroll: \[eng\] Schema-First GraphQL: The Road Less Travelled by Jakub Draganek](https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff)
 
 # CI/CD
-## CI/CD TOOLS
+## CI/CD Tools
 ### GitHub Actions
 1. [:film_strip: \[eng\] Github Actions Review And Tutorial](https://youtu.be/eZcAvTb0rbA)
 
@@ -711,3 +711,20 @@ A curated list of awesome software engineering resources.
 1. [:film_strip: \[eng\] Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
 2. [:film_strip: \[eng\] Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
 3. [:film_strip: \[eng\] Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
+
+# Microservices
+## Devspace
+1. [:scroll: \[eng\] What is DevSpace?](https://devspace.sh/cli/docs/introduction)
+2. [:scroll: \[eng\] Onboarding Guide](https://devspace.sh/cli/docs/guides/basics)
+3. [:scroll: \[eng\] Image Building](https://devspace.sh/cli/docs/configuration/images/basics)
+4. [:scroll: \[eng\] Deployments](https://devspace.sh/cli/docs/configuration/deployments/basics)
+5. [:scroll: \[eng\] Development Mode](https://devspace.sh/cli/docs/configuration/development/basics)
+6. [:scroll: \[eng\] Config Variables](https://devspace.sh/cli/docs/configuration/variables/basics)
+7. [:scroll: \[eng\] Config Profiles](https://devspace.sh/cli/docs/configuration/profiles/basics)
+8. [:scroll: \[eng\] ]()
+9. [:scroll: \[eng\] ]()
+10. [:scroll: \[eng\] ]()
+11. [:scroll: \[eng\] ]()
+12. [:scroll: \[eng\] ]()
+13. [:scroll: \[eng\] ]()
+14. [:scroll: \[eng\] ]()
