@@ -171,6 +171,10 @@ A curated list of awesome software engineering resources.
 7. [:scroll: \[eng\] How to Linux sh command](https://www.computerhope.com/unix/ush.htm)
 8. [:scroll: \[eng\] How to sh(1) - Linux man page](https://linux.die.net/man/1/sh)
 
+### User Access Permissions
+1. [:scroll: \[eng\] Users and groups](https://wiki.archlinux.org/title/users_and_groups)
+2. [:scroll: \[eng\] Access Control Lists](https://wiki.archlinux.org/title/Access_Control_Lists)
+
 ### Fish
 1. [:scroll: \[eng\] fish Tutorial](https://fishshell.com/docs/current/tutorial.html)
 2. [:scroll: \[eng\] fish Documentation](https://fishshell.com/docs/current/index.html)
