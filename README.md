@@ -569,14 +569,20 @@ A curated list of awesome software engineering resources.
 14. [:scroll: \[eng\] Dockerfile reference: ARG](https://docs.docker.com/engine/reference/builder/#arg)
 15. [:scroll: \[eng\] Dockerfile reference: COPY](https://docs.docker.com/engine/reference/builder/#copy)
 16. [:scroll: \[eng\] Dockerfile reference: LABEL](https://docs.docker.com/engine/reference/builder/#label)
-17. [:scroll: \[eng\] docker build](https://docs.docker.com/engine/reference/commandline/build/)
-18. [:scroll: \[eng\] docker-compose build](https://docs.docker.com/compose/reference/build/)
-19. [:scroll: \[eng\] docker builder prune](https://docs.docker.com/engine/reference/commandline/builder_prune/)
-20. [:scroll: \[eng\] specifying .dockerignore file](https://github.com/moby/moby/issues/12886#issuecomment-306247989)
-21. [:scroll: \[eng\] Specify dockerignore from command line](https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line)
-22. [:scroll: \[eng\] Explore Docker layers using Dive](https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/)
-23. [:scroll: \[eng\] Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache](https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.)
-24. [:scroll: \[eng\] Kompose (translate Docker Compose file into Kubernetes resources)](https://github.com/kubernetes/kompose)
+17. [:scroll: \[eng\] Dockerfile reference: USER](https://docs.docker.com/engine/reference/builder/#user)
+18. [:scroll: \[eng\] Dockerfile reference: SHELL](https://docs.docker.com/engine/reference/builder/#shell)
+19. [:scroll: \[eng\] docker build](https://docs.docker.com/engine/reference/commandline/build/)
+20. [:scroll: \[eng\] docker-compose build](https://docs.docker.com/compose/reference/build/)
+21. [:scroll: \[eng\] docker builder prune](https://docs.docker.com/engine/reference/commandline/builder_prune/)
+22. [:scroll: \[eng\] specifying .dockerignore file](https://github.com/moby/moby/issues/12886#issuecomment-306247989)
+23. [:scroll: \[eng\] Specify dockerignore from command line](https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line)
+24. [:scroll: \[eng\] Explore Docker layers using Dive](https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/)
+25. [:scroll: \[eng\] Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache](https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.)
+26. [:scroll: \[eng\] Kompose (translate Docker Compose file into Kubernetes resources)](https://github.com/kubernetes/kompose)
+27. [:scroll: \[eng\] Tag an image for a private repository](https://docs.docker.com/engine/reference/commandline/tag/#tag-an-image-for-a-private-repository)
+28. [:scroll: \[eng\] Comparing Four Hosted Docker Registries](https://www.suse.com/c/rancher_blog/comparing-four-hosted-docker-registries/)
+29. [:scroll: \[eng\] Shipping images with a registry](https://containers.goffinet.org/k8s/shippingimages.html)
+
 
 
 ## Kubernetes 
