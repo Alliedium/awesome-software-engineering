@@ -16,9 +16,10 @@ A curated list of awesome software engineering resources.
 | [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
 | [:snail: Rust](#rust)| [:microscope: Julia](#julia) |  |
 
-| | |
-|-|-|
-|[:red_circle: REST API](#rest-api)  | 🧩 [GraphQL](#graphql)|
+| | | | |
+|-|-|-|-|
+| [:wrench: OSI/TCP/IP](#ositcpip) | [:wrench: BGP](#bgp) | [:wrench: TLS certificates](#tls-certificates) | [:wrench: ACME](#acme) | 
+| [:wrench: TCP](#tcp) | [:wrench: VXLAN](#vxlan) | [:red_circle: REST API](#rest-api)  | 🧩 [GraphQL](#graphql) | 
 
 | | | | | |
 |-|-|-|-|-|
@@ -26,7 +27,7 @@ A curated list of awesome software engineering resources.
 | [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) | [:fax: Fish](#fish) | [:sparkles: Proxmox](#proxmox) |
 | [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) | [ :black_nib:GIMP](#gimp) | [:wrench: Package Managers](#package-managers) | [:sparkles: Xen](#xen) |
 | [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) | [🧮 systemd](#systemd) | |
-| [:wrench: Network Manager](#network-manager) | [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker-1) | [:milky_way: Kubernetes](#kubernetes)| |
+| [:wrench: Network Manager](#network-manager) | [🧮 Ansible](#ansible)| [:leaves: Docker](#docker-1) | [:milky_way: Kubernetes](#kubernetes)| |
 
 | | |
 |-|-|
@@ -34,8 +35,7 @@ A curated list of awesome software engineering resources.
 
 | | | | |
 |-|-|-|-|
-| [:wrench: OSI/TCP/IP](#ocitcpip) | [:wrench: BGP](#bgp) | [:wrench: VXLAN](#vxlan) | [:wrench: GitHub Actions](#github-actions) |
-| [:wrench: TLS certificates](#tls-certificates) | [:wrench: ACME](#acme) | [:wrench: ArgoCd](#argocd) | [:wrench: Argo Workflows](#argo-workflows) |
+| [:wrench: GitHub Actions](#github-actions) |  [:wrench: Jenkins](#jenkins) | [:wrench: ArgoCd](#argocd) | [:wrench: Argo Workflows](#argo-workflows) |
 
 ## Fundamentals
 
@@ -284,43 +284,6 @@ A curated list of awesome software engineering resources.
 1. [:film_strip: \[eng\] iptables: getting started](https://www.youtube.com/watch?v=qPEA6J9pjG8)
 2. [:film_strip: \[rus\] Iptables detailed tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRsuYa7QOZIy7OsnaIyQZB7_)
 
-### OSI/TCP/IP
-1. [:scroll: \[eng\] The OSI Model](https://subscription.packtpub.com/book/networking_and_servers/9781904811657/1/ch01lvl1sec05/the-osi-model)
-2. [:scroll: \[eng\] The TCP/IP Model](https://subscription.packtpub.com/book/networking_and_servers/9781904811657/1/ch01lvl1sec06/the-tcp-ip-model)
-
-### BGP
-1. [:scroll: \[eng\] What is BGP? | BGP routing explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
-2. [:scroll: \[eng\] BGP (Border Gateway Protocol)](https://www.techtarget.com/searchnetworking/definition/BGP-Border-Gateway-Protocol)
-
-### VXLAN
-1. [:film strip: \[eng\] VxLAN | Issues with traditional vlan | VXLAN benifits explained | free ccna 200-301](https://youtu.be/F1Vq8YwxCXU)
-2. [:scroll: \[eng\] Virtual Extensible LAN](https://en.wikipedia.org/wiki/Virtual_Extensible_LAN)
-3. [:scroll: \[eng\] VXLAN Virtual eXtensible Local Area Network](https://hechao.li/2017/11/23/vxlan/)
-4. [:film_strip: \[eng\] VxLAN | Part 1 - How VxLAN Works](https://youtu.be/YNqKDI_bnPM)
-
-### TLS certificates
-1. [:scroll: \[eng\] Configuring custom SSL/TLS certificates](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/15/html/director_installation_and_usage/configuring-custom-ssl-tls-certificates)
-
-### ACME 
-1. [:scroll: \[rus\] The ACME protocol has been approved as an IETF standard](https://habr.com/ru/company/1cloud/blog/444986/)
-2. [:scroll: \[eng\] ACME Protocol: What it is and how it works](https://www.thesslstore.com/blog/acme-protocol-what-it-is-and-how-it-works/)
-3. [:scroll: \[eng\] How It Works](https://letsencrypt.org/how-it-works/)
-
-### GitHub Actions
-1. [:film_strip: \[eng\] Github Actions Review And Tutorial](https://youtu.be/eZcAvTb0rbA)
-
-### ArgoCd
-1. [:film_strip: \[eng\] Argo CD - Applying GitOps Principles To Manage A Production Environment In Kubernetes](https://youtu.be/vpWQeoaiRM4)
-2. [:film_strip: \[eng\] Environments Based On Pull Requests (PRs): Using Argo CD To Apply GitOps Principles On Previews](https://youtu.be/cpAaI8p4R60)
-3. [:film_strip: \[eng\] Koncrete - GitOps As A Service With Argo CD](https://youtu.be/F2EdxLMQsCw)
-4. [:film_strip: \[eng\] GitOps Without Pipelines With ArgoCD Image Updater](https://youtu.be/avPUQin9kzU)
-
-### Argo Workflows
-1. [:film_strip: \[eng\] Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
-2. [:film_strip: \[eng\] Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
-3. [:film_strip: \[eng\] Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
-
-
 ## Databases
 ### SQL
 1. [:film_strip: \[eng\] SQL Tutorial | PostgreSQL | Full Course by Amigoscode](https://www.youtube.com/watch?v=7S_tz1z_5bA)
@@ -566,22 +529,26 @@ A curated list of awesome software engineering resources.
 - http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/
 
 
-## DevOps
+# DevOps
 1. [:film_strip: \[eng\] DevOps explained by IBM](https://www.youtube.com/playlist?list=PLOspHqNVtKAAm1dmyiR9WMmw1UBoOwZVj)
 2. [:scroll: \[eng\] What is DevOps, DevOps lifecycle](https://medium.com/edureka/devops-lifecycle-8412a213a654)
 3. [:scroll: \[eng\] Continuous Delivery vs Continuous Deployment](https://medium.com/edureka/continuous-delivery-vs-continuous-deployment-5375642865a)
 4. [:scroll: \[eng\] DevOps exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises)
 
-### Containers and Container Orchestration
-#### Docker
-##### Basics
+## Ansible
+1. [:film_strip: \[eng\] What Is Ansible? | How Ansible Works? | Ansible Tutorial For Beginners by Simplilearn](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
+2. [:film_strip: \[eng\] You need to learn Ansible RIGHT NOW!! (Linux Automation) by NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs)
+
+# Containers and Container Orchestration
+## Docker
+### Basics
 1. [:film_strip: \[rus\] Docker basics](https://www.youtube.com/watch?v=yrmty10Q7NQ)
 2. [:scroll: \[eng\] Docker Interview Questions](https://medium.com/edureka/docker-interview-questions-da0010bedb75)
 3. [:scroll: \[eng\] Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
 4. [:scroll: \[eng\] Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
 5. [:film_strip: \[eng\] Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
 
-##### Advanced
+### Advanced
 1. [:scroll: \[eng\] Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
 2. [:scroll: \[eng\] Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 3. [:scroll: \[eng\] Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html)
@@ -608,16 +575,56 @@ A curated list of awesome software engineering resources.
 24. [:scroll: \[eng\] Kompose (translate Docker Compose file into Kubernetes resources)](https://github.com/kubernetes/kompose)
 
 
-
-#### Ansible
-1. [:film_strip: \[eng\] What Is Ansible? | How Ansible Works? | Ansible Tutorial For Beginners by Simplilearn](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
-2. [:film_strip: \[eng\] You need to learn Ansible RIGHT NOW!! (Linux Automation) by NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs)
-
-#### Kubernetes 
+## Kubernetes 
 1. [:film_strip: \[eng\] Minikube Basics and How to Get Started with Kubernetes by Peter Jausovec](https://www.youtube.com/watch?v=FacPam4bwRk)
 2. [:film_strip: \[rus\] Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
 3. [:scroll: \[eng\] Setting up a Kubernetes cluster with Kubespray](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73)
 4. [:scroll: \[eng\] Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
+
+
+# Networks
+## OSI/TCP/IP
+1. [:scroll: \[eng\] The OSI Model](https://subscription.packtpub.com/book/networking_and_servers/9781904811657/1/ch01lvl1sec05/the-osi-model)
+2. [:scroll: \[eng\] The TCP/IP Model](https://subscription.packtpub.com/book/networking_and_servers/9781904811657/1/ch01lvl1sec06/the-tcp-ip-model)
+
+## BGP
+1. [:scroll: \[eng\] What is BGP? | BGP routing explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
+2. [:scroll: \[eng\] BGP (Border Gateway Protocol)](https://www.techtarget.com/searchnetworking/definition/BGP-Border-Gateway-Protocol)
+
+## HTTPS
+### TLS certificates
+1. [:scroll: \[eng\] Configuring custom SSL/TLS certificates](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/15/html/director_installation_and_usage/configuring-custom-ssl-tls-certificates)
+
+### ACME 
+1. [:scroll: \[rus\] The ACME protocol has been approved as an IETF standard](https://habr.com/ru/company/1cloud/blog/444986/)
+2. [:scroll: \[eng\] ACME Protocol: What it is and how it works](https://www.thesslstore.com/blog/acme-protocol-what-it-is-and-how-it-works/)
+3. [:scroll: \[eng\] How It Works](https://letsencrypt.org/how-it-works/)
+
+## TCP
+1. [:scroll: \[rus\] TCP/IP for Beginners](https://selectel.ru/blog/tcp-ip-for-beginners/)
+2. [:scroll: \[eng\] Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+3. [:scroll: \[eng\] Linux in the Network](https://www.novell.com/documentation/suse91/suselinux-adminguide/html/ch14.html)
+
+## VXLAN
+1. [:film strip: \[eng\] VxLAN | Issues with traditional vlan | VXLAN benifits explained | free ccna 200-301](https://youtu.be/F1Vq8YwxCXU)
+2. [:scroll: \[eng\] Virtual Extensible LAN](https://en.wikipedia.org/wiki/Virtual_Extensible_LAN)
+3. [:scroll: \[eng\] VXLAN Virtual eXtensible Local Area Network](https://hechao.li/2017/11/23/vxlan/)
+4. [:film_strip: \[eng\] VxLAN | Part 1 - How VxLAN Works](https://youtu.be/YNqKDI_bnPM)
+
+## REST API
+1. [:film_strip: \[eng\] REST API explained by Mosh](https://www.youtube.com/watch?v=SLwpqD8n3d0)
+2. [:film_strip: \[eng\] Autogenerating Swagger Documentation with Node & Express](https://www.youtube.com/watch?v=apouPYPh_as)
+3. [:film_strip: \[rus\] REST API testing via Postman](https://www.youtube.com/watch?v=ZpxjS8ZB0MA)
+
+## GraphQL
+1. [:scroll: \[eng\] Introduction to GraphQL by Udara Bibile](https://medium.com/@chathuranga94/introduction-to-graphql-3e0142879aba)
+2. [:scroll: \[eng\] GraphQL With Python Flask by Manish Jain](https://medium.com/@hatemtayeb2/hello-graphql-a-practical-guide-a2f7f9f70ab4)
+3. [:scroll: \[eng\] Schema-First GraphQL: The Road Less Travelled by Jakub Draganek](https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff)
+
+# CI/CD
+## CI/CD TOOLS
+### GitHub Actions
+1. [:film_strip: \[eng\] Github Actions Review And Tutorial](https://youtu.be/eZcAvTb0rbA)
 
 ### Jenkins
 1. [:scroll: \[eng\] Jenkins Pipeline Tutorial](https://medium.com/edureka/jenkins-pipeline-tutorial-continuous-delivery-75a86936bc92)
@@ -628,14 +635,13 @@ A curated list of awesome software engineering resources.
 6. [:scroll: \[eng\] jenkins.io - User handbook](https://www.jenkins.io/doc/book/getting-started/)
 7. [:film_strip: \[end\] CI CD Pipeline Using Jenkins](https://www.youtube.com/watch?v=m0a2CzgLNsc)
 
-## Networks
-### REST API
-1. [:film_strip: \[eng\] REST API explained by Mosh](https://www.youtube.com/watch?v=SLwpqD8n3d0)
-2. [:film_strip: \[eng\] Autogenerating Swagger Documentation with Node & Express](https://www.youtube.com/watch?v=apouPYPh_as)
-3. [:film_strip: \[rus\] REST API testing via Postman](https://www.youtube.com/watch?v=ZpxjS8ZB0MA)
+### ArgoCd
+1. [:film_strip: \[eng\] Argo CD - Applying GitOps Principles To Manage A Production Environment In Kubernetes](https://youtu.be/vpWQeoaiRM4)
+2. [:film_strip: \[eng\] Environments Based On Pull Requests (PRs): Using Argo CD To Apply GitOps Principles On Previews](https://youtu.be/cpAaI8p4R60)
+3. [:film_strip: \[eng\] Koncrete - GitOps As A Service With Argo CD](https://youtu.be/F2EdxLMQsCw)
+4. [:film_strip: \[eng\] GitOps Without Pipelines With ArgoCD Image Updater](https://youtu.be/avPUQin9kzU)
 
-### GraphQL
-1. [:scroll: \[eng\] Introduction to GraphQL by Udara Bibile](https://medium.com/@chathuranga94/introduction-to-graphql-3e0142879aba)
-2. [:scroll: \[eng\] GraphQL With Python Flask by Manish Jain](https://medium.com/@hatemtayeb2/hello-graphql-a-practical-guide-a2f7f9f70ab4)
-3. [:scroll: \[eng\] Schema-First GraphQL: The Road Less Travelled by Jakub Draganek](https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff)
-
+### Argo Workflows
+1. [:film_strip: \[eng\] Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
+2. [:film_strip: \[eng\] Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
+3. [:film_strip: \[eng\] Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
