@@ -672,7 +672,7 @@ A curated list of awesome software engineering resources.
 3. [:scroll: \[eng\] Linux in the Network](https://www.novell.com/documentation/suse91/suselinux-adminguide/html/ch14.html)
 
 ## VXLAN
-1. [:film strip: \[eng\] VxLAN | Issues with traditional vlan | VXLAN benifits explained](https://youtu.be/F1Vq8YwxCXU)
+1. [:film_strip: \[eng\] VxLAN | Issues with traditional vlan | VXLAN benifits explained | free ccna 200-301](https://youtu.be/F1Vq8YwxCXU)
 2. [:scroll: \[eng\] Virtual Extensible LAN](https://en.wikipedia.org/wiki/Virtual_Extensible_LAN)
 3. [:scroll: \[eng\] VXLAN Virtual eXtensible Local Area Network](https://hechao.li/2017/11/23/vxlan/)
 4. [:film_strip: \[eng\] VxLAN | Part 1 - How VxLAN Works](https://youtu.be/YNqKDI_bnPM)
