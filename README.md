@@ -584,13 +584,69 @@ A curated list of awesome software engineering resources.
 29. [:scroll: \[eng\] Shipping images with a registry](https://containers.goffinet.org/k8s/shippingimages.html)
 
 
+# Kubernetes 
+1. [:film_strip: \[rus\] Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+2. [:scroll: \[eng\] Setting up a Kubernetes cluster with Kubespray](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73)
+3. [:scroll: \[eng\] Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
 
-## Kubernetes 
+## Local Distributions
+### k3s/k3d
+1. [:scroll: \[eng\] K3s Server Configuration Reference](https://rancher.com/docs/k3s/latest/en/installation/install-options/server-config/)
+2. [:film_strip: \[eng\] DOT. K3d - How to run Kubernetes cluster locally using Rancher K3s](https://youtu.be/mCesuGk-Fks)
+
+### minikube
 1. [:film_strip: \[eng\] Minikube Basics and How to Get Started with Kubernetes by Peter Jausovec](https://www.youtube.com/watch?v=FacPam4bwRk)
-2. [:film_strip: \[rus\] Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
-3. [:scroll: \[eng\] Setting up a Kubernetes cluster with Kubespray](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73)
-4. [:scroll: \[eng\] Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
 
+## Kubernetes Tools
+1. [:scroll: \[eng\] Kubernetes Essential Tools: 2021](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
+2. [:scroll: \[rus\] Kubernetes Essential Tools: 2021](https://habr.com/ru/company/jugru/blog/575408/)
+
+### Lens
+1. [:film_strip: \[eng\] DOT. Lens - Kubernetes IDE and Dashboard](https://youtu.be/q_ooC1xcGCg)
+
+## Kubernetes Objects
+1. [:scroll: \[eng\] Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+2. [:scroll: \[rus\] Kubernetes: ClusterIP vs NodePort vs LoadBalancer, Services and Ingress – survey, examlpes](https://rtfm.co.ua/kubernetes-clusterip-vs-nodeport-vs-loadbalancer-services-i-ingress-obzor-primery/)
+3. [:scroll: \[eng\] Publishing Services (ServiceTypes)](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
+4. [:scroll: \[eng\] Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+5. [:scroll: \[eng\] Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+6. [:scroll: \[eng\] K8s: Deployments vs StatefulSets vs DaemonSets ](https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4)
+
+## Ingress
+1. [:scroll: \[eng\] NGINX Ingress Controller. Installation Guide](https://kubernetes.github.io/ingress-nginx/deploy/)
+
+## Kubernetes Operators
+1. [:film_strip: \[rus\] What are Kubernetes Operators?](https://youtu.be/iVTW99Lubhw?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+2. [:scroll: \[eng\] Operator for Apache CouchDB](https://operatorhub.io/operator/couchdb-operator)
+
+## Stateful workloads in Kubernetes
+1. [:film_strip: \[eng\] Stateful Kubernetes Applications - Ask Me Anything](https://youtu.be/qKg09Y1pDjw)
+
+### Longhorn
+1. [:scroll: \[eng\] Install Longhorn on Kubernetes](https://longhorn.io/docs/1.2.3/deploy/install/)
+
+## Kubernetes manifest parameterization
+### Kustomize
+1. [:scroll: \[eng\] Declarative Management of Kubernetes Objects Using Kustomize](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
+
+### Helm
+1. [:scroll: \[eng\] 13 Best Practices for using Helm](https://codersociety.com/blog/articles/helm-best-practices)
+2. [:scroll: \[eng\] The Chart Best Practices Guide](https://helm.sh/docs/chart_best_practices/)
+3. [:scroll: \[eng\] Values Files](https://helm.sh/docs/chart_template_guide/values_files/)
+4. [:scroll: \[eng\] Helm install in certain order (stackoverflow)](https://stackoverflow.com/a/51962615/7500141)
+5. [:scroll: \[eng\] Chart Hooks](https://helm.sh/docs/topics/charts_hooks/)
+6. [:scroll: \[eng\] Helm Rollback](https://helm.sh/docs/helm/helm_rollback/)
+
+##  Kubernetes monitoring
+### Prometheus
+1. [:scroll: \[eng\] What is Prometheus? | When does it fit? | When does it not fit? ](https://prometheus.io/docs/introduction/overview/)
+2. [:scroll: \[eng\] Prometheus Operator packaged by Bitnami](https://github.com/bitnami/charts/tree/master/bitnami/kube-prometheus/)
+3. [:scroll: \[eng\] Using Custom Prometheus with Lens app](https://github.com/lensapp/lens/blob/master/troubleshooting/custom-prometheus.md)
+
+### Grafana
+1. [:scroll: \[rus\] Grafana - yet another tool for technical monitoring](https://habr.com/ru/company/southbridge/blog/431122/)
+2. [:scroll: \[eng\] Grafana project](https://grafana.com/oss/grafana/)
+3. [:scroll: \[eng\] Grafana Operator packaged by Bitnami](https://github.com/bitnami/bitnami-docker-grafana-operator)
 
 # Networks
 ## OSI/TCP/IP
