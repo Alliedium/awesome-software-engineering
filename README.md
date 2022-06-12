@@ -544,6 +544,12 @@ A curated list of awesome software engineering resources.
 2. [:film_strip: \[eng\] You need to learn Ansible RIGHT NOW!! (Linux Automation) by NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs)
 
 # Containers and Container Orchestration
+## LXC
+1. [:scroll: \[eng\] What's LXC?](https://linuxcontainers.org/lxc/)
+2. [:scroll: \[rus\] LXC Containers in Linux](https://losst.ru/kontejnery-linux-ustanovka-i-nastrojka-lxc)
+3. [:scroll: \[eng\] LXC on gentoo wiki](https://wiki.gentoo.org/wiki/LXC)
+4. [:scroll: \[rus\] LXC aka Linux Container: simple and reliable](https://habr.com/ru/company/contell/blog/330794/)
+
 ## Docker
 ### Basics
 1. [:film_strip: \[rus\] Docker basics](https://www.youtube.com/watch?v=yrmty10Q7NQ)
