@@ -23,7 +23,7 @@ A curated list of awesome software engineering resources.
 
 | | | | | |
 |-|-|-|-|-|
-| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:grey_question: FreeBSD](#freebsd) | [:grey_question: MacOs](#macos) | [:sparkles: HyperVisors](#hypervisors) |
+| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:grey_question: FreeBSD](#freebsd) | [:grey_question: MacOs](#macos) | [:sparkles: Virtualization](#virtualization) |
 | [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) | [:fax: Fish](#fish) | [:sparkles: Proxmox](#proxmox) |
 | [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) | [ :black_nib:GIMP](#gimp) | [:wrench: Package Managers](#package-managers) | [:sparkles: Xen](#xen) |
 | [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) | [🧮 systemd](#systemd) | |
@@ -207,21 +207,6 @@ A curated list of awesome software engineering resources.
 2. [:film_strip: \[rus\] Arch Linux pacman](https://www.youtube.com/watch?v=qSdu6Mqgur4)
 3. [:film_strip: \[rus\] Arch Linux AUR](https://www.youtube.com/watch?v=kT1NCH45XdI)
 4. [:film_strip: \[rus\] Arch Linux vs Manjaro](https://www.youtube.com/watch?v=8pGmUMZs_Do)
-
-### HyperVisors
-1. [:scroll: \[rus\] What is Hypervisor, what's its role in virtualization, types, comparison](https://selectel.ru/blog/what-is-hypervisor/)
-2. [:scroll: \[rus\] Virtualization systems. Compare the VMware, Hyper-V, KVM, Xen](https://datahouse.ru/articles/sistemy-virtualizacii/)
-3. [:scroll: \[eng\] Compare the Top Hypervisors of 2022](https://sourceforge.net/software/hypervisors/)
-
-### Proxmox
-1. [:film_strip: \[eng\] Virtualize Everything! - Proxmox Install Tutorial by Craft Computing](https://www.youtube.com/watch?v=azORbxrItOo)
-2. [:film_strip: \[eng\] Proxmox VE 6.0 Beginner Tutorial - Installing Proxmox & Creating a virtual machine by Proxmox HHS](https://www.youtube.com/watch?v=I-e1_CTa4s0)
-3. [:film_strip: \[eng\] Virtualize Windows 10 with Proxmox VE by Techno Tim](https://www.youtube.com/watch?v=6c-6xBkD2J4)
-4. [:film_strip: \[rus\] Proxmox tutorial by realmanual](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
-
-### Xen
-1. [:film_strip: \[eng\] Getting Started Tutorial: Building An Open Source XCP-NG & Xen Orchestra Virtualization Lab](https://www.youtube.com/watch?v=q-jKs62b6Co)
-
 
 ### LVM
 1. [:film_strip: \[rus\] LVM: Theory and practice by unixway](https://www.youtube.com/watch?v=QgUZrLcmJT8)
@@ -542,6 +527,31 @@ A curated list of awesome software engineering resources.
 ## Ansible
 1. [:film_strip: \[eng\] What Is Ansible? | How Ansible Works? | Ansible Tutorial For Beginners by Simplilearn](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
 2. [:film_strip: \[eng\] You need to learn Ansible RIGHT NOW!! (Linux Automation) by NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs)
+
+# Virtualization
+1. [:film_strip: \[eng\] Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk)
+2. [:film_strip: \[eng\] Introduction to Virtualization by Chris Titus](https://www.youtube.com/watch?v=T0nywDkf1IE)
+3. [:film_strip: \[eng\] Virtualization Explained | Docker | VMware | QEMU | Virtualbox by](https://www.youtube.com/watch?v=E3azDp1K8X0)
+4. [:film_strip: \[eng\] Stop using Virtualbox, Here's how to use QEMU instead](https://www.youtube.com/watch?v=Kq849CpGd88)
+5. [:scroll: \[eng\] QEMU/KVM — Virtualization on Linux](https://casinesque.medium.com/first-approach-with-qemu-kvm-virtualization-on-linux-733ba2ffb739)
+6. [:film_strip: \[rus\] KVM Virtualization. Part 1 by unixway](https://www.youtube.com/watch?v=5TT1C6prxrg)
+7. [:scroll: \[rus\] What is Hypervisor, what's its role in virtualization, types, comparison](https://selectel.ru/blog/what-is-hypervisor/)
+8. [:scroll: \[rus\] Virtualization systems. Compare the VMware, Hyper-V, KVM, Xen](https://datahouse.ru/articles/sistemy-virtualizacii/)
+9. [:scroll: \[eng\] Compare the Top Hypervisors of 2022](https://sourceforge.net/software/hypervisors/)
+
+## Proxmox
+1. [:scroll: \[eng\] Comparing Server Virtualization Software. Why choose Proxmox VE for your workloads?](https://www.proxmox.com/en/proxmox-ve/comparison)
+2. [:film_strip: \[eng\] Virtualize Everything! - Proxmox Install Tutorial by Craft Computing](https://www.youtube.com/watch?v=azORbxrItOo)
+3. [:film_strip: \[eng\] Proxmox VE 6.0 Beginner Tutorial - Installing Proxmox & Creating a virtual machine by Proxmox HHS](https://www.youtube.com/watch?v=I-e1_CTa4s0)
+4. [:film_strip: \[eng\] Virtualize Windows 10 with Proxmox VE by Techno Tim](https://www.youtube.com/watch?v=6c-6xBkD2J4)
+5. [:film_strip: \[rus\] Proxmox tutorial by realmanual](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
+
+### Xen
+1. [:film_strip: \[eng\] Getting Started Tutorial: Building An Open Source XCP-NG & Xen Orchestra Virtualization Lab](https://www.youtube.com/watch?v=q-jKs62b6Co)
+
+### Open vSwitch
+1. [:scroll: \[eng\] Production Quality, Multilayer Open Virtual Switch](https://www.openvswitch.org/)
+
 
 # Containers and Container Orchestration
 1. [:scroll: \[eng\] What is a container?](https://docs.docker.com/get-started/#what-is-a-container)
