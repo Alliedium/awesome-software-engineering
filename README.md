@@ -16,23 +16,26 @@ A curated list of awesome software engineering resources.
 | [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
 | [:snail: Rust](#rust)| [:microscope: Julia](#julia) |  |
 
-| | |
-|-|-|
-|[:red_circle: REST API](#rest-api)  | 🧩 [GraphQL](#graphql)|
+| | | | |
+|-|-|-|-|
+| [:wrench: OSI/TCP/IP](#ositcpip) | [:wrench: BGP](#bgp) | [:wrench: TLS certificates](#tls-certificates) | [:wrench: ACME](#acme) | 
+| [:wrench: TCP](#tcp) | [:wrench: VXLAN](#vxlan) | [:red_circle: REST API](#rest-api)  | 🧩 [GraphQL](#graphql) | 
 
-| | | |
-|-|-|-|
-| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:sparkles: Proxmox](#proxmox) |
-| [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) |
-| [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) |[ :black_nib:GIMP](#gimp) |
-| [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) |
-| [🧮 Ansible](#ansible)| [ [:leaves: Docker](#docker-1) | [:milky_way: Kubernetes](#kubernetes)|
+| | | | | |
+|-|-|-|-|-|
+| [📓 Linux](#linux) | [:grey_question: Windows](#windows) | [:grey_question: FreeBSD](#freebsd) | [:grey_question: MacOs](#macos) | [:sparkles: HyperVisors](#hypervisors) |
+| [📊 SSH](#ssh) | [:bookmark: Git](#git) |[:fax: Vim](#vim) | [:fax: Fish](#fish) | [:sparkles: Proxmox](#proxmox) |
+| [:violin: LibreOffice](#libreoffice) | [:gem: Kdenlive](#kdenlive) | [ :black_nib:GIMP](#gimp) | [:wrench: Package Managers](#package-managers) | [:sparkles: Xen](#xen) |
+| [:books: ZFS](#zfs) | [:golf: LVM](#lvm) | [:musical_keyboard: tmux](#tmux) | [🧮 systemd](#systemd) | |
+| [:wrench: Network Manager](#network-manager) | [🧮 Ansible](#ansible)| [:leaves: Docker](#docker-1) | [:milky_way: Kubernetes](#kubernetes)| |
 
 | | |
 |-|-|
 |[🔐 KeePassXC](#KeePassXC)  |  [🗿 iptables](#iptables)|
 
-
+| | | | |
+|-|-|-|-|
+| [:wrench: GitHub Actions](#github-actions) |  [:wrench: Jenkins](#jenkins) | [:wrench: ArgoCd](#argocd) | [:wrench: Argo Workflows](#argo-workflows) |
 
 ## Fundamentals
 
@@ -154,8 +157,9 @@ A curated list of awesome software engineering resources.
 ### Linux Distributions
 1. [:film_strip: \[eng\] Which Linux Distribution? | Understanding Linux Distros by Chris Titus](https://www.youtube.com/watch?v=DKFnqAtEOvc)
 2. [:film_strip: \[eng\] How to Choose a Linux Distribution by Chris Titus](https://www.youtube.com/watch?v=iox7fr7p5Hc)
-3. [:film_strip: \[eng\] Debian vs Arch by Chris Titus](https://www.youtube.com/watch?v=gtdYBc3p5Kw)
-4. [:film_strip: \[eng\] Why Ubuntu is the Devil and Why So Many No Longer Use It by Chris Titus](https://www.youtube.com/watch?v=L7uL50zVZJA)
+3. [:film_strip: \[eng\] GNU/Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/8/8c/Linux_Distribution_Timeline_Dec._2020.svg)
+4. [:film_strip: \[eng\] Debian vs Arch by Chris Titus](https://www.youtube.com/watch?v=gtdYBc3p5Kw)
+5. [:film_strip: \[eng\] Why Ubuntu is the Devil and Why So Many No Longer Use It by Chris Titus](https://www.youtube.com/watch?v=L7uL50zVZJA)
 
 ### Command line
 1. [:film_strip: \[eng\] 15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 1](https://www.youtube.com/watch?v=XK81cfvrElg)
@@ -163,6 +167,21 @@ A curated list of awesome software engineering resources.
 3. [:film_strip: \[eng\] Bash tutorial](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 4. [:scroll: \[eng\] zsh+OhMyZsh+fzf+powerlevel10k: Your terminal can be much, MUCH more productive by Ivan](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
 5. [:scroll: \[eng\] fzf: Why you should be using fzf, the command line fuzzy finder by Alexey Samoshkin](https://medium.com/free-code-camp/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
+6. [:scroll: \[eng\] How to Create Users in Linux (useradd Command)](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/)
+7. [:scroll: \[eng\] How to Linux sh command](https://www.computerhope.com/unix/ush.htm)
+8. [:scroll: \[eng\] How to sh(1) - Linux man page](https://linux.die.net/man/1/sh)
+
+### User Access Permissions
+1. [:scroll: \[eng\] Users and groups](https://wiki.archlinux.org/title/users_and_groups)
+2. [:scroll: \[eng\] Access Control Lists](https://wiki.archlinux.org/title/Access_Control_Lists)
+
+### Fish
+1. [:scroll: \[eng\] fish Tutorial](https://fishshell.com/docs/current/tutorial.html)
+2. [:scroll: \[eng\] fish Documentation](https://fishshell.com/docs/current/index.html)
+
+### Package Managers
+1. [:scroll: \[eng\] 5 Best Linux Package Managers for Linux Newbies](https://www.tecmint.com/linux-package-managers/)
+2. [:scroll: \[eng\] Best Linux Package Managers](https://www.webservertalk.com/best-linux-package-managers/)
 
 ### Tips & Tricks
 1. [:scroll: \[eng\] Awesome Linux Configuration Scripts by Alliedium](https://github.com/Alliedium/awesome-linux-config)
@@ -175,6 +194,13 @@ A curated list of awesome software engineering resources.
 #### tmux
 1. [:film_strip: \[rus\] Console Utility tmux by unixway](https://www.youtube.com/watch?v=J67U2NKfszM)
 
+#### systemd
+1. [:scroll: \[eng\] Beginners Guide on systemd tutorial in Linux](https://www.golinuxcloud.com/beginners-guide-systemd-tutorial-linux/)
+
+#### Network Manager
+1. [:scroll: \[eng\] Configuring IP Networking with nmtui](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-configuring_ip_networking_with_nmtui)
+2. [:scroll: \[eng\] Configuring IP Networking with nmcli](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-configuring_ip_networking_with_nmcli)
+
 ### Arch Linux, Manjaro
 
 1. [:film_strip: \[rus\] Arch Linux basics](https://www.youtube.com/watch?v=KTSlwGlviBE)
@@ -182,11 +208,20 @@ A curated list of awesome software engineering resources.
 3. [:film_strip: \[rus\] Arch Linux AUR](https://www.youtube.com/watch?v=kT1NCH45XdI)
 4. [:film_strip: \[rus\] Arch Linux vs Manjaro](https://www.youtube.com/watch?v=8pGmUMZs_Do)
 
+### HyperVisors
+1. [:scroll: \[rus\] What is Hypervisor, what's its role in virtualization, types, comparison](https://selectel.ru/blog/what-is-hypervisor/)
+2. [:scroll: \[rus\] Virtualization systems. Compare the VMware, Hyper-V, KVM, Xen](https://datahouse.ru/articles/sistemy-virtualizacii/)
+3. [:scroll: \[eng\] Compare the Top Hypervisors of 2022](https://sourceforge.net/software/hypervisors/)
+
 ### Proxmox
 1. [:film_strip: \[eng\] Virtualize Everything! - Proxmox Install Tutorial by Craft Computing](https://www.youtube.com/watch?v=azORbxrItOo)
 2. [:film_strip: \[eng\] Proxmox VE 6.0 Beginner Tutorial - Installing Proxmox & Creating a virtual machine by Proxmox HHS](https://www.youtube.com/watch?v=I-e1_CTa4s0)
 3. [:film_strip: \[eng\] Virtualize Windows 10 with Proxmox VE by Techno Tim](https://www.youtube.com/watch?v=6c-6xBkD2J4)
 4. [:film_strip: \[rus\] Proxmox tutorial by realmanual](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
+
+### Xen
+1. [:film_strip: \[eng\] Getting Started Tutorial: Building An Open Source XCP-NG & Xen Orchestra Virtualization Lab](https://www.youtube.com/watch?v=q-jKs62b6Co)
+
 
 ### LVM
 1. [:film_strip: \[rus\] LVM: Theory and practice by unixway](https://www.youtube.com/watch?v=QgUZrLcmJT8)
@@ -197,6 +232,7 @@ A curated list of awesome software engineering resources.
 
 ### Linux Filesystems
 1. [:film_strip: \[eng\] File Systems | Which One is the Best? ZFS, BTRFS, or EXT4 by Chris Titus](https://www.youtube.com/watch?v=HdEozE2gN9I)
+2. [:scroll: \[eng\] Classic SysAdmin: The Linux Filesystem Explained](https://linuxfoundation.org/blog/classic-sysadmin-the-linux-filesystem-explained/)
 
 #### ZFS
 1. [:film_strip: \[eng\] What Is ZFS?: A Brief Primer by Level1Linux](https://www.youtube.com/watch?v=lsFDp-W1Ks0)
@@ -229,6 +265,11 @@ A curated list of awesome software engineering resources.
 1. [:film_strip: \[eng\] 17 Reasons Why I Do Not Use Windows 10 by Chris Titus](https://www.youtube.com/watch?v=TMeeryVlGAY)
 2. [:film_strip: \[eng\] Speed Up Windows 10 in 2020 by Chris Titus](https://www.youtube.com/watch?v=8E6OT_QcHaU)
 
+## FreeBSD
+1. [:scroll: \[eng\] FreeBSD Basics](https://docs.freebsd.org/en/books/handbook/basics/)
+
+## MacOs
+1. [:scroll: \[eng\] A Complete Beginner's Guide to macOS: Get Started in Just 1 Hour](https://www.makeuseof.com/tag/macos-beginners-guide/)
 
 ## Source Control  
 
@@ -492,49 +533,170 @@ A curated list of awesome software engineering resources.
 - http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/
 
 
-## DevOps
+# DevOps
 1. [:film_strip: \[eng\] DevOps explained by IBM](https://www.youtube.com/playlist?list=PLOspHqNVtKAAm1dmyiR9WMmw1UBoOwZVj)
 2. [:scroll: \[eng\] What is DevOps, DevOps lifecycle](https://medium.com/edureka/devops-lifecycle-8412a213a654)
 3. [:scroll: \[eng\] Continuous Delivery vs Continuous Deployment](https://medium.com/edureka/continuous-delivery-vs-continuous-deployment-5375642865a)
 4. [:scroll: \[eng\] DevOps exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises)
 
-### Containers and Container Orchestration
-#### Docker
-##### Basics
+## Ansible
+1. [:film_strip: \[eng\] What Is Ansible? | How Ansible Works? | Ansible Tutorial For Beginners by Simplilearn](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
+2. [:film_strip: \[eng\] You need to learn Ansible RIGHT NOW!! (Linux Automation) by NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs)
+
+# Containers and Container Orchestration
+## LXC
+1. [:scroll: \[eng\] What's LXC?](https://linuxcontainers.org/lxc/)
+2. [:scroll: \[rus\] LXC Containers in Linux](https://losst.ru/kontejnery-linux-ustanovka-i-nastrojka-lxc)
+3. [:scroll: \[eng\] LXC on gentoo wiki](https://wiki.gentoo.org/wiki/LXC)
+4. [:scroll: \[rus\] LXC aka Linux Container: simple and reliable](https://habr.com/ru/company/contell/blog/330794/)
+
+## Docker
+### Basics
 1. [:film_strip: \[rus\] Docker basics](https://www.youtube.com/watch?v=yrmty10Q7NQ)
 2. [:scroll: \[eng\] Docker Interview Questions](https://medium.com/edureka/docker-interview-questions-da0010bedb75)
 3. [:scroll: \[eng\] Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
 4. [:scroll: \[eng\] Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
 5. [:film_strip: \[eng\] Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
 
-##### Advanced
-1. https://cloud.google.com/architecture/best-practices-for-building-containers
-2. https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html
-3. https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html
-4. https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html
-5. https://testdriven.io/blog/faster-ci-builds-with-docker-cache/
-6. https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/
-7. https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e
-8. https://dev.to/pst418/speed-up-multi-stage-docker-builds-in-ci-cd-with-buildkit-s-registry-cache-11gi
-9. https://vsupalov.com/docker-arg-vs-env/#:~:text=ENV%20is%20for%20future%20running,for%20your%20future%20environment%20variables.
-10. https://habr.com/ru/company/southbridge/blog/329138/
-11. https://stackoverflow.com/questions/42297387/docker-build-with-build-arg-with-multiple-arguments, https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose
-12. https://docs.docker.com/engine/reference/builder/#from, https://docs.docker.com/engine/reference/builder/#arg, https://docs.docker.com/engine/reference/builder/#copy, https://docs.docker.com/engine/reference/builder/#label, https://docs.docker.com/engine/reference/commandline/build/, https://docs.docker.com/compose/reference/build/, https://docs.docker.com/engine/reference/commandline/builder_prune/
-13. https://github.com/moby/moby/issues/12886#issuecomment-306247989, https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line
-14. https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/
-15. https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.
-16. https://github.com/kubernetes/kompose
+### Advanced
+1. [:scroll: \[eng\] Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
+2. [:scroll: \[eng\] Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
+3. [:scroll: \[eng\] Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html)
+4. [:scroll: \[eng\] Docker Images : Part III - Going Farther To Reduce Image Size](https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html)
+5. [:scroll: \[eng\] Faster CI Builds with Docker Layer Caching and BuildKit](https://testdriven.io/blog/faster-ci-builds-with-docker-cache/)
+6. [:scroll: \[eng\] Advanced Dockerfiles: Faster Builds and Smaller Images Using BuildKit and Multistage Builds](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
+7. [:scroll: \[eng\] Docker build cache sharing on multi-hosts with BuildKit and buildx](https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e)
+8. [:scroll: \[eng\] Speed up multi-stage Docker builds in CI/CD with Buildkit’s registry cache](https://dev.to/pst418/speed-up-multi-stage-docker-builds-in-ci-cd-with-buildkit-s-registry-cache-11gi)
+9. [:scroll: \[eng\] Docker ARG vs ENV](https://vsupalov.com/docker-arg-vs-env/#:~:text=ENV%20is%20for%20future%20running,for%20your%20future%20environment%20variables.)
+10. [:scroll: \[rus\] ENTRYPOINT vs CMD: Back to Basics](https://habr.com/ru/company/southbridge/blog/329138/)
+11. [:scroll: \[eng\] docker build with --build-arg with multiple arguments](https://stackoverflow.com/questions/42297387/docker-build-with-build-arg-with-multiple-arguments) 
+12. [:scroll: \[eng\] How to define build-args in docker-compose?](https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose)
+13. [:scroll: \[eng\] Dockerfile reference: FROM](https://docs.docker.com/engine/reference/builder/#from)
+14. [:scroll: \[eng\] Dockerfile reference: ARG](https://docs.docker.com/engine/reference/builder/#arg)
+15. [:scroll: \[eng\] Dockerfile reference: COPY](https://docs.docker.com/engine/reference/builder/#copy)
+16. [:scroll: \[eng\] Dockerfile reference: LABEL](https://docs.docker.com/engine/reference/builder/#label)
+17. [:scroll: \[eng\] Dockerfile reference: USER](https://docs.docker.com/engine/reference/builder/#user)
+18. [:scroll: \[eng\] Dockerfile reference: SHELL](https://docs.docker.com/engine/reference/builder/#shell)
+19. [:scroll: \[eng\] docker build](https://docs.docker.com/engine/reference/commandline/build/)
+20. [:scroll: \[eng\] docker-compose build](https://docs.docker.com/compose/reference/build/)
+21. [:scroll: \[eng\] docker builder prune](https://docs.docker.com/engine/reference/commandline/builder_prune/)
+22. [:scroll: \[eng\] specifying .dockerignore file](https://github.com/moby/moby/issues/12886#issuecomment-306247989)
+23. [:scroll: \[eng\] Specify dockerignore from command line](https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line)
+24. [:scroll: \[eng\] Explore Docker layers using Dive](https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/)
+25. [:scroll: \[eng\] Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache](https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.)
+26. [:scroll: \[eng\] Kompose (translate Docker Compose file into Kubernetes resources)](https://github.com/kubernetes/kompose)
+27. [:scroll: \[eng\] Tag an image for a private repository](https://docs.docker.com/engine/reference/commandline/tag/#tag-an-image-for-a-private-repository)
+28. [:scroll: \[eng\] Comparing Four Hosted Docker Registries](https://www.suse.com/c/rancher_blog/comparing-four-hosted-docker-registries/)
+29. [:scroll: \[eng\] Shipping images with a registry](https://containers.goffinet.org/k8s/shippingimages.html)
 
 
-#### Ansible
-1. [:film_strip: \[eng\] What Is Ansible? | How Ansible Works? | Ansible Tutorial For Beginners by Simplilearn](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
-2. [:film_strip: \[eng\] You need to learn Ansible RIGHT NOW!! (Linux Automation) by NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs)
+# Kubernetes 
+1. [:film_strip: \[rus\] Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+2. [:scroll: \[eng\] Setting up a Kubernetes cluster with Kubespray](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73)
+3. [:scroll: \[eng\] Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
 
-#### Kubernetes 
+## Local Distributions
+### k3s/k3d
+1. [:scroll: \[eng\] K3s Server Configuration Reference](https://rancher.com/docs/k3s/latest/en/installation/install-options/server-config/)
+2. [:film_strip: \[eng\] DOT. K3d - How to run Kubernetes cluster locally using Rancher K3s](https://youtu.be/mCesuGk-Fks)
+
+### minikube
 1. [:film_strip: \[eng\] Minikube Basics and How to Get Started with Kubernetes by Peter Jausovec](https://www.youtube.com/watch?v=FacPam4bwRk)
-2. [:film_strip: \[rus\] Kubernetes video tutorial](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
-3. [:scroll: \[eng\] Setting up a Kubernetes cluster with Kubespray](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73)
-4. [:scroll: \[eng\] Kubernetes exercies by Bregman Arie](https://github.com/bregman-arie/devops-exercises#kubernetes)
+
+## Kubernetes Tools
+1. [:scroll: \[eng\] Kubernetes Essential Tools: 2021](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
+2. [:scroll: \[rus\] Kubernetes Essential Tools: 2021](https://habr.com/ru/company/jugru/blog/575408/)
+
+### Lens
+1. [:film_strip: \[eng\] DOT. Lens - Kubernetes IDE and Dashboard](https://youtu.be/q_ooC1xcGCg)
+
+## Kubernetes Objects
+1. [:scroll: \[eng\] Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+2. [:scroll: \[rus\] Kubernetes: ClusterIP vs NodePort vs LoadBalancer, Services and Ingress – survey, examlpes](https://rtfm.co.ua/kubernetes-clusterip-vs-nodeport-vs-loadbalancer-services-i-ingress-obzor-primery/)
+3. [:scroll: \[eng\] Publishing Services (ServiceTypes)](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
+4. [:scroll: \[eng\] Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+5. [:scroll: \[eng\] Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+6. [:scroll: \[eng\] K8s: Deployments vs StatefulSets vs DaemonSets ](https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4)
+
+## Ingress
+1. [:scroll: \[eng\] NGINX Ingress Controller. Installation Guide](https://kubernetes.github.io/ingress-nginx/deploy/)
+
+## Kubernetes Operators
+1. [:film_strip: \[rus\] What are Kubernetes Operators?](https://youtu.be/iVTW99Lubhw?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+2. [:scroll: \[eng\] Operator for Apache CouchDB](https://operatorhub.io/operator/couchdb-operator)
+
+## Stateful workloads in Kubernetes
+1. [:film_strip: \[eng\] Stateful Kubernetes Applications - Ask Me Anything](https://youtu.be/qKg09Y1pDjw)
+
+### Longhorn
+1. [:scroll: \[eng\] Install Longhorn on Kubernetes](https://longhorn.io/docs/1.2.3/deploy/install/)
+
+## Kubernetes manifest parameterization
+### Kustomize
+1. [:scroll: \[eng\] Declarative Management of Kubernetes Objects Using Kustomize](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
+
+### Helm
+1. [:scroll: \[eng\] 13 Best Practices for using Helm](https://codersociety.com/blog/articles/helm-best-practices)
+2. [:scroll: \[eng\] The Chart Best Practices Guide](https://helm.sh/docs/chart_best_practices/)
+3. [:scroll: \[eng\] Values Files](https://helm.sh/docs/chart_template_guide/values_files/)
+4. [:scroll: \[eng\] Helm install in certain order (stackoverflow)](https://stackoverflow.com/a/51962615/7500141)
+5. [:scroll: \[eng\] Chart Hooks](https://helm.sh/docs/topics/charts_hooks/)
+6. [:scroll: \[eng\] Helm Rollback](https://helm.sh/docs/helm/helm_rollback/)
+
+##  Kubernetes monitoring
+### Prometheus
+1. [:scroll: \[eng\] What is Prometheus? | When does it fit? | When does it not fit? ](https://prometheus.io/docs/introduction/overview/)
+2. [:scroll: \[eng\] Prometheus Operator packaged by Bitnami](https://github.com/bitnami/charts/tree/master/bitnami/kube-prometheus/)
+3. [:scroll: \[eng\] Using Custom Prometheus with Lens app](https://github.com/lensapp/lens/blob/master/troubleshooting/custom-prometheus.md)
+
+### Grafana
+1. [:scroll: \[rus\] Grafana - yet another tool for technical monitoring](https://habr.com/ru/company/southbridge/blog/431122/)
+2. [:scroll: \[eng\] Grafana project](https://grafana.com/oss/grafana/)
+3. [:scroll: \[eng\] Grafana Operator packaged by Bitnami](https://github.com/bitnami/bitnami-docker-grafana-operator)
+
+# Networks
+## OSI/TCP/IP
+1. [:scroll: \[eng\] The OSI Model](https://subscription.packtpub.com/book/networking_and_servers/9781904811657/1/ch01lvl1sec05/the-osi-model)
+2. [:scroll: \[eng\] The TCP/IP Model](https://subscription.packtpub.com/book/networking_and_servers/9781904811657/1/ch01lvl1sec06/the-tcp-ip-model)
+
+## BGP
+1. [:scroll: \[eng\] What is BGP? | BGP routing explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
+2. [:scroll: \[eng\] BGP (Border Gateway Protocol)](https://www.techtarget.com/searchnetworking/definition/BGP-Border-Gateway-Protocol)
+
+## HTTPS
+### TLS certificates
+1. [:scroll: \[eng\] Configuring custom SSL/TLS certificates](https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/15/html/director_installation_and_usage/configuring-custom-ssl-tls-certificates)
+
+### ACME 
+1. [:scroll: \[rus\] The ACME protocol has been approved as an IETF standard](https://habr.com/ru/company/1cloud/blog/444986/)
+2. [:scroll: \[eng\] ACME Protocol: What it is and how it works](https://www.thesslstore.com/blog/acme-protocol-what-it-is-and-how-it-works/)
+3. [:scroll: \[eng\] How It Works](https://letsencrypt.org/how-it-works/)
+
+## TCP
+1. [:scroll: \[rus\] TCP/IP for Beginners](https://selectel.ru/blog/tcp-ip-for-beginners/)
+2. [:scroll: \[eng\] Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+3. [:scroll: \[eng\] Linux in the Network](https://www.novell.com/documentation/suse91/suselinux-adminguide/html/ch14.html)
+
+## VXLAN
+1. [:film_strip: \[eng\] VxLAN | Issues with traditional vlan | VXLAN benifits explained | free ccna 200-301](https://youtu.be/F1Vq8YwxCXU)
+2. [:scroll: \[eng\] Virtual Extensible LAN](https://en.wikipedia.org/wiki/Virtual_Extensible_LAN)
+3. [:scroll: \[eng\] VXLAN Virtual eXtensible Local Area Network](https://hechao.li/2017/11/23/vxlan/)
+4. [:film_strip: \[eng\] VxLAN | Part 1 - How VxLAN Works](https://youtu.be/YNqKDI_bnPM)
+
+## REST API
+1. [:film_strip: \[eng\] REST API explained by Mosh](https://www.youtube.com/watch?v=SLwpqD8n3d0)
+2. [:film_strip: \[eng\] Autogenerating Swagger Documentation with Node & Express](https://www.youtube.com/watch?v=apouPYPh_as)
+3. [:film_strip: \[rus\] REST API testing via Postman](https://www.youtube.com/watch?v=ZpxjS8ZB0MA)
+
+## GraphQL
+1. [:scroll: \[eng\] Introduction to GraphQL by Udara Bibile](https://medium.com/@chathuranga94/introduction-to-graphql-3e0142879aba)
+2. [:scroll: \[eng\] GraphQL With Python Flask by Manish Jain](https://medium.com/@hatemtayeb2/hello-graphql-a-practical-guide-a2f7f9f70ab4)
+3. [:scroll: \[eng\] Schema-First GraphQL: The Road Less Travelled by Jakub Draganek](https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff)
+
+# CI/CD
+## CI/CD Tools
+### GitHub Actions
+1. [:film_strip: \[eng\] Github Actions Review And Tutorial](https://youtu.be/eZcAvTb0rbA)
 
 ### Jenkins
 1. [:scroll: \[eng\] Jenkins Pipeline Tutorial](https://medium.com/edureka/jenkins-pipeline-tutorial-continuous-delivery-75a86936bc92)
@@ -542,15 +704,26 @@ A curated list of awesome software engineering resources.
 3. [:film_strip: \[rus\] Jenkins Video Course in Russian](https://www.youtube.com/playlist?list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm)
 4. [:scroll: \[eng\] Jenkins CheatSheet](https://medium.com/edureka/jenkins-cheat-sheet-e0f7e25558a3)
 5. [:scroll: \[eng\] Jenkins Interview Questions](https://medium.com/edureka/jenkins-interview-questions-7bb54bc8c679)
+6. [:scroll: \[eng\] jenkins.io - User handbook](https://www.jenkins.io/doc/book/getting-started/)
+7. [:film_strip: \[end\] CI CD Pipeline Using Jenkins](https://www.youtube.com/watch?v=m0a2CzgLNsc)
 
-## Networks
-### REST API
-1. [:film_strip: \[eng\] REST API explained by Mosh](https://www.youtube.com/watch?v=SLwpqD8n3d0)
-2. [:film_strip: \[eng\] Autogenerating Swagger Documentation with Node & Express](https://www.youtube.com/watch?v=apouPYPh_as)
-3. [:film_strip: \[rus\] REST API testing via Postman](https://www.youtube.com/watch?v=ZpxjS8ZB0MA)
+### ArgoCd
+1. [:film_strip: \[eng\] Argo CD - Applying GitOps Principles To Manage A Production Environment In Kubernetes](https://youtu.be/vpWQeoaiRM4)
+2. [:film_strip: \[eng\] Environments Based On Pull Requests (PRs): Using Argo CD To Apply GitOps Principles On Previews](https://youtu.be/cpAaI8p4R60)
+3. [:film_strip: \[eng\] Koncrete - GitOps As A Service With Argo CD](https://youtu.be/F2EdxLMQsCw)
+4. [:film_strip: \[eng\] GitOps Without Pipelines With ArgoCD Image Updater](https://youtu.be/avPUQin9kzU)
 
-### GraphQL
-1. [:scroll: \[eng\] Introduction to GraphQL by Udara Bibile](https://medium.com/@chathuranga94/introduction-to-graphql-3e0142879aba)
-2. [:scroll: \[eng\] GraphQL With Python Flask by Manish Jain](https://medium.com/@hatemtayeb2/hello-graphql-a-practical-guide-a2f7f9f70ab4)
-3. [:scroll: \[eng\] Schema-First GraphQL: The Road Less Travelled by Jakub Draganek](https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff)
+### Argo Workflows
+1. [:film_strip: \[eng\] Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
+2. [:film_strip: \[eng\] Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
+3. [:film_strip: \[eng\] Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
 
+# Microservices
+## Devspace
+1. [:scroll: \[eng\] What is DevSpace?](https://devspace.sh/cli/docs/introduction)
+2. [:scroll: \[eng\] Onboarding Guide](https://devspace.sh/cli/docs/guides/basics)
+3. [:scroll: \[eng\] Image Building](https://devspace.sh/cli/docs/configuration/images/basics)
+4. [:scroll: \[eng\] Deployments](https://devspace.sh/cli/docs/configuration/deployments/basics)
+5. [:scroll: \[eng\] Development Mode](https://devspace.sh/cli/docs/configuration/development/basics)
+6. [:scroll: \[eng\] Config Variables](https://devspace.sh/cli/docs/configuration/variables/basics)
+7. [:scroll: \[eng\] Config Profiles](https://devspace.sh/cli/docs/configuration/profiles/basics)
