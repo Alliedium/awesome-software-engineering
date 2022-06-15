@@ -544,6 +544,9 @@ A curated list of awesome software engineering resources.
 2. [:film_strip: \[eng\] You need to learn Ansible RIGHT NOW!! (Linux Automation) by NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs)
 
 # Containers and Container Orchestration
+1. [:scroll: \[eng\] What is a container?](https://docs.docker.com/get-started/#what-is-a-container)
+2. [:film_strip: \[rus\] From Docker to Kubernetes: historical retrospective by unixway. From 10:48](https://youtu.be/18oEvs-ONSw?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&t=648)
+
 ## LXC
 1. [:scroll: \[eng\] What's LXC?](https://linuxcontainers.org/lxc/)
 2. [:scroll: \[rus\] LXC Containers in Linux](https://losst.ru/kontejnery-linux-ustanovka-i-nastrojka-lxc)
@@ -554,11 +557,29 @@ A curated list of awesome software engineering resources.
 ### Basics
 1. [:film_strip: \[rus\] Docker basics](https://www.youtube.com/watch?v=yrmty10Q7NQ)
 2. [:scroll: \[eng\] Docker Interview Questions](https://medium.com/edureka/docker-interview-questions-da0010bedb75)
-3. [:scroll: \[eng\] Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
-4. [:scroll: \[eng\] Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
-5. [:film_strip: \[eng\] Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
+3. [:scroll: \[eng\] Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
+4. [:film_strip: \[eng\] Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
 
-### Advanced
+### Architecture (containerd, CRI-O and runc)
+1. [:scroll: \[eng\] The differences between Docker, containerd, CRI-O and runc](https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci/)
+2. [:scroll: \[rus\] The differences between Docker, containerd, CRI-O and runc](https://habr.com/ru/company/domclick/blog/566224/)
+3. [:scroll: \[eng\] Docker vs containerd vs CRI-O: An In-Depth Comparison](https://phoenixnap.com/kb/docker-vs-containerd-vs-cri-o)
+
+### Distributions (Docker, nerdctl + Rancher Desktop)
+1. [:film_strip: \[eng\] How To Replace Docker With nerdctl And Rancher Desktop](https://youtu.be/evWPib0iNgY)
+
+### How to configure on different platforms
+1. [:scroll: \[eng\] Install Docker Desktop on Windows](https://docs.docker.com/desktop/windows/install/)
+2. [:scroll: \[eng\] Install Docker Desktop on Mac](https://docs.docker.com/desktop/mac/install/)
+3. [:scroll: \[eng\] Install Docker Desktop on Linux](https://docs.docker.com/desktop/linux/install/)
+
+### Sample application
+1. [:scroll: \[eng\] Get the app contents, build image, start container](https://docs.docker.com/get-started/02_our_app/)
+2. [:scroll: \[eng\] Update the application](https://docs.docker.com/get-started/03_updating_app/)
+3. [:scroll: \[eng\] Share the application](https://docs.docker.com/get-started/04_sharing_app/)
+4. [:scroll: \[eng\] Persist data](https://docs.docker.com/get-started/05_persisting_data/)
+
+### Best practices for building containers
 1. [:scroll: \[eng\] Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
 2. [:scroll: \[eng\] Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 3. [:scroll: \[eng\] Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html)
@@ -570,24 +591,33 @@ A curated list of awesome software engineering resources.
 9. [:scroll: \[eng\] Docker ARG vs ENV](https://vsupalov.com/docker-arg-vs-env/#:~:text=ENV%20is%20for%20future%20running,for%20your%20future%20environment%20variables.)
 10. [:scroll: \[rus\] ENTRYPOINT vs CMD: Back to Basics](https://habr.com/ru/company/southbridge/blog/329138/)
 11. [:scroll: \[eng\] docker build with --build-arg with multiple arguments](https://stackoverflow.com/questions/42297387/docker-build-with-build-arg-with-multiple-arguments) 
-12. [:scroll: \[eng\] How to define build-args in docker-compose?](https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose)
-13. [:scroll: \[eng\] Dockerfile reference: FROM](https://docs.docker.com/engine/reference/builder/#from)
-14. [:scroll: \[eng\] Dockerfile reference: ARG](https://docs.docker.com/engine/reference/builder/#arg)
-15. [:scroll: \[eng\] Dockerfile reference: COPY](https://docs.docker.com/engine/reference/builder/#copy)
-16. [:scroll: \[eng\] Dockerfile reference: LABEL](https://docs.docker.com/engine/reference/builder/#label)
-17. [:scroll: \[eng\] Dockerfile reference: USER](https://docs.docker.com/engine/reference/builder/#user)
-18. [:scroll: \[eng\] Dockerfile reference: SHELL](https://docs.docker.com/engine/reference/builder/#shell)
-19. [:scroll: \[eng\] docker build](https://docs.docker.com/engine/reference/commandline/build/)
-20. [:scroll: \[eng\] docker-compose build](https://docs.docker.com/compose/reference/build/)
-21. [:scroll: \[eng\] docker builder prune](https://docs.docker.com/engine/reference/commandline/builder_prune/)
-22. [:scroll: \[eng\] specifying .dockerignore file](https://github.com/moby/moby/issues/12886#issuecomment-306247989)
-23. [:scroll: \[eng\] Specify dockerignore from command line](https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line)
-24. [:scroll: \[eng\] Explore Docker layers using Dive](https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/)
-25. [:scroll: \[eng\] Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache](https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.)
-26. [:scroll: \[eng\] Kompose (translate Docker Compose file into Kubernetes resources)](https://github.com/kubernetes/kompose)
-27. [:scroll: \[eng\] Tag an image for a private repository](https://docs.docker.com/engine/reference/commandline/tag/#tag-an-image-for-a-private-repository)
-28. [:scroll: \[eng\] Comparing Four Hosted Docker Registries](https://www.suse.com/c/rancher_blog/comparing-four-hosted-docker-registries/)
-29. [:scroll: \[eng\] Shipping images with a registry](https://containers.goffinet.org/k8s/shippingimages.html)
+12. [:scroll: \[eng\] specifying .dockerignore file](https://github.com/moby/moby/issues/12886#issuecomment-306247989)
+13. [:scroll: \[eng\] Specify dockerignore from command line](https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line)
+14. [:scroll: \[eng\] Explore Docker layers using Dive](https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/)
+15. [:scroll: \[eng\] Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache](https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.)
+16. [:scroll: \[eng\] Tag an image for a private repository](https://docs.docker.com/engine/reference/commandline/tag/#tag-an-image-for-a-private-repository)
+
+### GPU pass-through
+1. [:scroll: \[eng\] How to Properly Use the GPU within a Docker Container](https://towardsdatascience.com/how-to-properly-use-the-gpu-within-a-docker-container-4c699c78c6d1)
+2. [:scroll: \[eng\] A Dockerfile for training model in PyTorch with GPU](https://github.com/aws/deep-learning-containers/blob/master/pytorch/training/docker/1.8/py3/cu111/Dockerfile.gpu)
+
+### Advanced
+1. [:scroll: \[eng\] Dockerfile reference: FROM](https://docs.docker.com/engine/reference/builder/#from)
+2. [:scroll: \[eng\] Dockerfile reference: ARG](https://docs.docker.com/engine/reference/builder/#arg)
+3. [:scroll: \[eng\] Dockerfile reference: COPY](https://docs.docker.com/engine/reference/builder/#copy)
+4. [:scroll: \[eng\] Dockerfile reference: LABEL](https://docs.docker.com/engine/reference/builder/#label)
+5. [:scroll: \[eng\] Dockerfile reference: USER](https://docs.docker.com/engine/reference/builder/#user)
+6. [:scroll: \[eng\] Dockerfile reference: SHELL](https://docs.docker.com/engine/reference/builder/#shell)
+7. [:scroll: \[eng\] docker build](https://docs.docker.com/engine/reference/commandline/build/)
+8. [:scroll: \[eng\] docker builder prune](https://docs.docker.com/engine/reference/commandline/builder_prune/)
+10. [:scroll: \[eng\] Comparing Four Hosted Docker Registries](https://www.suse.com/c/rancher_blog/comparing-four-hosted-docker-registries/)
+11. [:scroll: \[eng\] Shipping images with a registry](https://containers.goffinet.org/k8s/shippingimages.html)
+
+## Docker compose
+1. [:scroll: \[eng\] Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
+2. [:scroll: \[eng\] docker-compose build](https://docs.docker.com/compose/reference/build/)
+3. [:scroll: \[eng\] How to define build-args in docker-compose?](https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose)
+4. [:scroll: \[eng\] Kompose (translate Docker Compose file into Kubernetes resources)](https://github.com/kubernetes/kompose)
 
 
 # Kubernetes 
