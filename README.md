@@ -544,6 +544,9 @@ A curated list of awesome software engineering resources.
 2. [:film_strip: \[eng\] You need to learn Ansible RIGHT NOW!! (Linux Automation) by NetworkChuck](https://www.youtube.com/watch?v=5hycyr-8EKs)
 
 # Containers and Container Orchestration
+1. [:scroll: \[eng\] What is a container?](https://docs.docker.com/get-started/#what-is-a-container)
+2. [:film_strip: \[rus\] From Docker to Kubernetes: historical retrospective by unixway. From 10:48](https://youtu.be/18oEvs-ONSw?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&t=648)
+
 ## LXC
 1. [:scroll: \[eng\] What's LXC?](https://linuxcontainers.org/lxc/)
 2. [:scroll: \[rus\] LXC Containers in Linux](https://losst.ru/kontejnery-linux-ustanovka-i-nastrojka-lxc)
@@ -554,11 +557,29 @@ A curated list of awesome software engineering resources.
 ### Basics
 1. [:film_strip: \[rus\] Docker basics](https://www.youtube.com/watch?v=yrmty10Q7NQ)
 2. [:scroll: \[eng\] Docker Interview Questions](https://medium.com/edureka/docker-interview-questions-da0010bedb75)
-3. [:scroll: \[eng\] Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
-4. [:scroll: \[eng\] Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
-5. [:film_strip: \[eng\] Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
+3. [:scroll: \[eng\] Docker Exercises by Bregman Arie](https://github.com/bregman-arie/devops-exercises#docker)
+4. [:film_strip: \[eng\] Portainer - Lightweight Management UI for Docker](https://www.youtube.com/watch?v=8q9k1qzXRk4) 
 
-### Advanced
+### Architecture (containerd, CRI-O and runc)
+1. [:scroll: \[eng\] The differences between Docker, containerd, CRI-O and runc](https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci/)
+2. [:scroll: \[rus\] The differences between Docker, containerd, CRI-O and runc](https://habr.com/ru/company/domclick/blog/566224/)
+3. [:scroll: \[eng\] Docker vs containerd vs CRI-O: An In-Depth Comparison](https://phoenixnap.com/kb/docker-vs-containerd-vs-cri-o)
+
+### Distributions (Docker, nerdctl + Rancher Desktop)
+1. [:film_strip: \[eng\] How To Replace Docker With nerdctl And Rancher Desktop](https://youtu.be/evWPib0iNgY)
+
+### How to configure on different platforms
+1. [:scroll: \[eng\] Install Docker Desktop on Windows](https://docs.docker.com/desktop/windows/install/)
+2. [:scroll: \[eng\] Install Docker Desktop on Mac](https://docs.docker.com/desktop/mac/install/)
+3. [:scroll: \[eng\] Install Docker Desktop on Linux](https://docs.docker.com/desktop/linux/install/)
+
+### Sample application
+1. [:scroll: \[eng\] Get the app contents, build image, start container](https://docs.docker.com/get-started/02_our_app/)
+2. [:scroll: \[eng\] Update the application](https://docs.docker.com/get-started/03_updating_app/)
+3. [:scroll: \[eng\] Share the application](https://docs.docker.com/get-started/04_sharing_app/)
+4. [:scroll: \[eng\] Persist data](https://docs.docker.com/get-started/05_persisting_data/)
+
+### Best practices for building containers
 1. [:scroll: \[eng\] Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
 2. [:scroll: \[eng\] Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 3. [:scroll: \[eng\] Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html)
@@ -570,24 +591,33 @@ A curated list of awesome software engineering resources.
 9. [:scroll: \[eng\] Docker ARG vs ENV](https://vsupalov.com/docker-arg-vs-env/#:~:text=ENV%20is%20for%20future%20running,for%20your%20future%20environment%20variables.)
 10. [:scroll: \[rus\] ENTRYPOINT vs CMD: Back to Basics](https://habr.com/ru/company/southbridge/blog/329138/)
 11. [:scroll: \[eng\] docker build with --build-arg with multiple arguments](https://stackoverflow.com/questions/42297387/docker-build-with-build-arg-with-multiple-arguments) 
-12. [:scroll: \[eng\] How to define build-args in docker-compose?](https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose)
-13. [:scroll: \[eng\] Dockerfile reference: FROM](https://docs.docker.com/engine/reference/builder/#from)
-14. [:scroll: \[eng\] Dockerfile reference: ARG](https://docs.docker.com/engine/reference/builder/#arg)
-15. [:scroll: \[eng\] Dockerfile reference: COPY](https://docs.docker.com/engine/reference/builder/#copy)
-16. [:scroll: \[eng\] Dockerfile reference: LABEL](https://docs.docker.com/engine/reference/builder/#label)
-17. [:scroll: \[eng\] Dockerfile reference: USER](https://docs.docker.com/engine/reference/builder/#user)
-18. [:scroll: \[eng\] Dockerfile reference: SHELL](https://docs.docker.com/engine/reference/builder/#shell)
-19. [:scroll: \[eng\] docker build](https://docs.docker.com/engine/reference/commandline/build/)
-20. [:scroll: \[eng\] docker-compose build](https://docs.docker.com/compose/reference/build/)
-21. [:scroll: \[eng\] docker builder prune](https://docs.docker.com/engine/reference/commandline/builder_prune/)
-22. [:scroll: \[eng\] specifying .dockerignore file](https://github.com/moby/moby/issues/12886#issuecomment-306247989)
-23. [:scroll: \[eng\] Specify dockerignore from command line](https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line)
-24. [:scroll: \[eng\] Explore Docker layers using Dive](https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/)
-25. [:scroll: \[eng\] Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache](https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.)
-26. [:scroll: \[eng\] Kompose (translate Docker Compose file into Kubernetes resources)](https://github.com/kubernetes/kompose)
-27. [:scroll: \[eng\] Tag an image for a private repository](https://docs.docker.com/engine/reference/commandline/tag/#tag-an-image-for-a-private-repository)
-28. [:scroll: \[eng\] Comparing Four Hosted Docker Registries](https://www.suse.com/c/rancher_blog/comparing-four-hosted-docker-registries/)
-29. [:scroll: \[eng\] Shipping images with a registry](https://containers.goffinet.org/k8s/shippingimages.html)
+12. [:scroll: \[eng\] specifying .dockerignore file](https://github.com/moby/moby/issues/12886#issuecomment-306247989)
+13. [:scroll: \[eng\] Specify dockerignore from command line](https://stackoverflow.com/questions/50547489/specify-dockerignore-from-command-line)
+14. [:scroll: \[eng\] Explore Docker layers using Dive](https://www.upnxtblog.com/index.php/2020/04/27/explore-docker-layers-using-dive/)
+15. [:scroll: \[eng\] Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache](https://www.freecodecamp.org/news/docker-cache-tutorial/#:~:text=Docker's%20build%2Dcache%20is%20a,rebuilding%20from%20a%20certain%20step.)
+16. [:scroll: \[eng\] Tag an image for a private repository](https://docs.docker.com/engine/reference/commandline/tag/#tag-an-image-for-a-private-repository)
+
+### GPU pass-through
+1. [:scroll: \[eng\] How to Properly Use the GPU within a Docker Container](https://towardsdatascience.com/how-to-properly-use-the-gpu-within-a-docker-container-4c699c78c6d1)
+2. [:scroll: \[eng\] A Dockerfile for training model in PyTorch with GPU](https://github.com/aws/deep-learning-containers/blob/master/pytorch/training/docker/1.8/py3/cu111/Dockerfile.gpu)
+
+### Advanced
+1. [:scroll: \[eng\] Dockerfile reference: FROM](https://docs.docker.com/engine/reference/builder/#from)
+2. [:scroll: \[eng\] Dockerfile reference: ARG](https://docs.docker.com/engine/reference/builder/#arg)
+3. [:scroll: \[eng\] Dockerfile reference: COPY](https://docs.docker.com/engine/reference/builder/#copy)
+4. [:scroll: \[eng\] Dockerfile reference: LABEL](https://docs.docker.com/engine/reference/builder/#label)
+5. [:scroll: \[eng\] Dockerfile reference: USER](https://docs.docker.com/engine/reference/builder/#user)
+6. [:scroll: \[eng\] Dockerfile reference: SHELL](https://docs.docker.com/engine/reference/builder/#shell)
+7. [:scroll: \[eng\] docker build](https://docs.docker.com/engine/reference/commandline/build/)
+8. [:scroll: \[eng\] docker builder prune](https://docs.docker.com/engine/reference/commandline/builder_prune/)
+10. [:scroll: \[eng\] Comparing Four Hosted Docker Registries](https://www.suse.com/c/rancher_blog/comparing-four-hosted-docker-registries/)
+11. [:scroll: \[eng\] Shipping images with a registry](https://containers.goffinet.org/k8s/shippingimages.html)
+
+## Docker compose
+1. [:scroll: \[eng\] Docker Compose Tutorial](https://medium.com/edureka/docker-compose-containerizing-mean-stack-application-e4516a3c8c89)
+2. [:scroll: \[eng\] docker-compose build](https://docs.docker.com/compose/reference/build/)
+3. [:scroll: \[eng\] How to define build-args in docker-compose?](https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose)
+4. [:scroll: \[eng\] Kompose (translate Docker Compose file into Kubernetes resources)](https://github.com/kubernetes/kompose)
 
 
 # Kubernetes 
@@ -607,19 +637,28 @@ A curated list of awesome software engineering resources.
 1. [:scroll: \[eng\] Kubernetes Essential Tools: 2021](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
 2. [:scroll: \[rus\] Kubernetes Essential Tools: 2021](https://habr.com/ru/company/jugru/blog/575408/)
 
+### kubectl
+1. [:film_strip: \[rus\] Intro to Kubernetes, Part 2 by unixway](https://youtu.be/yeVQj7GuKkE?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+
 ### Lens
 1. [:film_strip: \[eng\] DOT. Lens - Kubernetes IDE and Dashboard](https://youtu.be/q_ooC1xcGCg)
 
 ## Kubernetes Objects
-1. [:scroll: \[eng\] Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
-2. [:scroll: \[rus\] Kubernetes: ClusterIP vs NodePort vs LoadBalancer, Services and Ingress – survey, examlpes](https://rtfm.co.ua/kubernetes-clusterip-vs-nodeport-vs-loadbalancer-services-i-ingress-obzor-primery/)
-3. [:scroll: \[eng\] Publishing Services (ServiceTypes)](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
-4. [:scroll: \[eng\] Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
-5. [:scroll: \[eng\] Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
-6. [:scroll: \[eng\] K8s: Deployments vs StatefulSets vs DaemonSets ](https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4)
+1. [:film_strip: \[rus\] Intro to Kubernetes, Part 2 by unixway. From 05:04](https://youtu.be/yeVQj7GuKkE?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&t=304)
+2. [:film_strip: \[rus\] Intro to Kubernetes, Part 3 by unixway](https://youtu.be/igx0WPgkyWo?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+3. [:scroll: \[eng\] Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+4. [:scroll: \[rus\] Kubernetes: ClusterIP vs NodePort vs LoadBalancer, Services and Ingress – survey, examlpes](https://rtfm.co.ua/kubernetes-clusterip-vs-nodeport-vs-loadbalancer-services-i-ingress-obzor-primery/)
+5. [:scroll: \[eng\] Publishing Services (ServiceTypes)](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
+6. [:scroll: \[eng\] Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+7. [:scroll: \[eng\] Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+8. [:scroll: \[eng\] K8s: Deployments vs StatefulSets vs DaemonSets](https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4)
 
 ## Ingress
 1. [:scroll: \[eng\] NGINX Ingress Controller. Installation Guide](https://kubernetes.github.io/ingress-nginx/deploy/)
+2. [:film_strip: \[rus\] Intro to Kubernetes, Part 4 by unixway. From 29:16](https://youtu.be/YQ24hZyG4YI?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&t=1756)
+
+## Applying manifests
+1. [:film_strip: \[rus\] Intro to Kubernetes, Part 3 by unixway. From 05:51](https://youtu.be/igx0WPgkyWo?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&t=351)
 
 ## Kubernetes Operators
 1. [:film_strip: \[rus\] What are Kubernetes Operators?](https://youtu.be/iVTW99Lubhw?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
@@ -630,6 +669,9 @@ A curated list of awesome software engineering resources.
 
 ### Longhorn
 1. [:scroll: \[eng\] Install Longhorn on Kubernetes](https://longhorn.io/docs/1.2.3/deploy/install/)
+
+### Running a database in k8s as an example
+1. [:film_strip: \[rus\] Intro to Kubernetes, Part 5 by unixway](https://youtu.be/2W7j93Vy0YQ?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
 
 ## Kubernetes manifest parameterization
 ### Kustomize
@@ -694,11 +736,16 @@ A curated list of awesome software engineering resources.
 3. [:scroll: \[eng\] Schema-First GraphQL: The Road Less Travelled by Jakub Draganek](https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff)
 
 # CI/CD
-## CI/CD Tools
-### GitHub Actions
+## GitHub
+1. [:film_strip: \[eng\] GitHub CLI - How to manage repositories more efficiently](https://youtu.be/BII6ZY2Rnlc)
+
+## GitHub Actions
 1. [:film_strip: \[eng\] Github Actions Review And Tutorial](https://youtu.be/eZcAvTb0rbA)
 
-### Jenkins
+## GitLab
+1. [:film_strip: \[eng\] GitLab CI CD Tutorial for Beginners \[Crash Course\]](https://youtu.be/qP8kir2GUgo)
+
+## Jenkins
 1. [:scroll: \[eng\] Jenkins Pipeline Tutorial](https://medium.com/edureka/jenkins-pipeline-tutorial-continuous-delivery-75a86936bc92)
 2. [:scroll: \[eng\] Continuous Integration with Jenkins](https://medium.com/edureka/continuous-integration-615325cfeeac)
 3. [:film_strip: \[rus\] Jenkins Video Course in Russian](https://www.youtube.com/playlist?list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm)
@@ -707,13 +754,13 @@ A curated list of awesome software engineering resources.
 6. [:scroll: \[eng\] jenkins.io - User handbook](https://www.jenkins.io/doc/book/getting-started/)
 7. [:film_strip: \[end\] CI CD Pipeline Using Jenkins](https://www.youtube.com/watch?v=m0a2CzgLNsc)
 
-### ArgoCd
+## ArgoCd
 1. [:film_strip: \[eng\] Argo CD - Applying GitOps Principles To Manage A Production Environment In Kubernetes](https://youtu.be/vpWQeoaiRM4)
 2. [:film_strip: \[eng\] Environments Based On Pull Requests (PRs): Using Argo CD To Apply GitOps Principles On Previews](https://youtu.be/cpAaI8p4R60)
 3. [:film_strip: \[eng\] Koncrete - GitOps As A Service With Argo CD](https://youtu.be/F2EdxLMQsCw)
 4. [:film_strip: \[eng\] GitOps Without Pipelines With ArgoCD Image Updater](https://youtu.be/avPUQin9kzU)
 
-### Argo Workflows
+## Argo Workflows
 1. [:film_strip: \[eng\] Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
 2. [:film_strip: \[eng\] Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
 3. [:film_strip: \[eng\] Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
