@@ -607,19 +607,28 @@ A curated list of awesome software engineering resources.
 1. [:scroll: \[eng\] Kubernetes Essential Tools: 2021](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
 2. [:scroll: \[rus\] Kubernetes Essential Tools: 2021](https://habr.com/ru/company/jugru/blog/575408/)
 
+### kubectl
+1. [:film_strip: \[rus\] Intro to Kubernetes, Part 2 by unixway](https://youtu.be/yeVQj7GuKkE?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+
 ### Lens
 1. [:film_strip: \[eng\] DOT. Lens - Kubernetes IDE and Dashboard](https://youtu.be/q_ooC1xcGCg)
 
 ## Kubernetes Objects
-1. [:scroll: \[eng\] Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
-2. [:scroll: \[rus\] Kubernetes: ClusterIP vs NodePort vs LoadBalancer, Services and Ingress – survey, examlpes](https://rtfm.co.ua/kubernetes-clusterip-vs-nodeport-vs-loadbalancer-services-i-ingress-obzor-primery/)
-3. [:scroll: \[eng\] Publishing Services (ServiceTypes)](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
-4. [:scroll: \[eng\] Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
-5. [:scroll: \[eng\] Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
-6. [:scroll: \[eng\] K8s: Deployments vs StatefulSets vs DaemonSets ](https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4)
+1. [:film_strip: \[rus\] Intro to Kubernetes, Part 2 by unixway. From 05:04](https://youtu.be/yeVQj7GuKkE?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&t=304)
+2. [:film_strip: \[rus\] Intro to Kubernetes, Part 3 by unixway](https://youtu.be/igx0WPgkyWo?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+3. [:scroll: \[eng\] Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+4. [:scroll: \[rus\] Kubernetes: ClusterIP vs NodePort vs LoadBalancer, Services and Ingress – survey, examlpes](https://rtfm.co.ua/kubernetes-clusterip-vs-nodeport-vs-loadbalancer-services-i-ingress-obzor-primery/)
+5. [:scroll: \[eng\] Publishing Services (ServiceTypes)](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
+6. [:scroll: \[eng\] Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+7. [:scroll: \[eng\] Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+8. [:scroll: \[eng\] K8s: Deployments vs StatefulSets vs DaemonSets](https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4)
 
 ## Ingress
 1. [:scroll: \[eng\] NGINX Ingress Controller. Installation Guide](https://kubernetes.github.io/ingress-nginx/deploy/)
+2. [:film_strip: \[rus\] Intro to Kubernetes, Part 4 by unixway. From 29:16](https://youtu.be/YQ24hZyG4YI?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&t=1756)
+
+## Applying manifests
+1. [:film_strip: \[rus\] Intro to Kubernetes, Part 3 by unixway. From 05:51](https://youtu.be/igx0WPgkyWo?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&t=351)
 
 ## Kubernetes Operators
 1. [:film_strip: \[rus\] What are Kubernetes Operators?](https://youtu.be/iVTW99Lubhw?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
@@ -630,6 +639,9 @@ A curated list of awesome software engineering resources.
 
 ### Longhorn
 1. [:scroll: \[eng\] Install Longhorn on Kubernetes](https://longhorn.io/docs/1.2.3/deploy/install/)
+
+### Running a database in k8s as an example
+1. [:film_strip: \[rus\] Intro to Kubernetes, Part 5 by unixway](https://youtu.be/2W7j93Vy0YQ?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
 
 ## Kubernetes manifest parameterization
 ### Kustomize
@@ -694,11 +706,16 @@ A curated list of awesome software engineering resources.
 3. [:scroll: \[eng\] Schema-First GraphQL: The Road Less Travelled by Jakub Draganek](https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff)
 
 # CI/CD
-## CI/CD Tools
-### GitHub Actions
+## GitHub
+1. [:film_strip: \[eng\] GitHub CLI - How to manage repositories more efficiently](https://youtu.be/BII6ZY2Rnlc)
+
+## GitHub Actions
 1. [:film_strip: \[eng\] Github Actions Review And Tutorial](https://youtu.be/eZcAvTb0rbA)
 
-### Jenkins
+## GitLab
+1. [:film_strip: \[eng\] GitLab CI CD Tutorial for Beginners \[Crash Course\]](https://youtu.be/qP8kir2GUgo)
+
+## Jenkins
 1. [:scroll: \[eng\] Jenkins Pipeline Tutorial](https://medium.com/edureka/jenkins-pipeline-tutorial-continuous-delivery-75a86936bc92)
 2. [:scroll: \[eng\] Continuous Integration with Jenkins](https://medium.com/edureka/continuous-integration-615325cfeeac)
 3. [:film_strip: \[rus\] Jenkins Video Course in Russian](https://www.youtube.com/playlist?list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm)
@@ -707,13 +724,13 @@ A curated list of awesome software engineering resources.
 6. [:scroll: \[eng\] jenkins.io - User handbook](https://www.jenkins.io/doc/book/getting-started/)
 7. [:film_strip: \[end\] CI CD Pipeline Using Jenkins](https://www.youtube.com/watch?v=m0a2CzgLNsc)
 
-### ArgoCd
+## ArgoCd
 1. [:film_strip: \[eng\] Argo CD - Applying GitOps Principles To Manage A Production Environment In Kubernetes](https://youtu.be/vpWQeoaiRM4)
 2. [:film_strip: \[eng\] Environments Based On Pull Requests (PRs): Using Argo CD To Apply GitOps Principles On Previews](https://youtu.be/cpAaI8p4R60)
 3. [:film_strip: \[eng\] Koncrete - GitOps As A Service With Argo CD](https://youtu.be/F2EdxLMQsCw)
 4. [:film_strip: \[eng\] GitOps Without Pipelines With ArgoCD Image Updater](https://youtu.be/avPUQin9kzU)
 
-### Argo Workflows
+## Argo Workflows
 1. [:film_strip: \[eng\] Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
 2. [:film_strip: \[eng\] Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
 3. [:film_strip: \[eng\] Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
