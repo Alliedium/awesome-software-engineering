@@ -157,23 +157,29 @@ A curated list of awesome software engineering resources.
 ### Linux Distributions
 1. [:film_strip: \[eng\] Which Linux Distribution? | Understanding Linux Distros by Chris Titus](https://www.youtube.com/watch?v=DKFnqAtEOvc)
 2. [:film_strip: \[eng\] How to Choose a Linux Distribution by Chris Titus](https://www.youtube.com/watch?v=iox7fr7p5Hc)
-3. [:film_strip: \[eng\] GNU/Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/8/8c/Linux_Distribution_Timeline_Dec._2020.svg)
+3. [:scroll: \[eng\] GNU/Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/8/8c/Linux_Distribution_Timeline_Dec._2020.svg)
 4. [:film_strip: \[eng\] Debian vs Arch by Chris Titus](https://www.youtube.com/watch?v=gtdYBc3p5Kw)
 5. [:film_strip: \[eng\] Why Ubuntu is the Devil and Why So Many No Longer Use It by Chris Titus](https://www.youtube.com/watch?v=L7uL50zVZJA)
 
 ### Command line
 1. [:film_strip: \[eng\] 15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 1](https://www.youtube.com/watch?v=XK81cfvrElg)
 2. [:film_strip: \[eng\] 15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 2](https://www.youtube.com/watch?v=kVlkgiwiY6w)
-3. [:film_strip: \[eng\] Bash tutorial](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
-4. [:scroll: \[eng\] zsh+OhMyZsh+fzf+powerlevel10k: Your terminal can be much, MUCH more productive by Ivan](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
-5. [:scroll: \[eng\] fzf: Why you should be using fzf, the command line fuzzy finder by Alexey Samoshkin](https://medium.com/free-code-camp/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
-6. [:scroll: \[eng\] How to Create Users in Linux (useradd Command)](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/)
-7. [:scroll: \[eng\] How to Linux sh command](https://www.computerhope.com/unix/ush.htm)
-8. [:scroll: \[eng\] How to sh(1) - Linux man page](https://linux.die.net/man/1/sh)
+
+#### Bash
+1. [:film_strip: \[eng\] Bash tutorial](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
+
+#### Sh
+1. [:scroll: \[eng\] How to Linux sh command](https://www.computerhope.com/unix/ush.htm)
+2. [:scroll: \[eng\] How to sh(1) - Linux man page](https://linux.die.net/man/1/sh)
+
+#### zsh+OhMyZsh+fzf+powerlevel10k
+1. [:scroll: \[eng\] zsh+OhMyZsh+fzf+powerlevel10k: Your terminal can be much, MUCH more productive by Ivan](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
+2. [:scroll: \[eng\] fzf: Why you should be using fzf, the command line fuzzy finder by Alexey Samoshkin](https://medium.com/free-code-camp/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
 
 ### User Access Permissions
-1. [:scroll: \[eng\] Users and groups](https://wiki.archlinux.org/title/users_and_groups)
-2. [:scroll: \[eng\] Access Control Lists](https://wiki.archlinux.org/title/Access_Control_Lists)
+1. [:scroll: \[eng\] How to Create Users in Linux (useradd Command)](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/)
+2. [:scroll: \[eng\] Users and groups](https://wiki.archlinux.org/title/users_and_groups)
+3. [:scroll: \[eng\] Access Control Lists](https://wiki.archlinux.org/title/Access_Control_Lists)
 
 ### Fish
 1. [:scroll: \[eng\] fish Tutorial](https://fishshell.com/docs/current/tutorial.html)
@@ -212,7 +218,7 @@ A curated list of awesome software engineering resources.
 1. [:film_strip: \[rus\] LVM: Theory and practice by unixway](https://www.youtube.com/watch?v=QgUZrLcmJT8)
 
 ### SSH 
-1. [:film_strip: \[rus\] OpenSSH basics](https://www.youtube.com/watch?v=ZzIF43ZeQrc)
+1. [:film_strip: \[rus\] OpenSSH basics by unixway](https://www.youtube.com/watch?v=ZzIF43ZeQrc)
 2. [:film_strip: \[eng\] SSH config basics](https://www.youtube.com/watch?v=gZx9yCbQg50)
 
 ### Linux Filesystems
