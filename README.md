@@ -781,6 +781,31 @@ A curated list of awesome software engineering resources.
 2. [:film_strip: \[eng\] Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
 3. [:film_strip: \[eng\] Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
 
+# Cloud
+## Infrastructure as Code
+### Crossplane
+1. [:film_strip: \[eng\] What Is Kubernetes (k8s)? Kubernetes Explained](https://www.youtube.com/watch?v=WxuvwSPSgXA)
+2. [:film_strip: \[eng\] Crossplane - GitOps-based Infrastructure as Code through Kubernetes API](https://www.youtube.com/watch?v=n8KjVmuHm7A)
+3. [:film_strip: \[eng\] How To Apply GitOps To Everything - Combining Argo CD And Crossplane](https://www.youtube.com/watch?v=yrj4lmScKHQ)
+4. [:scroll: \[eng\] Crossplane Documentation. Overview](https://crossplane.io/docs/v1.8/)
+5. [:scroll: \[eng\] Crossplane Documentation. Install & Configure](https://crossplane.io/docs/v1.8/getting-started/install-configure.html)
+6. [:scroll: \[eng\] Crossplane Documentation. Provision Infrastructure](https://crossplane.io/docs/v1.8/getting-started/provision-infrastructure.html)
+7. [:scroll: \[eng\] Crossplane Documentation. Terminology](https://crossplane.io/docs/v1.8/concepts/terminology.html)
+8. [:scroll: \[eng\] Crossplane project on GitHub](https://github.com/crossplane/crossplane)
+9. [:scroll: \[eng\] provider-aws: Crossplane infrastructure provider for Amazon Web Services](https://github.com/crossplane-contrib/provider-aws)
+10. [:scroll: \[eng\] provider-aws Documentation](https://doc.crds.dev/github.com/crossplane/provider-aws)
+11. [:scroll: \[eng\] What is the AWS CDK? - AWS Cloud Development Kit (CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+12. [:scroll: \[eng\] CRD is just a table in Kubernetes](https://itnext.io/crd-is-just-a-table-in-kubernetes-13e15367bbe4)
+13. [:scroll: \[rus\] CRD is just a table in Kubernetes](https://habr.com/ru/company/vk/blog/515138/)
+14. [:scroll: \[eng\] Kubernetes Custom Resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+15. [:scroll: \[eng\] provider-aws Custom Resource Definitions](https://github.com/crossplane-contrib/provider-aws/tree/master/package/crds)
+16. [:scroll: \[eng\] LocalStack](https://localstack.cloud/)
+17. [:scroll: \[eng\] LocalStack Documentation. AWS Service Feature Coverage](https://docs.localstack.cloud/aws/feature-coverage/)
+18. [:scroll: \[rus\] GitOps approach, its pros and cons](https://habr.com/ru/company/flant/blog/526102/)
+19. [:scroll: \[eng\] Environment variables to configure the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
+20. [:scroll: \[eng\] AWS Reference Platform for Kubernetes + Data Services](https://github.com/upbound/platform-ref-aws)
+21. [:scroll: \[eng\] LocalStack AWS CLI](https://github.com/localstack/awscli-local)
+
 # Microservices
 ## Devspace
 1. [:scroll: \[eng\] What is DevSpace?](https://devspace.sh/cli/docs/introduction)
