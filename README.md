@@ -10,11 +10,11 @@ A curated list of awesome software engineering resources.
 |[🔍 Fundamentals](#fundamentals) |[🌀 Common Mistakes](#common-mistakes) | [🎁 Code Review](#code-review)|
 |[⚔  Data Structures and Algos](#data-structures-and-algos) |[💰 Common principles](#common-principles) | [:loop: Design Patterns](#design-patterns)|
 |[:bath:  Clean Code](#clean-code) |[:flashlight: Clean Architecture](#clean-architecture) | [:wrench: Refactoring](#refactoring)|
-|[🔏 UML & noUML](#uml--nouml) | [📜 Software Development Methodologies](#software-development-methodologies)|[:mortar_board:OOP](#oop)|
-|[🏁 Debugging](#debugging)|[💪 Testing](#testing)|[🤖 IDEs](#ides)|
-| [🧵 Security](#security) | [🏷️ Programming Languages](#programming-languages) |[🗞️ Databases](#databases) |
-| [📡 Java](#java)| [🗺️ Python](#python) | [📥 JavaScript](#javascript) |
-| [:snail: Rust](#rust)| [:microscope: Julia](#julia) |  |
+|[🧪 Science](#science) |[🔏 UML & noUML](#uml--nouml) | [📜 Software Development Methodologies](#software-development-methodologies)|
+|[:mortar_board:OOP](#oop) |[🏁 Debugging](#debugging)|[💪 Testing](#testing)|
+|[🤖 IDEs](#ides)| [🧵 Security](#security) | [🏷️ Programming Languages](#programming-languages)|
+|[🗞️ Databases](#databases) | [📡 Java](#java)| [🗺️ Python](#python) |
+|[📥 JavaScript](#javascript) |[:snail: Rust](#rust)| [:microscope: Julia](#julia) |
 
 | | | | |
 |-|-|-|-|
@@ -106,6 +106,9 @@ A curated list of awesome software engineering resources.
 2. [:film_strip: \[rus\] Refactoring lectures by FoxMinded](https://www.youtube.com/playlist?list=PLmqFxxywkatR5zj5M4WdUyyKyLoJSZZrQ)
 3. [:scroll: \[eng\] The Art of Refactoring: 5 Tips to Write Better Code](https://medium.com/better-programming/the-art-of-refactoring-5-tips-to-write-better-code-3bc1f6f7689)
 4. [:scroll: \[eng\] Code Refactoring Best Practices: When (and When Not) to Do It](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/)
+
+### Science
+1. [:scroll: \[eng\] Software Engineering Research Methods: A curated collection of literature for philosophy of science and research methodologies with a focus on software engineering](https://xjreb.github.io/swe-research-methods/)
 
 ## UML & noUML
 
