@@ -92,6 +92,7 @@ A curated list of awesome software engineering resources.
 4. [:film_strip: \[rus\] Design patterns (full)](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
 5. [:scroll: \[eng\] Java Design Patterns - online catalog](https://java-design-patterns.com/patterns/observer/)
 6. [:scroll: \[eng\] The Builder pattern vs Java syntax](https://bsideup.github.io/posts/builders_vs_java/)
+7. [:scroll: \[eng\] Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns#awesome-software-and-architectural-design-patterns)
 
 ### Clean Architecture
 1. :book: Clean Architecture, A Craftsman's Guide to Software Structure And Design, Robert C. Martin
